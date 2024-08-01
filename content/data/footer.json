@@ -61,6 +61,13 @@
     },
     "socialLinks": [
         {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/drsamratthapa/",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "GitHub link",
             "url": "https://github.com/netlify",
             "icon": "github",
