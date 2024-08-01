@@ -744,7 +744,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Samrat Thapa
+  metaTitle: Dr. Samrat Thapa
   metaDescription: >-
     I am a professor at the University of Lynchburg with over 10 years of
     teaching experience in the United States. My 20 years of experience as a
