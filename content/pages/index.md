@@ -102,10 +102,10 @@ sections:
               borderRadius: x-large
       - title: Workshops
         subtitle: Registration
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          These in-person workshops in Nepal will prepare students for
+          Academics, University life, immigration and more in USA . Students
+          receive certificate after completion of workshops. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
