@@ -198,7 +198,7 @@ sections:
         altText: U at Buffalo
         type: ImageBlock
       - url: /images/Rose-Hulman.jpg
-        altText: Rose-Hulman
+        altText: Harvard University
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
