@@ -185,7 +185,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - url: /images/logo-harvard.png
-        altText: Contentful logo
+        altText: Harvard University
         type: ImageBlock
       - url: /images/Augustana.jpg
         altText: Sanity logo
