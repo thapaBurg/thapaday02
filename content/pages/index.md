@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Dr. Thapa
+      label: Visitors
       color: text-primary
       type: Badge
     elementId: ''
