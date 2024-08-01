@@ -81,7 +81,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:drsamratthapa@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
