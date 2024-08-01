@@ -172,7 +172,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/Randolph College.jpg
+      - url: /images/UTexas.jpg
         altText: Randolph College
         type: ImageBlock
       - url: /images/University of Lynchburg.jpg
