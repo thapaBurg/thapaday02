@@ -137,8 +137,9 @@ sections:
         type: FeaturedItem
       - title: Useful Tips
         subtitle: For students in USA
-        text: |
-          How to open a Bank account, get drivers license, pay taxes and more 
+        text: >
+          When you reach USA, you will have many questions such as:  How to open
+          a Bank account, get drivers license,  SIM card, pay taxes and more
         image:
           url: /images/icon3.svg
           altText: Featured icon three
