@@ -178,7 +178,7 @@ sections:
       - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/logo-harvard.png
+      - url: /images/large_harvard.png
         altText: Harvard University
         type: ImageBlock
       - url: /images/Luther College.jpg
