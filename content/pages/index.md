@@ -137,10 +137,8 @@ sections:
         type: FeaturedItem
       - title: Useful Tips
         subtitle: For students in USA
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          How to open a Bank account, get drivers license, pay taxes and more 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
