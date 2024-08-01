@@ -187,7 +187,7 @@ sections:
       - url: /images/logo-harvard.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Augustana.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
