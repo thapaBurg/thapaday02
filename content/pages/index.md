@@ -175,7 +175,7 @@ sections:
       - url: /images/Randolph College.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
