@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: My Workshop students have gone to following Universities
     images:
       - url: /images/University of Lynchburg.jpg
         altText: Lynchburg
