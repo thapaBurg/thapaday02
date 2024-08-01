@@ -172,9 +172,6 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/UTexas.jpg
-        altText: U Texas
-        type: ImageBlock
       - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
         type: ImageBlock
@@ -189,6 +186,9 @@ sections:
         type: ImageBlock
       - url: /images/Rose-Hulman.jpg
         altText: Rose-Hulman
+        type: ImageBlock
+      - url: /images/UTexas.jpg
+        altText: U Texas
         type: ImageBlock
       - url: /images/U at Buffalo.png
         altText: U at Buffalo
