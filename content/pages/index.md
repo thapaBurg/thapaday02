@@ -179,7 +179,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - url: /images/Luther College.jpg
-        altText: Vise logo
+        altText: Luther College
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
