@@ -188,7 +188,7 @@ sections:
         altText: 'U of  Wisconsin '
         type: ImageBlock
       - url: /images/Rose-Hulman.jpg
-        altText: Sanity logo
+        altText: Rose-Hulman
         type: ImageBlock
       - url: /images/U at Buffalo.png
         altText: U at Buffalo
