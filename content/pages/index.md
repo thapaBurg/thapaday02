@@ -10,8 +10,9 @@ sections:
     subtitle: ''
     text: >
       Dr. Samrat Thapa is a professor at the University of Lynchburg. If you
-      interested in studying in USA, and achieving success in academics,
-      university life, career and immigration, you are on the right website.  
+      interested in applying to American universities, and achieving success in
+      admissions, academics, university life, career and immigration, you are on
+      the right website.
     actions:
       - label: Get started
         altText: ''
