@@ -7,7 +7,7 @@ sections:
       text: Welcome
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Dr. Samrat Thapa is a professor at the University of Lynchburg. If you
       interested in studying in USA, and achieving success in academics,
