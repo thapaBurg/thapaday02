@@ -412,7 +412,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What students have said about my workshops
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
