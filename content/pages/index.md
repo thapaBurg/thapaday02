@@ -173,7 +173,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/Randolph College.jpg
-        altText: Empathy logo
+        altText: Randolph College
         type: ImageBlock
       - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
