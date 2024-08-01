@@ -415,8 +415,9 @@ sections:
     subtitle: What students have said about my workshops
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I recently had the incredible opportunity to participate in Dr.
+          Samrat Thapa's workshop, and I cannot recommend it highly enough for
+          any incoming freshmen.”
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >-
