@@ -181,7 +181,7 @@ sections:
       - url: /images/Luther College.jpg
         altText: Luther College
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/U of  Wisconsin.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/logo-harvard.png
