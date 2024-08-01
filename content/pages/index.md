@@ -424,7 +424,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/logo-harvard.png
+          url: /images/large_harvard.png
           altText: Maria Walters
           styles:
             self:
