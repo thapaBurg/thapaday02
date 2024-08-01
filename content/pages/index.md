@@ -193,11 +193,11 @@ sections:
       - url: /images/UTexas.jpg
         altText: U Texas
         type: ImageBlock
-      - url: /images/U at Buffalo.png
-        altText: U at Buffalo
-        type: ImageBlock
       - url: /images/large_harvard.png
         altText: Harvard University
+        type: ImageBlock
+      - url: /images/U at Buffalo.png
+        altText: U at Buffalo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
