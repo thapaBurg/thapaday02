@@ -197,7 +197,7 @@ sections:
       - url: /images/U at Buffalo.png
         altText: U at Buffalo
         type: ImageBlock
-      - url: /images/Rose-Hulman.jpg
+      - url: /images/large_harvard.png
         altText: Harvard University
         type: ImageBlock
     motion: move-to-left
