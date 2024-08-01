@@ -420,10 +420,12 @@ sections:
           any incoming freshmen.”
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "This workshop was not just informative but also deeply reassuring.
+          Dr. Thapa's genuine care and commitment to helping students succeed
+          were evident in every session. I feel more prepared and excited about
+          my future at Harvard, and I owe a significant part of that confidence
+          to Dr. Thapa's guidance."
         image:
           url: /images/large_harvard.png
           altText: Maria Walters
