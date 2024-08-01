@@ -190,7 +190,7 @@ sections:
       - url: /images/Augustana.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/Lyon College.jpg
+      - url: /images/U at Buffalo.png
         altText: Lyon College
         type: ImageBlock
     motion: move-to-left
