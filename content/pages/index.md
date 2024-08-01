@@ -173,7 +173,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/UTexas.jpg
-        altText: Randolph College
+        altText: U Texas
         type: ImageBlock
       - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
