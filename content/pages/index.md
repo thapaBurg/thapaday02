@@ -178,7 +178,7 @@ sections:
       - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Luther College.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
