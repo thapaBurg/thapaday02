@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Samrat Thapa
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Business Card.jpg
   type: Seo
 type: PageLayout
 ---
