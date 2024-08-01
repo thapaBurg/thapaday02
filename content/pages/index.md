@@ -190,7 +190,7 @@ sections:
       - url: /images/Augustana.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/Lyon College.jpg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
