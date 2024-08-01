@@ -191,7 +191,7 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - url: /images/U at Buffalo.png
-        altText: Lyon College
+        altText: U at Buffalo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
