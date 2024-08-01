@@ -178,14 +178,14 @@ sections:
       - url: /images/University of Lynchburg.jpg
         altText: Wellster logo
         type: ImageBlock
+      - url: /images/logo-harvard.png
+        altText: Harvard University
+        type: ImageBlock
       - url: /images/Luther College.jpg
         altText: Luther College
         type: ImageBlock
       - url: /images/U of  Wisconsin.jpg
         altText: 'U of  Wisconsin '
-        type: ImageBlock
-      - url: /images/logo-harvard.png
-        altText: Harvard University
         type: ImageBlock
       - url: /images/Augustana.jpg
         altText: Sanity logo
