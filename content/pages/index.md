@@ -188,8 +188,7 @@ sections:
       - url: /images/Luther College.jpg
         altText: Luther College
         type: ImageBlock
-      - url: /images/U of  Wisconsin.jpg
-        altText: 'U of  Wisconsin '
+      - altText: 'U of  Wisconsin '
         type: ImageBlock
       - url: /images/UTexas.jpg
         altText: U Texas
