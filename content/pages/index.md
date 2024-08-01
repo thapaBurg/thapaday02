@@ -191,7 +191,7 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - url: /images/Lyon College.jpg
-        altText: Rangle logo
+        altText: Lyon College
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
