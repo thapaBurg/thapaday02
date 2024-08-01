@@ -184,7 +184,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/02b U Lynchburg logo 2c stack.png
+      - url: /images/logo-harvard.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
