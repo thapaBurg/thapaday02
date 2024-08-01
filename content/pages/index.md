@@ -182,7 +182,7 @@ sections:
         altText: Luther College
         type: ImageBlock
       - url: /images/U of  Wisconsin.jpg
-        altText: Telus logo
+        altText: 'U of  Wisconsin '
         type: ImageBlock
       - url: /images/logo-harvard.png
         altText: Harvard University
