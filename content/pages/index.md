@@ -173,7 +173,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/University of Lynchburg.jpg
-        altText: Wellster logo
+        altText: Lynchburg
         type: ImageBlock
       - url: /images/large_harvard.png
         altText: Harvard University
