@@ -187,7 +187,7 @@ sections:
       - url: /images/U of  Wisconsin.jpg
         altText: 'U of  Wisconsin '
         type: ImageBlock
-      - url: /images/Augustana.jpg
+      - url: /images/Rose-Hulman.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/U at Buffalo.png
