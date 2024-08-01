@@ -66,10 +66,9 @@ sections:
       - type: FeaturedItem
         title: Apply
         subtitle: University of Lynchburg
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Applying to University of Lynchburg is easy and Free. Click the link
+          below to and follow my instructions.  
         actions:
           - type: Button
             label: Get started
