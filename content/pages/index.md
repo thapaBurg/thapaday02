@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I am a professor at the University of Lynchburg with over 10 years of
+      teaching experience in the United States. My 20 years of experience as a
+      student and professor in the United States make me one of the most
+      qualified people you will meet to advise you on University admissions and
+      how to succeed in the United States.
     actions:
       - label: Get started
         altText: ''
