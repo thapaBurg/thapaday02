@@ -4,14 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to my site
+      text: Welcome
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Dr. Samrat Thapa is a professor at the University of Lynchburg with over
+      10 years of teaching experience in the United States. His 20 years of
+      experience as a student and professor in the United States make him one of
+      the most qualified people you will meet to advise you on University
+      admissions and how to succeed in the United States.
     actions:
       - label: Get started
         altText: ''
@@ -32,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Business Card.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -53,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Make your selection
       color: text-dark
       styles:
         self:
@@ -62,13 +64,21 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        title: Apply to USA
+        subtitle: University of Lynchburg
+        text: >
+          Applying to University of Lynchburg is easy and Free. Click the link
+          below to and follow my instructions.  
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /lynchburg.edu
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -90,18 +100,28 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Workshops
+        subtitle: Registration
+        text: >
+          These in-person workshops in Nepal will prepare students for
+          Academics, University life, immigration and more in USA . Students
+          receive certificate after completion of workshops. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -115,12 +135,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Useful Tips
+        subtitle: For students in USA
+        text: >
+          When you reach USA, you will have many questions such as:  How to open
+          a Bank account, get drivers license,  SIM card, pay taxes and more
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -138,16 +157,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: This is a badge
       color: text-primary
@@ -168,28 +178,28 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: My students have gone to following Universities
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/University of Lynchburg.jpg
+        altText: Lynchburg
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/large_harvard.png
+        altText: Harvard University
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/Luther College.jpg
+        altText: Luther College
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: /images/U of  Wisconsin.jpg
+        altText: 'U of  Wisconsin '
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: /images/UTexas.jpg
+        altText: U Texas
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - url: /images/U at Buffalo.png
+        altText: U at Buffalo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/Rose-Hulman.jpg
+        altText: Rose-Hulman
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -402,19 +412,19 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What students have said about my workshops
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I recently had the incredible opportunity to participate in Dr.
+          Samrat Thapa's workshop, and I cannot recommend it highly enough for
+          any incoming freshmen.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'Aaditya Subedi, Harvard University 2028'
+        text: >
+          "I feel more prepared and excited about my future at Harvard, and I
+          owe a significant part of that confidence to Dr. Thapa's guidance."
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/large_harvard.png
           altText: Maria Walters
           styles:
             self:

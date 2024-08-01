@@ -61,10 +61,11 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/drsamratthapa/",
+            "icon": "instagram",
+            "elementId": ""
         },
         {
             "altText": "Twitter link",
@@ -74,13 +75,13 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/drsamratthapa/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:drsamratthapa@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
