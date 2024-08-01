@@ -187,11 +187,11 @@ sections:
       - url: /images/UTexas.jpg
         altText: U Texas
         type: ImageBlock
-      - url: /images/Rose-Hulman.jpg
-        altText: Rose-Hulman
-        type: ImageBlock
       - url: /images/U at Buffalo.png
         altText: U at Buffalo
+        type: ImageBlock
+      - url: /images/Rose-Hulman.jpg
+        altText: Rose-Hulman
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
