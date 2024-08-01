@@ -745,7 +745,12 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Samrat Thapa
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    I am a professor at the University of Lynchburg with over 10 years of
+    teaching experience in the United States. My 20 years of experience as a
+    student and professor in the United States make me one of the most qualified
+    people you will meet to advise you on University admissions and how to
+    succeed in the United States.
   socialImage: /images/Business Card.jpg
   type: Seo
 type: PageLayout
