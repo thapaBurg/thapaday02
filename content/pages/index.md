@@ -34,7 +34,7 @@ sections:
         type: Link
     media:
       url: /images/Business Card.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Dr. Thapa's Business Card
       elementId: ''
       type: ImageBlock
     badge:
