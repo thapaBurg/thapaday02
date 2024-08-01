@@ -178,7 +178,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: My Workshop students have gone to following Universities
+  - subtitle: My students have gone to following Universities
     images:
       - url: /images/University of Lynchburg.jpg
         altText: Lynchburg
