@@ -566,6 +566,30 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Internship and Study Abroad
+      color: text-dark
+    subtitle: ''
+    text: >
+      High School and University Students, if you are interested in Internships
+      and Study abroad opportunities, email me. 
+    actions:
+      - type: Button
+        label: Email
+        url: 'mailto:DrSamratThapa@gmail.com'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/study-abroad.png
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title:
       text: Consulting
       color: text-dark
@@ -598,30 +622,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Internship and Study Abroad
-      color: text-dark
-    subtitle: ''
-    text: >
-      High School and University Students, if you are interested in Internships
-      and Study abroad opportunities, email me. 
-    actions:
-      - type: Button
-        label: Email
-        url: 'mailto:DrSamratThapa@gmail.com'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/study-abroad.png
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
