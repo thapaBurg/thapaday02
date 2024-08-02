@@ -56,7 +56,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Make your selection
+      text: ''
       color: text-dark
       styles:
         self:
