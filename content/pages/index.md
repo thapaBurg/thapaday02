@@ -428,12 +428,12 @@ sections:
     subtitle: Helped students from following High Schools and more
     images:
       - type: ImageBlock
-        url: /images/PREMIER-Logo-01_icon_225x75.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/Ullens_logo_70_percent.png
         altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PREMIER-Logo-01_icon_225x75.png
+        altText: Empathy logo
         elementId: ''
       - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
