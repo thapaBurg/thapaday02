@@ -22,7 +22,7 @@
         },
         {
             "label": "Workshop",
-            "altText": "Blog",
+            "altText": "Workshop",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
