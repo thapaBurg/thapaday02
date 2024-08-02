@@ -432,12 +432,12 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/PREMIER-Logo-01_icon_225x75.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
         altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PREMIER-Logo-01_icon_225x75.png
+        altText: Empathy logo
         elementId: ''
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
