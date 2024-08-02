@@ -125,7 +125,7 @@ sections:
           One on One private sessions with a student.  Five Workshop sessions.
           Each workshop will cover different topic. 
         features:
-          - Feature one
+          - Tailored for you session
           - Feature two
           - Feature three
           - Feature four
