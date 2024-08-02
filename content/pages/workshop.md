@@ -96,6 +96,7 @@ sections:
           - Evidence based writing
           - Internships and jobs
           - Navigating USA immigration
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
