@@ -331,10 +331,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "I appreciate your guidance, support that provided us before coming to
-          the US. Your encouragement is positively influencing my academic
-          journey."
+      - title: ''
         tagline: Testimonial 5
         subtitle: University of Lynchburg Student
         text: ''
