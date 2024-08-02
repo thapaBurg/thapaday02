@@ -373,7 +373,7 @@ sections:
       type: TitleBlock
       text: Prestigious Universities
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       If you want to get admitted to prestigious universities (Harvard, Yale,
       Cornell etc.) we provide advice and guidance. Only for students ages 16 or
