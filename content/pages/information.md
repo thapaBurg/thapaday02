@@ -64,7 +64,7 @@ sections:
           - type: Button
             label: Read more
             altText: ''
-            url: /SocialSecurity
+            url: /blog/SocialSecurity
             showIcon: false
             icon: arrowRight
             iconPosition: right
