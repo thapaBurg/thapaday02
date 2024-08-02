@@ -2,11 +2,7 @@
 type: PostLayout
 title: Banking
 date: '2024-07-09'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/20240709_114837.jpg
