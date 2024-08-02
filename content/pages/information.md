@@ -98,7 +98,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /DriversLicence
+            url: /Blog/DriversLicence
             showIcon: false
             icon: arrowRight
             iconPosition: right
