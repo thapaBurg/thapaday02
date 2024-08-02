@@ -217,7 +217,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/luther_logo_45_percent.png
-        altText: Rangle logo
+        altText: Luther
         elementId: ''
     elementId: ''
     motion: static
