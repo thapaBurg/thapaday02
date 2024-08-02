@@ -520,7 +520,6 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/drsamratthapa_qr_resized.png
       altText: Fun feature preview
       type: ImageBlock
       elementId: Instagram
