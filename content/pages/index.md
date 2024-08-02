@@ -610,7 +610,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
         style: secondary
