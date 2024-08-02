@@ -1,5 +1,5 @@
 ---
-title: 'Edu USA Fair, China'
+title: 'Edu USA Fair 2024 SP, China'
 slug: case-study-2
 date: '2024-05-25'
 excerpt: >-
