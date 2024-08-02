@@ -93,7 +93,7 @@ topSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Essay Tips
     text: >+
       You need to write an essay on why you are interested in University of
       Lynchburg (minimum 200 words). You could write about following things: 1)
