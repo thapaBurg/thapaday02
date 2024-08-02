@@ -272,7 +272,7 @@ sections:
           life. In such a short period of time you have helped me in so many
           different ways. Thank you for making us feel like home here."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: University of Lynchburg Student
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
