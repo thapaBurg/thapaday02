@@ -436,6 +436,10 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
+        url: /images/RBS logo.png
+        altText: Rangle logo
+        elementId: ''
+      - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
         altText: Empathy logo
         elementId: ''
@@ -446,10 +450,6 @@ sections:
       - type: ImageBlock
         url: /images/nami_logo_60_percent.png
         altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/RBS logo.png
-        altText: Rangle logo
         elementId: ''
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
