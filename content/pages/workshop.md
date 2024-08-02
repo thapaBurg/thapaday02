@@ -86,7 +86,7 @@ sections:
         type: PricingPlan
       - title: Group Sessions
         price: 'NPR 10,000'
-        details: per month
+        details: ''
         description: >
           Workshops 2-6 are paid sessions in group. Each workshop will cover
           different topic. 2000 per session. 
