@@ -68,7 +68,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/VA_Drivers_Licence_resized.jpg
+          url: /images/VA Drivers Licence.jpg
           altText: Placeholder text
           styles:
             self:
