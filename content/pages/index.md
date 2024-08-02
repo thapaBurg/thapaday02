@@ -193,7 +193,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/logo_harvard_25_percent.png
-        altText: Empathy logo
+        altText: Harvard
         elementId: ''
       - type: ImageBlock
         url: /images/texas_seal_18_percent.png
