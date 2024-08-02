@@ -138,7 +138,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
         style: primary
