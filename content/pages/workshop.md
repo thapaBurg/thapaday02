@@ -61,7 +61,7 @@ sections:
         features:
           - Overview of Academics in USA
           - Credit Hours
-          - Feature three
+          - Scheduling
           - Feature four
         image:
           url: /images/abstract-feature1.svg
