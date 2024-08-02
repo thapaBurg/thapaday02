@@ -308,11 +308,7 @@ topSections:
         self:
           textAlign: left
     subtitle: Congrats!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "NOC: It is a No Objection Certificate (NOC) granted by Government of Nepal for the Nepalese student to study aboard. You can\_**apply online**\_<[Link](https://noc.moest.gov.np/)>\n\nDocuments Required: Citizenship Certificate • Academic Transcript • Letter of Acceptance, I-20 • Passport-size photographs\n"
     actions: []
     media:
       type: VideoBlock
