@@ -50,7 +50,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 2: Step by step application'
+      text: "Video 2: Lynchburg\_ application guide"
       color: text-dark
       styles:
         self:
