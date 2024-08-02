@@ -7,17 +7,16 @@ sections:
       text: Welcome
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
-      Dr. Samrat Thapa is a professor at the University of Lynchburg with over
-      10 years of teaching experience in the United States. His 20 years of
-      experience as a student and professor in the United States make him one of
-      the most qualified people you will meet to advise you on University
-      admissions and how to succeed in the United States.
+      Dr. Samrat Thapa is a professor at the University of Lynchburg. If you
+      interested in applying to American universities, and achieving success in
+      admissions, academics, university life, career and immigration, you are on
+      the right website.
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -35,11 +34,11 @@ sections:
         type: Link
     media:
       url: /images/Business Card.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Dr. Thapa's Business Card
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Visitors
       color: text-primary
       type: Badge
     elementId: ''
@@ -73,7 +72,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /lynchburg.edu
+            url: /blog
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -145,7 +144,16 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /careers
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -189,17 +197,16 @@ sections:
       - url: /images/Luther College.jpg
         altText: Luther College
         type: ImageBlock
-      - url: /images/U of  Wisconsin.jpg
-        altText: 'U of  Wisconsin '
+      - altText: 'U of  Wisconsin '
         type: ImageBlock
       - url: /images/UTexas.jpg
         altText: U Texas
         type: ImageBlock
+      - url: /images/large_harvard.png
+        altText: Harvard University
+        type: ImageBlock
       - url: /images/U at Buffalo.png
         altText: U at Buffalo
-        type: ImageBlock
-      - url: /images/Rose-Hulman.jpg
-        altText: Rose-Hulman
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -209,210 +216,9 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What students have said about my workshops
+    subtitle: Feedback from students
     items:
       - title: >-
           “I recently had the incredible opportunity to participate in Dr.
@@ -444,17 +250,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: "\"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_\""
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Augustana Student
+        text: |
+          "The kids that are not showing up are certainly missing out."
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Augustana.jpg
           altText: John Doe
           styles:
             self:
@@ -475,16 +277,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Thank you for your guidance and support in this new journey of my
+          life. In such a short period of time you have helped me in so many
+          different ways. Thank you for making us feel like home here."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: University of Lynchburg Student
+        text: "\"I am always grateful to you for the things that you have\_taught me\"\n"
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
           styles:
             self:
@@ -504,17 +304,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: |-
+          "for being more than a professor, a guardian, and a presence of 
+          belongingness. I feel blessed to have your connection and support."
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: University of Lynchburg Student
+        text: |
+          "Thank you for being a valuable part of my academic journey."
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
           styles:
             self:
@@ -535,16 +333,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "I appreciate your guidance, support that provided us before coming to
+          the US. Your encouragement is positively influencing my academic
+          journey."
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: University of Lynchburg Student
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
           styles:
             self:
@@ -552,36 +348,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -602,108 +368,242 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
+      text: Prestigious Universities
+      color: text-dark
+    subtitle: ''
+    text: >
+      If you want to get admitted to prestigious universities (Harvard, Yale,
+      Cornell etc.) we provide advice and guidance. Only for students ages 16 or
+      under. 
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/Cornell.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Admissions
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
           - pt-16
-          - pl-8
+          - pl-16
           - pb-16
-          - pr-8
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+  - type: ImageGallerySection
+    subtitle: Dr. Thapa has helped students from following and more
+    images:
+      - type: ImageBlock
+        url: /images/st_xaviers_college_logo_13_percent.png
+        altText: St Xaviers College
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Ullens_logo_30_percent.png
+        altText: Ullens School
+        elementId: ''
+      - type: ImageBlock
+        url: /images/kaasthamandap_logo_25_percent.png
+        altText: Kaasthamandap
+        elementId: ''
+      - type: ImageBlock
+        url: /images/rbs_logo_70_percent.png
+        altText: RBS
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PREMIER-Logo-01_icon_225x75.png
+        altText: Premier
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lincoln_school_logo_15_percent.png
+        altText: Lincoln
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gems_logo_5_percent.png
+        altText: GEMS School
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
+  - type: GenericSection
+    title:
+      text: Interview
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: Dr. Thapa's Interview
+    text: |
+      Want to learn more about University of Lynchburg? Watch this video.
+    actions: []
+    media:
+      title: Title of the video
+      url: 'https://youtu.be/QBQrHdmVdIE?si=l-1UNg54qo18sXFM'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title:
-      text: Generic Section With A Form
+      text: Instagram
+      color: text-dark
+      type: TitleBlock
+    subtitle: Increase your reach
+    text: |
+      Follow me on [Instagram](https://www.instagram.com/drsamratthapa/)
+    actions:
+      - label: Instagram
+        url: 'https://www.instagram.com/drsamratthapa/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/drsamratthapa_qr_resized.png
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
+  - title:
+      text: Consulting
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >
+      Dr. Thapa has over a decade of experience US higher education. He is the
+      Director of Asia Initiatives at University of Lynchburg. He is a regular
+      speaker at Education USA/USEF locations across Asia. He provides services
+      to Universities, High Schools and more. Email DrSamratThapa\@gmail.com.   
+    actions:
+      - label: Get started
+        url: 'mailto:DrSamratThapa@gmail.com'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/Penang Malaysia.jpg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
+  - title:
+      text: Contact Information
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Contact Information\n\n<DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\n1501 Lakeside Dr\n\nLynchburg,\_VA\_24501 USA\n"
     media:
       fields:
         - name: name

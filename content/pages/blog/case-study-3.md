@@ -1,15 +1,14 @@
 ---
-title: Case study 3
+title: Kasthamandap School Graduation
 slug: case-study-3
-date: '2021-11-18'
+date: '2024-07-20'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/IMG-20240720-WA0000.jpg
   altText: Case study 3
   styles:
     self:

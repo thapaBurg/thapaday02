@@ -1,14 +1,14 @@
 ---
-title: Case study 1
+title: USEF India
 slug: case-study-1
-date: '2022-01-05'
+date: '2024-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/20240709_114837.jpg
   altText: Case study 1
   styles:
     self:
