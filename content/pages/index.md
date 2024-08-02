@@ -31,10 +31,6 @@ sections:
       altText: Dr. Thapa's Business Card
       elementId: ''
       type: ImageBlock
-    badge:
-      label: Visitors
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
