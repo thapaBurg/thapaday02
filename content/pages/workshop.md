@@ -1,6 +1,6 @@
 ---
 title: Workshop
-slug: pricing
+slug: Workshop
 sections:
   - title:
       text: Flexible Pricing
