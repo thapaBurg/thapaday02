@@ -439,7 +439,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: static
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         margin:
