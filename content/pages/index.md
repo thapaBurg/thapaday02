@@ -110,7 +110,7 @@ sections:
           immigration and more in USA . Students receive certificate after
           completion of workshops.
         image:
-          url: /images/Workshops_by_Dr_Thapa.png
+          url: /images/workshops by Thapa.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -246,7 +246,7 @@ sections:
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >+
-          #### "I recently had the incredible opportunity to participate in Dr.
+          ##### "I recently had the incredible opportunity to participate in Dr.
           Samrat Thapa's workshop, and I cannot recommend it highly enough for
           any incoming freshmen. I feel more prepared and excited about my
           future at Harvard, and I owe a significant part of that confidence to
@@ -276,7 +276,7 @@ sections:
       - title: ''
         tagline: Testimonial 2
         subtitle: Augustana Student
-        text: "### \"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_The kids that are not showing up are certainly missing out.\"\n\n"
+        text: "##### \"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_The kids that are not showing up are certainly missing out.\"\n\n"
         image:
           url: /images/Augustana.jpg
           altText: John Doe
@@ -301,7 +301,7 @@ sections:
       - title: ''
         tagline: Testimonial 3
         subtitle: University of Lynchburg Student
-        text: "#### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
+        text: "##### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
@@ -327,10 +327,9 @@ sections:
         tagline: Testimonial 4
         subtitle: University of Lynchburg Student
         text: >+
-          #### "Thank you for being a valuable part of my academic journey, for
+          ##### "Thank you for being a valuable part of my academic journey, for
           being more than a professor, a guardian, and a presence of
           belongingness. I feel blessed to have your connection and support."
-
 
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
@@ -357,10 +356,9 @@ sections:
         tagline: Testimonial 5
         subtitle: University of Lynchburg Student
         text: >+
-          #### "I appreciate your guidance, support that provided us before
+          ##### "I appreciate your guidance, support that provided us before
           coming to the US. Your encouragement is positively influencing my
           academic journey."
-
 
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
@@ -410,7 +408,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/Cornell.png
+      url: /images/cornell_logo_40_percent.png
       altText: Dope design preview
     badge:
       type: Badge
@@ -558,6 +556,7 @@ sections:
       url: /images/drsamratthapa_qr_resized.png
       altText: Fun feature preview
       type: ImageBlock
+      elementId: Instagram
     badge:
       label: ''
       color: text-primary
@@ -579,7 +578,7 @@ sections:
       variety of services to Universities, High Schools and more. Email
       <DrSamratThapa@gmail.com>.
     actions:
-      - label: Get started
+      - label: Email
         url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
@@ -614,50 +613,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "<DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\n\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
+    text: "<DrSamratThapa@gmail.com>                            [Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)                                                          [LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
     badge:
       label: ''
       color: text-primary
