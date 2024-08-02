@@ -241,7 +241,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: "\"It was absolutely wonderful to see you today and talk about college. You helped me realize that I was focusing on the wrong things. I feel a lot more excited about experiencing undergrad in the US now.\_\""
+      - title: "\"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_\""
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
