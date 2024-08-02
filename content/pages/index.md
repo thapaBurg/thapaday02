@@ -375,8 +375,9 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      If you want to get admitted to prestigious universities (Harvard, Yale,
+      Cornell etc.) we provide advice and guidance. Only for students ages 16 or
+      under. 
     actions:
       - type: Button
         label: Get started
