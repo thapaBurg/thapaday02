@@ -66,7 +66,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Apply to USA
+        title: Apply to University
         subtitle: University of Lynchburg
         text: >
           Applying to University of Lynchburg is easy and Free. Click the link
