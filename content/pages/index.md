@@ -197,7 +197,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/texas_seal_18_percent.png
-        altText: Wellster logo
+        altText: Texas
         elementId: ''
       - type: ImageBlock
         url: /images/lynchburg_logo_12_percent.png
