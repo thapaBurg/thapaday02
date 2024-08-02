@@ -601,7 +601,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Internship and Study Abroad
       color: text-dark
     subtitle: Increase your reach
     text: >
