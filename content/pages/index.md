@@ -301,7 +301,7 @@ sections:
       - title: ''
         tagline: Testimonial 3
         subtitle: University of Lynchburg Student
-        text: "#### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
+        text: "##### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
