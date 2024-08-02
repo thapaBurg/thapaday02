@@ -209,7 +209,7 @@ sections:
     type: ImageGallerySection
   - type: CarouselSection
     title: null
-    subtitle: What students have said about my workshops
+    subtitle: Feedback from students
     items:
       - title: >-
           “I recently had the incredible opportunity to participate in Dr.
