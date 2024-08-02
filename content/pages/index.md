@@ -9,12 +9,13 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Dr. Samrat Thapa is a professor at the University of Lynchburg. 
+      Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
+      University of Lynchburg, USA.
 
 
       If you interested in applying to American universities, and achieving
       success in admissions, academics, university life, career and immigration,
-      you are on the right website. Make your selection below. 
+      you are on the right website. Make your selection below.
     actions:
       - label: Get started
         altText: ''
