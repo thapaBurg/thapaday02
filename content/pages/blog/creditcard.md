@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: SIMcard
+title: Credit Card
 date: '2024-07-09'
 excerpt: ''
 bottomSections:
