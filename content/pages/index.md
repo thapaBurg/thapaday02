@@ -325,8 +325,8 @@ sections:
         type: FeaturedItem
       - title: >-
           "I appreciate your guidance, support that provided us before coming to
-          the US. Your encouragement has really kept me motivated and is
-          positively influencing my academic journey."
+          the US. Your encouragement is positively influencing my academic
+          journey."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
