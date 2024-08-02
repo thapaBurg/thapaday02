@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Workshop
 slug: pricing
 sections:
   - title:
