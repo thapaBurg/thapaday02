@@ -437,7 +437,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
-        altText: Empathy logo
+        altText: Premier
         elementId: ''
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
