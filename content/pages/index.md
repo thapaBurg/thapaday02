@@ -609,7 +609,7 @@ sections:
       and Study abroad opportunities, email me. 
     actions:
       - type: Button
-        label: Get started
+        label: Email
         url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
