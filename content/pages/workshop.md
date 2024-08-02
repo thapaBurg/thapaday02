@@ -8,9 +8,9 @@ sections:
       text: Dr. Thapa's Workshop
       color: text-dark
     subtitle: ''
-    text: >+
-      Your will pay over USD $80,000 in USA for education, let Dr. Thapa prepare
-      you to maximize your investment.
+    text: >
+      Your will pay over USD **$80,000** in USA for education, let Dr. Thapa
+      prepare you to maximize your investment.
 
 
       I offer workshops designed to equip international students with the tools
@@ -21,7 +21,6 @@ sections:
       range of topics, and students engage in multiple assignments with
       personalized feedback from me. By the end of the workshops, participants
       will be well-prepared to tackle academic and other challenges confidently.
-
     actions:
       - type: Button
         label: Sign Up
