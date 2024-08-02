@@ -224,8 +224,11 @@ sections:
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >
-          "I feel more prepared and excited about my future at Harvard, and I
-          owe a significant part of that confidence to Dr. Thapa's guidance."
+          "I recently had the incredible opportunity to participate in Dr.
+          Samrat Thapa's workshop, and I cannot recommend it highly enough for
+          any incoming freshmen. I feel more prepared and excited about my
+          future at Harvard, and I owe a significant part of that confidence to
+          Dr. Thapa's guidance."
         image:
           url: /images/Harvard 2.png
           altText: Maria Walters
