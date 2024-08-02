@@ -448,12 +448,12 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/lincoln_school_logo_15_percent.png
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/RBS logo.png
         altText: Rangle logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lincoln_school_logo_15_percent.png
+        altText: Contentful logo
         elementId: ''
     elementId: ''
     motion: static
