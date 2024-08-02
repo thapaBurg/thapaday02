@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Test",
+            "label": "Apply USA",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Workshop",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",

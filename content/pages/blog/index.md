@@ -27,6 +27,7 @@ topSections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
+    actions: []
 styles:
   title:
     textAlign: center
