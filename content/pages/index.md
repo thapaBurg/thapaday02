@@ -213,7 +213,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/sbc_logo_25_percent.png
-        altText: Sanity logo
+        altText: Sweet Briar
         elementId: ''
       - type: ImageBlock
         url: /images/luther_logo_45_percent.png
