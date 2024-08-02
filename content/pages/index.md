@@ -188,7 +188,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Dr. Thapa's students have attended following Universities
+    subtitle: Dr. Thapa's has advised students from following Universities
     images:
       - type: ImageBlock
         url: /images/logo_harvard_25_percent.png
