@@ -445,7 +445,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
-        altText: Telus logo
+        altText: GEMS School
         elementId: ''
       - type: ImageBlock
         url: /images/nami_logo_60_percent.png
