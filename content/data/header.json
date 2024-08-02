@@ -23,7 +23,7 @@
         {
             "label": "Workshop",
             "altText": "Workshop",
-            "url": "/blog",
+            "url": "/Workshop",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
