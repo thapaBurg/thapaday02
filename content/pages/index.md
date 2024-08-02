@@ -534,7 +534,7 @@ sections:
         alignItems: center
         padding:
           - pl-0
-          - pr-40
+          - pr-0
           - pt-0
           - pb-0
         margin:
