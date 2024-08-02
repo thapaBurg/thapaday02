@@ -127,7 +127,7 @@ sections:
         features:
           - Tailored for you session
           - Private session
-          - Feature three
+          - Advising during your first year in USA
           - Feature four
           - Feature five
         image:
