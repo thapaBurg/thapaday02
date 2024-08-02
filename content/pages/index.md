@@ -188,7 +188,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Dr. Thapa's students have attended following Universities
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
