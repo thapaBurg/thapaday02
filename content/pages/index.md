@@ -499,7 +499,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/drsamratthapa_qr (1).png
+      url: /images/drsamratthapa_qr_resized.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
