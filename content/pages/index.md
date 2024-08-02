@@ -104,9 +104,9 @@ sections:
       - title: Workshops
         subtitle: Registration
         text: >
-          These in-person workshops in Nepal will prepare students for
-          Academics, University life, immigration and more in USA . Students
-          receive certificate after completion of workshops. 
+          Dr. Thapa's workshops prepare students for academics, university life,
+          immigration and more in USA . Students receive certificate after
+          completion of workshops.
         image:
           url: /images/Workshops_by_Dr_Thapa.png
           altText: Featured icon two
