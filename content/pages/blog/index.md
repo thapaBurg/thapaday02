@@ -1,6 +1,6 @@
 ---
 title: Apply USA
-slug: /Apply USA
+slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
