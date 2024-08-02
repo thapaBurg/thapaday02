@@ -575,7 +575,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/Penang Malaysia.jpg
+      url: /images/IMG-20240628-WA0006.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
