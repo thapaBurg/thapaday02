@@ -62,7 +62,7 @@ sections:
           - Overview of Academics in USA
           - Credit Hours
           - Scheduling
-          - Feature four
+          - Major courses
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
