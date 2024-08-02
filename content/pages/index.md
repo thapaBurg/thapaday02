@@ -534,6 +534,7 @@ sections:
         alignItems: center
         padding:
           - pl-20
+          - pr-20
     type: GenericSection
   - type: GenericSection
     title:
