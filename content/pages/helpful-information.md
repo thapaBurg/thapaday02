@@ -289,7 +289,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/TravelLYH
+            url: /blog/TravelLYH
             showIcon: false
             icon: arrowRight
             iconPosition: right
