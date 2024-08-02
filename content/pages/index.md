@@ -569,7 +569,7 @@ sections:
       to Universities, High Schools and more. Email DrSamratThapa\@gmail.com.   
     actions:
       - label: Get started
-        url: /
+        url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
         style: secondary
