@@ -448,7 +448,7 @@ sections:
         altText: GEMS School
         elementId: ''
       - type: ImageBlock
-        url: /images/nami_logo_60_percent.png
+        url: /images/st_xaviers_college_logo_25_percent.png
         altText: 'Nami '
         elementId: ''
       - type: ImageBlock
