@@ -59,13 +59,69 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-High School education Mega fair and USIEF pre departure orientation where I was invited as a panelist.
+You must meet the following eligibility requirements:
 
-Topic 1: Academic Life in the United States
+*   **You have a physical U.S. address**
 
-Topic 2: Maintaining Legal Status as an International Student
+*   **You are not a U.S. citizen**
 
-Topic 3: Social and Cultural Life in the United States
+*   **You are not a permanent resident of the U.S.\***
 
-![](/images/IMG-20240628-WA0006.jpg)
+\*Permanent resident: Green card (or permanent resident card) holders who are authorized to live and work in the United States on a permanent basis
 
+
+
+Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide **both **a foreign and U.S. address, as well as two forms of ID and a tax identification number.
+
+*   **Proof of home or permanent residence address**
+    This must include building name or number and street name, city or town, state or province, country.
+
+<!---->
+
+*   **U.S. physical address**
+    Only one of the following documents is needed:
+
+    *   Government-issued ID with photo
+
+    *   Student ID with address and photo
+
+    *   Current utility bill with your name and address
+
+    *   Other (rental agreement, etc.)
+
+You will need two forms of identification – a primary ID and a secondary ID.
+
+*   **Primary ID**
+    Only one of the following documents is needed:
+
+    *   Foreign passport with or without passport visa (with photo)
+
+    *   U.S. Non Immigrant Visa and Border Crossing Card-DSP-150 (with photo)
+
+    *   Mexican, Guatemalan, Dominican, Colombian Consular ID (with photo)
+
+    *   Canadian Citizenship Certificate Card (with photo)
+
+<!---->
+
+*   **Secondary ID**
+    Only one of the following documents is needed:
+
+    *   Foreign driver's license with photo or U.S. driver's license
+
+    *   U.S. student ID validated for current term or school year (with photo)
+
+    *   Debit or major credit card with Visa® or Mastercard® logo
+
+    *   Major retail credit card from a nationally well-known company
+
+    *   U.S. Department of State Diplomat ID
+
+    *   Mexican Voter Registration Card (with photo)
+
+**Foreign Tax Identification Number (FTIN)**
+An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
+
+
+
+https\://about.bankofamerica.com/en/international-student-bank-account
