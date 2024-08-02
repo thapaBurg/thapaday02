@@ -166,7 +166,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /HealthInsurance
+            url: /Blog/HealthInsurance
             showIcon: false
             icon: arrowRight
             iconPosition: right
