@@ -126,7 +126,7 @@ sections:
           Each workshop will cover different topic. 
         features:
           - Tailored for you session
-          - Feature two
+          - Private session
           - Feature three
           - Feature four
           - Feature five
