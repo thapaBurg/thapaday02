@@ -253,7 +253,7 @@ sections:
           Dr. Thapa's guidance."
 
         image:
-          url: /images/Harvard 2.png
+          url: /images/logo_harvard_25_percent.png
           altText: Maria Walters
           styles:
             self:
