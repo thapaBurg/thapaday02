@@ -3,7 +3,7 @@ title: Workshop
 slug: Workshop
 sections:
   - title:
-      text: Flexible Pricing
+      text: Dr. Thapa's Workshop
       color: text-dark
       styles:
         self:
