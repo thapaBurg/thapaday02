@@ -441,7 +441,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/st_xaviers_college_logo_13_percent.png
-        altText: 'Nami '
+        altText: St Xaviers College
         elementId: ''
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
