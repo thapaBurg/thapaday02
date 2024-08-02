@@ -53,7 +53,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: One Session
         price: Free
         details: No credit card required
         description: >-
