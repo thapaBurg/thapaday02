@@ -425,7 +425,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - type: ImageGallerySection
-    subtitle: Helped students from following High Schools and more
+    subtitle: Dr. Thapa has helped students from following and more
     images:
       - type: ImageBlock
         url: /images/Ullens_logo_70_percent.png
