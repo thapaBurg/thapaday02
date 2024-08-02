@@ -445,6 +445,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Recent Events
   - type: ImageGallerySection
     subtitle: Dr. Thapa has helped students from following and more
     images:
