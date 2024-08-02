@@ -217,7 +217,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Helpful Information for students in USA
+slug: Helpful Information
 isDraft: false
 seo:
   type: Seo
