@@ -226,7 +226,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Video 6: Applying for USA visa'
       color: text-dark
       styles:
         self:
