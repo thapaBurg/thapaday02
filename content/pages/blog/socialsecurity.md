@@ -59,69 +59,45 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-You must meet the following eligibility requirements:
-
-*   **You have a physical U.S. address**
-
-*   **You are not a U.S. citizen**
-
-*   **You are not a permanent resident of the U.S.\***
-
-\*Permanent resident: Green card (or permanent resident card) holders who are authorized to live and work in the United States on a permanent basis
+You are required by law to have a Social Security Number (SSN) in order to be paid for work in the US.  Unfortunately SSN’s are
+often used as identification numbers for other kinds of applications, such as credit cards or cell phone accounts. 
 
 
+While having an SSN is convenient, you can **NOT** apply for an SSN unless you have a job offer. If you have received a job offer, follow these steps to
+apply for an SSN.
 
-Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide **both **a foreign and U.S. address, as well as two forms of ID and a tax identification number.
+1\)  Have you been in the US for at least 10 days?   
 
-*   **Proof of home or permanent residence address**
-    This must include building name or number and street name, city or town, state or province, country.
+2\) Is your SEVIS record registered by the international staff?   
 
-<!---->
+3\) Do you have a job offer?
 
-*   **U.S. physical address**
-    Only one of the following documents is needed:
-
-    *   Government-issued ID with photo
-
-    *   Student ID with address and photo
-
-    *   Current utility bill with your name and address
-
-    *   Other (rental agreement, etc.)
-
-You will need two forms of identification – a primary ID and a secondary ID.
-
-*   **Primary ID**
-    Only one of the following documents is needed:
-
-    *   Foreign passport with or without passport visa (with photo)
-
-    *   U.S. Non Immigrant Visa and Border Crossing Card-DSP-150 (with photo)
-
-    *   Mexican, Guatemalan, Dominican, Colombian Consular ID (with photo)
-
-    *   Canadian Citizenship Certificate Card (with photo)
-
-<!---->
-
-*   **Secondary ID**
-    Only one of the following documents is needed:
-
-    *   Foreign driver's license with photo or U.S. driver's license
-
-    *   U.S. student ID validated for current term or school year (with photo)
-
-    *   Debit or major credit card with Visa® or Mastercard® logo
-
-    *   Major retail credit card from a nationally well-known company
-
-    *   U.S. Department of State Diplomat ID
-
-    *   Mexican Voter Registration Card (with photo)
-
-**Foreign Tax Identification Number (FTIN)**
-An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
+If you answered yes to these questions, you are ready to go to the Social Security Administration (SSA) Office to apply for your Social Security Number (SSN).  In order to apply for a social security number (SSN), you will need to visit an office of the SSA in person –
+you cannot apply by mail or online. It will take 2-3 weeks for you to receive your Social Security card in the mail. 
 
 
 
-https\://about.bankofamerica.com/en/international-student-bank-account
+[Address](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+address\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgiEAI): 7618 Timberlake Rd, Lynchburg, VA 24502, United States
+
+[Hours](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+hours\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgjEAI): Open ⋅ 9AM - 4 PM Weekdays
+
+Phone: [+1 800-772-1213](https://www.google.com/search?q=social+security+lynchburg+va\&rlz=1C1KDEC_enUS950US950\&oq=social+security+lynchburg\&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINTcwNmowajSoAgCwAgA\&sourceid=chrome\&ie=UTF-8#)
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
