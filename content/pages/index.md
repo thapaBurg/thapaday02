@@ -72,7 +72,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /lynchburg.edu
+            url: ''
             showIcon: false
             icon: arrowRight
             iconPosition: right
