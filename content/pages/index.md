@@ -97,7 +97,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/world-flag-icons-round-usa-flag-art.jpg
+          url: /images/US-United-States-Flag-icon.png
           styles:
             self:
               borderRadius: x-large
