@@ -59,45 +59,12 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-You are required by law to have a Social Security Number (SSN) in order to be paid for work in the US.  Unfortunately SSN’s are
-often used as identification numbers for other kinds of applications, such as credit cards or cell phone accounts. 
+State ID card
+Virginia State ID cards are a valid form of government-issued identification that can be used to verify your identity. It is recommended for students to have this instead of carrying their official passport.
 
+[Address](https://www.google.com/search?rlz=1C1KDEC_enUS950US950\&sca_esv=9267af3241730e66\&sca_upv=1\&cs=0\&q=virginia+department+of+motor+vehicles+lynchburg+address\&ludocid=9784621816678658661\&sa=X\&ved=2ahUKEwiT-Ny859aHAxW8S2wGHQisBMUQ6BN6BAgOEAI): 3236 Odd Fellows Rd, Lynchburg, VA 24501, United States
 
-While having an SSN is convenient, you can **NOT** apply for an SSN unless you have a job offer. If you have received a job offer, follow these steps to
-apply for an SSN.
+[Hours](https://www.google.com/search?rlz=1C1KDEC_enUS950US950\&sca_esv=9267af3241730e66\&sca_upv=1\&cs=0\&q=virginia+department+of+motor+vehicles+lynchburg+hours\&ludocid=9784621816678658661\&sa=X\&ved=2ahUKEwiT-Ny859aHAxW8S2wGHQisBMUQ6BN6BAgREAI): 9AM ⋅ 5 PM
 
-1\)  Have you been in the US for at least 10 days?   
-
-2\) Is your SEVIS record registered by the international staff?   
-
-3\) Do you have a job offer?
-
-If you answered yes to these questions, you are ready to go to the Social Security Administration (SSA) Office to apply for your Social Security Number (SSN).  In order to apply for a social security number (SSN), you will need to visit an office of the SSA in person –
-you cannot apply by mail or online. It will take 2-3 weeks for you to receive your Social Security card in the mail. 
-
-
-
-[Address](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+address\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgiEAI): 7618 Timberlake Rd, Lynchburg, VA 24502, United States
-
-[Hours](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+hours\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgjEAI): Open ⋅ 9AM - 4 PM Weekdays
-
-Phone: [+1 800-772-1213](https://www.google.com/search?q=social+security+lynchburg+va\&rlz=1C1KDEC_enUS950US950\&oq=social+security+lynchburg\&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINTcwNmowajSoAgCwAgA\&sourceid=chrome\&ie=UTF-8#)
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
+[Phone](https://www.google.com/search?rlz=1C1KDEC_enUS950US950\&sca_esv=9267af3241730e66\&sca_upv=1\&cs=0\&q=virginia+department+of+motor+vehicles+lynchburg+phone\&ludocid=9784621816678658661\&sa=X\&ved=2ahUKEwiT-Ny859aHAxW8S2wGHQisBMUQ6BN6BAgVEAI): [+1 804-497-7100](https://www.google.com/search?q=drivers+license+lynchburg\&sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&ei=DhStZvHxBMW9seMPzIuCWA\&ved=0ahUKEwjxsI-659aHAxXFXmwGHcyFAAsQ4dUDCBA\&uact=5\&oq=drivers+license+lynchburg\&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWRyaXZlcnMgbGljZW5zZSBseW5jaGJ1cmcyBhAAGBYYHjIGEAAYFhgeMgoQABgWGAoYHhgPMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGKIEGIkFMggQABiABBiiBEiMElCfBliNEXAAeAOQAQCYAeMBoAH0CqoBBTAuNy4xuAEDyAEA-AEBmAIKoAKXC8ICBBAAGEfCAgUQABiABMICBxAAGIAEGArCAggQABgWGB4YD5gDAIgGAZAGCJIHBTIuNy4xoAepPQ\&sclient=gws-wiz-serp\&lqi=Chlkcml2ZXJzIGxpY2Vuc2UgbHluY2hidXJnSOnE0eTnlYCACFohEAAQARgCIhlkcml2ZXJzIGxpY2Vuc2UgbHluY2hidXJnkgEcZGVwYXJ0bWVudF9vZl9tb3Rvcl92ZWhpY2xlc5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSbGFHTmllVkozRUFFqgFhCggvbS8wY3cydBABKhMiD2RyaXZlcnMgbGljZW5zZSgAMh8QASIbs92jQwzJYqUaI33M6bJenZUoFesGOWvACCHCMh0QAiIZZHJpdmVycyBsaWNlbnNlIGx5bmNoYnVyZw#)
 
