@@ -432,16 +432,16 @@ sections:
         altText: Ullens School
         elementId: ''
       - type: ImageBlock
+        url: /images/st_xaviers_college_logo_13_percent.png
+        altText: St Xaviers College
+        elementId: ''
+      - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
         altText: Kaasthamandap
         elementId: ''
       - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
         altText: Premier
-        elementId: ''
-      - type: ImageBlock
-        url: /images/st_xaviers_college_logo_13_percent.png
-        altText: St Xaviers College
         elementId: ''
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
