@@ -449,7 +449,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/nami_logo_60_percent.png
-        altText: Sanity logo
+        altText: 'Nami '
         elementId: ''
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
