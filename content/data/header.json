@@ -22,17 +22,17 @@
         },
         {
             "label": "Workshop",
-            "altText": "Blog",
-            "url": "/blog",
+            "altText": "Workshop",
+            "url": "/Workshop",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Helpful Information",
+            "altText": "Helpful Information",
+            "url": "/Helpful Information",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
