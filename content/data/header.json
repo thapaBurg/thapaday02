@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Apply USA",
-            "url": "",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
