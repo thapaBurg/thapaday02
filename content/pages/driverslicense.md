@@ -103,7 +103,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-            elementId: DriversLicense
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
