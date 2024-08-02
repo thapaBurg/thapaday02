@@ -444,7 +444,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/Nami logo.png
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
