@@ -428,12 +428,12 @@ sections:
     subtitle: Dr. Thapa has helped students from following and more
     images:
       - type: ImageBlock
-        url: /images/Ullens_logo_30_percent.png
-        altText: Ullens School
-        elementId: ''
-      - type: ImageBlock
         url: /images/st_xaviers_college_logo_13_percent.png
         altText: St Xaviers College
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Ullens_logo_30_percent.png
+        altText: Ullens School
         elementId: ''
       - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
