@@ -201,7 +201,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/lynchburg_logo_12_percent.png
-        altText: Vise logo
+        altText: Lynchburg
         elementId: ''
       - type: ImageBlock
         url: /images/cornell_logo_40_percent.png
