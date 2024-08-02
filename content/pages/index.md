@@ -440,12 +440,12 @@ sections:
         altText: Kaasthamandap
         elementId: ''
       - type: ImageBlock
-        url: /images/PREMIER-Logo-01_icon_225x75.png
-        altText: Premier
-        elementId: ''
-      - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
         altText: RBS
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PREMIER-Logo-01_icon_225x75.png
+        altText: Premier
         elementId: ''
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
