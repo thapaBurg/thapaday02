@@ -334,7 +334,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
           styles:
             self:
