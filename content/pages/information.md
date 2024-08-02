@@ -62,7 +62,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Read more
             altText: ''
             url: /SocialSecurity
             showIcon: false
