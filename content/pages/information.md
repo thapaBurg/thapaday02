@@ -232,7 +232,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /SIMcard
+            url: /Blog/SIMcard
             showIcon: false
             icon: arrowRight
             iconPosition: right
