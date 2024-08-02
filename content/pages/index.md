@@ -147,7 +147,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Explore
             altText: ''
             url: /careers
             showIcon: false
