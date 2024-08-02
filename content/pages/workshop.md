@@ -86,7 +86,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: 5 Group Sessions
-        price: NPR 15000
+        price: 'NPR 10,000'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
