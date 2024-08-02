@@ -220,10 +220,7 @@ sections:
     title: null
     subtitle: Feedback from students
     items:
-      - title: >-
-          “I recently had the incredible opportunity to participate in Dr.
-          Samrat Thapa's workshop, and I cannot recommend it highly enough for
-          any incoming freshmen.”
+      - title: ''
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >
