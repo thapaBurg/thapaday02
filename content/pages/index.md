@@ -434,6 +434,46 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: GenericSection
+    title:
+      text: Interview
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: Dr. Thapa's Interview
+    text: |
+      Want to learn more about University of Lynchburg, watch this video. 
+    actions: []
+    media:
+      title: Title of the video
+      url: 'https://youtu.be/QBQrHdmVdIE?si=l-1UNg54qo18sXFM'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -482,46 +522,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Interview
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Dr. Thapa's Interview
-    text: |
-      Want to learn more about University of Lynchburg, watch this video. 
-    actions: []
-    media:
-      title: Title of the video
-      url: 'https://youtu.be/QBQrHdmVdIE?si=l-1UNg54qo18sXFM'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Instagram
       color: text-dark
