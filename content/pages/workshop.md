@@ -87,9 +87,9 @@ sections:
       - title: 5 Group Sessions
         price: 'NPR 10,000'
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Workshops 2-6 are paid sessions in group. Each workshop will cover
+          different topic. 2000 per session. 
         features:
           - Feature one
           - Feature two
