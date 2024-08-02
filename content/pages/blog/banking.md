@@ -3,13 +3,6 @@ type: PostLayout
 title: Banking
 date: '2024-07-09'
 excerpt: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/20240709_114837.jpg
-  altText: Case study 1
-  styles:
-    self:
-      borderRadius: large
 bottomSections:
   - type: DividerSection
     title: Divider
