@@ -108,7 +108,7 @@ sections:
           Academics, University life, immigration and more in USA . Students
           receive certificate after completion of workshops. 
         image:
-          url: /images/icon2.svg
+          url: /images/Workshops_by_Dr_Thapa.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
