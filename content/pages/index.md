@@ -436,12 +436,12 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/RBS logo.png
-        altText: Rangle logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
         altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/RBS logo.png
+        altText: Rangle logo
         elementId: ''
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
