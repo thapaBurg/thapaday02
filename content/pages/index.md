@@ -116,8 +116,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform
+            url: /workshop
             showIcon: false
             icon: arrowRight
             iconPosition: right
