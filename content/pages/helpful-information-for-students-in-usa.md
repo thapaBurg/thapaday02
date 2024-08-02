@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: For students already in USA
     items:
       - type: FeaturedItem
         title: Feature Item One
