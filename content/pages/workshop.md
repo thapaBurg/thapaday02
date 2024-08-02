@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Your will pay over USD **$80,000** in USA for education, let Dr. Thapa
-      prepare you to maximize your investment.
+      Your will pay over USD **$80,000** in four years in USA for education, let
+      Dr. Thapa prepare you to maximize your investment.
 
 
       I offer workshops designed to equip international students with the tools
