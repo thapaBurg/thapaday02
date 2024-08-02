@@ -191,7 +191,7 @@ sections:
     subtitle: Dr. Thapa's students have attended following Universities
     images:
       - type: ImageBlock
-        url: /images/Harvard 2.png
+        url: /images/RBS logo.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
