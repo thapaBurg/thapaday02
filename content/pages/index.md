@@ -543,7 +543,7 @@ sections:
       text: Instagram
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: |
       Follow me on [Instagram](https://www.instagram.com/drsamratthapa/)
     actions:
