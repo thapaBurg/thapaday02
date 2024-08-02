@@ -60,7 +60,7 @@ sections:
           First session of Dr. Thapa's Workshop is free.
         features:
           - Overview of Academics in USA
-          - Feature two
+          - Credit Hours
           - Feature three
           - Feature four
         image:
