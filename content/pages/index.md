@@ -605,8 +605,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      High School and University Students, if you are interested in Internships
+      and Study abroad opportunities, email me. 
     actions:
       - type: Button
         label: Get started
