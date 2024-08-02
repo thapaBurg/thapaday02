@@ -695,7 +695,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: "<DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa \n\n\n\nUniversity of Lynchburg\n\n1501 Lakeside Dr\n\nLynchburg,\_VA\_24501 USA\n\n"
+    text: "Contact Information\n\n<DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\n1501 Lakeside Dr\n\nLynchburg,\_VA\_24501 USA\n"
     media:
       fields:
         - name: name
