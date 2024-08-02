@@ -538,7 +538,7 @@ sections:
           - pt-0
           - pb-0
         margin:
-          - mt-20
+          - mt-0
     type: GenericSection
   - type: GenericSection
     title:
