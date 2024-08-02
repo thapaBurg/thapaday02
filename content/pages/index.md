@@ -440,16 +440,16 @@ sections:
         altText: Premier
         elementId: ''
       - type: ImageBlock
+        url: /images/st_xaviers_college_logo_13_percent.png
+        altText: 'Nami '
+        elementId: ''
+      - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
         altText: RBS
         elementId: ''
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
         altText: GEMS School
-        elementId: ''
-      - type: ImageBlock
-        url: /images/st_xaviers_college_logo_13_percent.png
-        altText: 'Nami '
         elementId: ''
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
