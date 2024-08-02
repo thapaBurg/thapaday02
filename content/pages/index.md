@@ -536,7 +536,7 @@ sections:
           - pl-20
           - pr-20
           - pt-20
-          - pb-20
+          - pb-0
     type: GenericSection
   - type: GenericSection
     title:
