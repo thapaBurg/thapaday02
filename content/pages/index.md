@@ -230,7 +230,7 @@ sections:
           "I feel more prepared and excited about my future at Harvard, and I
           owe a significant part of that confidence to Dr. Thapa's guidance."
         image:
-          url: /images/large_harvard.png
+          url: /images/Harvard 2.png
           altText: Maria Walters
           styles:
             self:
