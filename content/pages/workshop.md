@@ -56,9 +56,8 @@ sections:
       - title: One Session
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          First session of Dr. Thapa's Workshop is free.
         features:
           - Feature one
           - Feature two
