@@ -103,7 +103,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Sign Up
             url: /
             icon: arrowRight
             iconPosition: right
