@@ -436,7 +436,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/kaasthamandap_logo_40_percent.png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
