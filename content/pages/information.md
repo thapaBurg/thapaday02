@@ -52,7 +52,7 @@ sections:
         subtitle: ''
         text: >
           Instructions on how to get your social security card for international
-          students
+          students.
         image:
           type: ImageBlock
           url: /images/Social_Security_Card.png
