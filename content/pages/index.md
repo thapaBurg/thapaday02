@@ -195,7 +195,7 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/texas_seal_12_percent.png
+        url: /images/texas_seal_18_percent.png
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
