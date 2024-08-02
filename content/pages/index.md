@@ -533,7 +533,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - pl-3
+          - pl-20
     type: GenericSection
   - type: GenericSection
     title:
