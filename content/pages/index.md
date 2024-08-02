@@ -273,10 +273,7 @@ sections:
           different ways. Thank you for making us feel like home here."
         tagline: Testimonial 3
         subtitle: University of Lynchburg Student
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "\"I am always grateful to you for the things that you have\_taught me\"\n"
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
