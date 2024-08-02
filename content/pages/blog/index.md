@@ -270,11 +270,7 @@ topSections:
         self:
           textAlign: left
     subtitle: Prepare for Visa
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "**Required documents for interview:\_**1) Passport 2) Nonimmigrant Visa Application, Form DS-160 confirmation page. 3) Application fee payment receipt. 4) I-20\n\n**Additional Documentation**\_May Be Required: Transcripts, diplomas, degrees, or certificates from schools you attended; and Standardized test scores required by your U.S. school; How you will pay all educational, living and travel costs (Bank Statement).\n\nSource of information <[Link](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html#documentation)>\n\n\n\n"
     actions: []
     media:
       type: VideoBlock
