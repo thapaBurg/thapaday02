@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Helpful Information
+title: Helpful-Information
 sections:
   - type: FeaturedItemsSection
     title:
