@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Apply USA
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
