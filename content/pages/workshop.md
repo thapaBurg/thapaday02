@@ -93,7 +93,7 @@ sections:
         features:
           - LMS
           - Free Resources
-          - Feature three
+          - Evidence based writing
           - Feature four
         image:
           url: /images/abstract-feature2.svg
