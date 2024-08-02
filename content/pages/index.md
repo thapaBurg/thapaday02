@@ -563,8 +563,10 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Dr. Thapa has over a decade of experience US higher education. He is the
+      Director of Asia Initiatives at University of Lynchburg. He is a regular
+      speaker at Education USA/USEF locations across Asia. He provides services
+      to Universities, High Schools and more. Email DrSamratThapa\@gmail.com.   
     actions:
       - label: Get started
         url: /
