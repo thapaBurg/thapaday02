@@ -26,24 +26,11 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Business Card.jpg
       altText: Dr. Thapa's Business Card
       elementId: ''
       type: ImageBlock
-    badge:
-      label: Visitors
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -118,7 +105,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /workshop
+            url: /Workshop
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -178,7 +165,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -419,26 +406,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    subtitle: ''
   - type: ImageGallerySection
     subtitle: Dr. Thapa has helped students from following and more
     images:
@@ -472,7 +439,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: static
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         margin:
@@ -561,11 +528,42 @@ sections:
       label: ''
       color: text-primary
       type: Badge
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        padding:
+          - pl-0
+          - pr-40
+          - pt-0
+          - pb-0
+        margin:
+          - mt-0
+    type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Internship and Study Abroad
+      color: text-dark
+    subtitle: ''
+    text: >
+      High School and University Students, if you are interested in Internships
+      and Study abroad opportunities, email me. 
+    actions:
+      - type: Button
+        label: Email
+        url: 'mailto:DrSamratThapa@gmail.com'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/study-abroad.png
+      altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
   - title:
       text: Consulting
       color: text-dark
@@ -592,36 +590,32 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Internship and Study Abroad
-      color: text-dark
-    subtitle: ''
-    text: >
-      High School and University Students, if you are interested in Internships
-      and Study abroad opportunities, email me. 
-    actions:
-      - type: Button
-        label: Email
-        url: 'mailto:DrSamratThapa@gmail.com'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/study-abroad.png
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: center
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    subtitle: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -642,7 +636,7 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
   metaTitle: Dr. Samrat Thapa
