@@ -19,7 +19,7 @@ sections:
       will be well-prepared to tackle academic and other challenges confidently.
     actions:
       - type: Button
-        label: Get started
+        label: Sign Up
         url: /
         icon: arrowRight
         iconPosition: right
