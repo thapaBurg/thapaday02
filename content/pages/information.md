@@ -217,7 +217,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Cellphone/Mobile Plan
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Looking for SIM card for USA. Learn more here. 
