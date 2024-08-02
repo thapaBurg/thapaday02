@@ -50,7 +50,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Video 2: Step by step application'
       color: text-dark
       styles:
         self:
