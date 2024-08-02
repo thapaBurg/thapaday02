@@ -220,7 +220,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Looking for SIM card for USA. Learn more here. 
         image:
           type: ImageBlock
           url: /images/Mint-Mobile.jpg
