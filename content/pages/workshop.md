@@ -129,7 +129,7 @@ sections:
           - Private session
           - Advising during your first year in USA
           - Certificate of completion
-          - Feature five
+          - Recommendation Letter by Dr. Thapa
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
