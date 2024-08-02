@@ -429,7 +429,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Ullens_logo_70_percent.png
-        altText: Wellster logo
+        altText: Ullens School
         elementId: ''
       - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
