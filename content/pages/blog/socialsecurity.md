@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Banking
+title: SocialSecurity
 date: '2024-07-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
