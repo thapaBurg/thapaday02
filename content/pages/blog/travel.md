@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Credit Card
+title: Travel
 date: '2024-07-09'
 excerpt: ''
 bottomSections:
