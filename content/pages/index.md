@@ -440,7 +440,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/gems_logo_8_percent.png
+        url: /images/gems_logo_5_percent.png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
