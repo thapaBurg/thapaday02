@@ -203,7 +203,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/union_logo_12_percent (1).png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
