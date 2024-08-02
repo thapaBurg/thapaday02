@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Dr. Thapa's Workshop
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       I offer workshops designed to equip international students with the tools
       they need to thrive from day one in the USA. These workshops are conducted
