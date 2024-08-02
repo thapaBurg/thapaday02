@@ -56,7 +56,7 @@ topSections:
         self:
           textAlign: left
     subtitle: University of Lynchburg
-    text: ''
+    text: "STEP 1:\_Go to\_[Lynchburg.edu](http://lynchburg.edu/)\_and click on Apply now\n\nSTEP 2:\_Scroll to the bottom of the page and click on “[Create an account](https://admissions.lynchburg.edu/account/register?r=https%3a%2f%2fadmissions.lynchburg.edu%2fapply%2f%3f_gl%3d1*1iw5duk*_gcl_au*NDQ3MDcwNTM0LjE3MTk0MTU4OTk.)” You will receive a Temporary pin in your email.\n\nSTEP 3:\_You will have to log in again. Then you start the application.\n\nWhen you get to “**Enrollment**” page, you will see “**What company are your working with**?“, make sure to select\_Dr. Samrat\nThapa. You will receive lot of help from me.\n\nWhen you get to submission page and you get an error message “Missing Housing preference“, then go back to “Enrollment” page\nand leave blank for “Attendance Status“ \n\nSTEP 4:\_Once you submit the application, you will get access to a portal. If you don’t see it in few days email me (DrSamratThapa\\@gmail.com).\n\nSTEP 5:\_You will get access to Lynchburg portal. There you will have to submit 4 documents. A) Copy of your Passport B) Essay on\nwhy you are interested in University of Lynchburg (minimum 200 words) C) High School Transcript D) English Proficiency Test ([TOEFL](https://www.ets.org/toefl.html),\_[IELTS](https://ielts.org/),\_[DUO](https://englishtest.duolingo.com/test_takers))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     actions: []
     media:
       type: VideoBlock
