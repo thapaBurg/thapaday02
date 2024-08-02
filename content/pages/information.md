@@ -253,7 +253,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Travel options from Dulles Airport (IAD) to Lynchburg.  
         image:
           type: ImageBlock
           url: /images/amtrak-logo.jpg
