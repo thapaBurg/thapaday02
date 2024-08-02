@@ -84,8 +84,9 @@ sections:
         title: Driver's License
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          Instructions on how to get Drivers License for international students.
+
         image:
           type: ImageBlock
           url: /images/VA Drivers Licence.jpg
