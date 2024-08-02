@@ -246,7 +246,7 @@ sections:
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >+
-          #### "I recently had the incredible opportunity to participate in Dr.
+          ##### "I recently had the incredible opportunity to participate in Dr.
           Samrat Thapa's workshop, and I cannot recommend it highly enough for
           any incoming freshmen. I feel more prepared and excited about my
           future at Harvard, and I owe a significant part of that confidence to
