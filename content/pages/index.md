@@ -490,7 +490,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Dr. Thapa's Interview
     text: |
       Want to learn more about University of Lynchburg, watch this video. 
     actions: []
