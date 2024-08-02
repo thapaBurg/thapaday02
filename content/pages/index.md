@@ -428,7 +428,7 @@ sections:
     subtitle: Helped students from following High Schools and more
     images:
       - type: ImageBlock
-        url: /images/PREMIER-Logo-01_icon_70x25.png
+        url: /images/PREMIER-Logo-01_icon_150x50.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
