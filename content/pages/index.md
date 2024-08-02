@@ -493,7 +493,7 @@ sections:
       type: TitleBlock
     subtitle: Dr. Thapa's Interview
     text: |
-      Want to learn more about University of Lynchburg, watch this video. 
+      Want to learn more about University of Lynchburg? Watch this video.
     actions: []
     media:
       title: Title of the video
