@@ -334,7 +334,12 @@ sections:
       - title: ''
         tagline: Testimonial 5
         subtitle: University of Lynchburg Student
-        text: ''
+        text: >+
+          #### "I appreciate your guidance, support that provided us before
+          coming to the US. Your encouragement is positively influencing my
+          academic journey."
+
+
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
