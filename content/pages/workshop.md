@@ -95,6 +95,7 @@ sections:
           - Free Resources
           - Evidence based writing
           - Internships and jobs
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
