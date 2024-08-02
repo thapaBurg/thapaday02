@@ -136,7 +136,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Video 4: Certification of Finances'
       color: text-dark
       styles:
         self:
