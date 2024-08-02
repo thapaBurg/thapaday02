@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: On Campus Jobs
-date: '2024-07-09'
+date: '2024-08-02'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
