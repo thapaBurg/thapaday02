@@ -84,7 +84,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: 5 Group Sessions
+      - title: Group Sessions
         price: 'NPR 10,000'
         details: per month
         description: >
