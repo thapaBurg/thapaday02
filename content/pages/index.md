@@ -408,7 +408,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/cornell_logo_40_percent.png
+      url: /images/Cornell.png
       altText: Dope design preview
     badge:
       type: Badge
