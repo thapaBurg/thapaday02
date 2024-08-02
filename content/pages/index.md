@@ -207,7 +207,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/cornell_logo_30_percent.png
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
