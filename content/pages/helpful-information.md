@@ -199,7 +199,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/CreditCard
+            url: /blog/CreditCard
             showIcon: false
             icon: arrowRight
             iconPosition: right
