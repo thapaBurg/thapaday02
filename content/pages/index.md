@@ -440,7 +440,7 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/RBS logo.png
+        url: /images/rbs_logo_70_percent.png
         altText: Rangle logo
         elementId: ''
       - type: ImageBlock
