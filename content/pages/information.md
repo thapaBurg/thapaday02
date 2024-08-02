@@ -50,8 +50,9 @@ sections:
         title: Social Security Card
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Instructions on how to get your social security card for international
+          students
         image:
           type: ImageBlock
           url: /images/Social_Security_Card.png
