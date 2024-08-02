@@ -218,7 +218,7 @@ sections:
       - type: FeaturedItem
         title: Cellphone/Mobile Plan
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Looking for SIM card for USA. Learn more here. 
         image:
