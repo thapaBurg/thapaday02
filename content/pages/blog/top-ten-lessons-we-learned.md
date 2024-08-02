@@ -3,9 +3,10 @@ title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Applying to Universities in USA is a very easy process and I am going to show
+  you how to do it for free. Since there is a long wait for visa appointment in
+  Nepal, make sure you submit your application 9 months in advance. For example,
+  if you want to go to USA in August 2025, apply by December 2024.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
