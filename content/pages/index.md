@@ -109,7 +109,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /workshop
+            url: /Workshop
             showIcon: false
             icon: arrowRight
             iconPosition: right
