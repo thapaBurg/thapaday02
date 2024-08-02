@@ -9,13 +9,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      We are always looking for employees that understand the meaning of the
+      word Professionalism. 
     actions:
       - label: See open positions
         url: /
@@ -55,11 +52,9 @@ sections:
           textAlign: center
       type: TitleBlock
     people:
-      - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
-      - content/data/person5.json
       - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
@@ -81,9 +76,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
-      - title: Account Executive
+      - title: Coming Soon
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -102,7 +97,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: Coming Soon
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -121,7 +116,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Coming Soon
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -140,7 +135,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
         style: primary

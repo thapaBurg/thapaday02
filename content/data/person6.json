@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Legal Research Associates",
+    "role": "Legal Advisors",
     "image": {
         "url": "/images/avatar6.svg",
         "altText": "Harrison Tally",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Legal Advisors.\n"
 }

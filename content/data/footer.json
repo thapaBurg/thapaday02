@@ -9,7 +9,7 @@
         "title": "Product",
         "links": [
             {
-                "label": "Features",
+                "label": "Consulting",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,8 +18,8 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Workshops",
+                "url": "/Workshop",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

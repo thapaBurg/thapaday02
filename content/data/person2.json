@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Dr samrat thapa",
-    "role": "Co-founder & CEO",
+    "name": "Dr Samrat Thapa",
+    "role": "Founder & CEO",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/Wuhan.jpeg",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "###### Associate Professor of Chemistry \n\n###### Director of Asia Initiatives\n\n###### University of Lynchburg \n\n"
 }
