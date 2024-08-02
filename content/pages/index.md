@@ -250,7 +250,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: "\"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_\""
+      - title: ''
         tagline: Testimonial 2
         subtitle: Augustana Student
         text: |
