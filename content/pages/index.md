@@ -324,8 +324,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "I appreciate your guidance, support that provided us before coming to
+          the US. Your encouragement has really kept me motivated and is
+          positively influencing my academic journey."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
