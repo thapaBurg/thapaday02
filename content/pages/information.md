@@ -16,8 +16,9 @@ sections:
         title: Open Bank Account
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Instructions how to open a bank account in USA for international
+          students. 
         image:
           type: ImageBlock
           url: /images/BOA.png
