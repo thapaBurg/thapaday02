@@ -232,11 +232,7 @@ topSections:
         self:
           textAlign: left
     subtitle: You got this!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "STEP 1: Complete the\_[Nonimmigrant Visa Electronic Application (DS-160) form](https://ceac.state.gov/GenNIV/General/complete/complete_personal.aspx?node=Personal1).\n\nSTEP 2: Create an profile using this\_[link](https://portal.ustraveldocs.com/?language=English\\&country=Nepal). If you already have a profile, don’t make a new one. Just log in.\n\nSTEP 3: Log in, Click on Schedule My Appointment option (on the left-hand side). Complete steps for Visa Type, Post, Visa Category and Visa Class.\n\nSTEP 4: Payment screen, click on\_**Payment Options**. Print your CGI Cash Deposit slip, and take it to your nearest NIMB branch and pay in cash (NPR 24,975, this amount might change). Save the receipt and also take picture.\n\nSTEP 5:\_[Log\_I](https://portal.ustraveldocs.com/?language=English\\&country=Nepal)n,  enter your receipt number, and schedule your visa appointment date.\n\nSTEP 6: If visa appointment dates are very far away, keep checking back the site at midnight. New slots might open up.\n\nHere is\_**US Embassy Nepal page**\_on how to apply for US Student Visa. If you have any questions,\_[email\_](mailto:DrSamratThapa@gmail.com)me.\n\n\n\n"
     actions: []
     media:
       type: VideoBlock
