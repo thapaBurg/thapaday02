@@ -1,7 +1,7 @@
 ---
 title: 'Video 1: Study in USA'
 slug: top-ten-lessons-we-learned
-date: '2024-08-25'
+date: '2024-08-02'
 excerpt: >-
   Applying to Universities in USA is a very easy process and I am going to show
   you how to do it for free. Since there is a long wait for visa appointment in
