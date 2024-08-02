@@ -561,7 +561,7 @@ sections:
       text: Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Dr. Thapa has over a decade of experience US higher education. He is the
       Director of Asia Initiatives at University of Lynchburg. He is a regular
