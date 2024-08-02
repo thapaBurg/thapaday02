@@ -556,6 +556,7 @@ sections:
       url: /images/drsamratthapa_qr_resized.png
       altText: Fun feature preview
       type: ImageBlock
+      elementId: Instagram
     badge:
       label: ''
       color: text-primary
