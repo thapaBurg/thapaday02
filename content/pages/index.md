@@ -452,7 +452,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/RBS logo.png
         altText: Rangle logo
         elementId: ''
     elementId: ''
