@@ -9,8 +9,14 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      I offer workshops designed to equip international students with the tools
+      they need to thrive from day one in the USA. These workshops are conducted
+      in-person (10-12 hours) in Nepal. The workshops are small-sized, with no
+      more than 6-8 students per group, ensuring an intimate learning
+      environment. Throughout these workshops, we delve deeply into a diverse
+      range of topics, and students engage in multiple assignments with
+      personalized feedback from me. By the end of the workshops, participants
+      will be well-prepared to tackle academic and other challenges confidently.
     actions:
       - type: Button
         label: Get started
