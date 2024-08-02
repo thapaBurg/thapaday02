@@ -265,7 +265,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /TravelLYH
+            url: /Blog/TravelLYH
             showIcon: false
             icon: arrowRight
             iconPosition: right
