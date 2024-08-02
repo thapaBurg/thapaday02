@@ -444,7 +444,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/Lincoln_School_Nepal_20_percent.png
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
