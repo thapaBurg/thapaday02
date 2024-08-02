@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Open Bank Account
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
