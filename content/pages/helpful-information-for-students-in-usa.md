@@ -176,6 +176,6 @@ seo:
   metaTitle: Helpful Information
   metaDescription: Helpful Information for international students
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Business Card.jpg
   metaTags: []
 ---
