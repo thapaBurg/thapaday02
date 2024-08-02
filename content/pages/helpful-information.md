@@ -98,7 +98,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /Blog/DriversLicense
+            url: /blog/DriversLicense
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -133,7 +133,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/OnCampusJobs
+            url: /blog/OnCampusJobs
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -166,7 +166,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/HealthInsurance
+            url: /blog/HealthInsurance
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -199,7 +199,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/CreditCard
+            url: /blog/CreditCard
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -223,12 +223,21 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Tax Day.jpg
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /blog/Taxes
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -256,7 +265,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/SIMcard
+            url: /blog/SIMcard
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -289,7 +298,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/TravelLYH
+            url: /blog/Travel
             showIcon: false
             icon: arrowRight
             iconPosition: right
