@@ -27,15 +27,7 @@ topSections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
-    actions:
-      - type: Link
-        altText: YouTube
-        url: 'https://youtu.be/aU8ytwebNEA?si=WSfbjgRjygJMvQMt'
-        showIcon: true
-        icon: youtube
-        iconPosition: left
-        style: secondary
-        elementId: ''
+    actions: []
 styles:
   title:
     textAlign: center
