@@ -92,7 +92,7 @@ sections:
           different topic. 2000 per session. 
         features:
           - LMS
-          - Resources
+          - Free Resources
           - Feature three
           - Feature four
         image:
