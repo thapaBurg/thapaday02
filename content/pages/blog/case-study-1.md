@@ -1,5 +1,5 @@
 ---
-title: USEF Nepal
+title: USEF India
 slug: case-study-1
 date: '2024-01-05'
 excerpt: >-
