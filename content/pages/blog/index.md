@@ -94,11 +94,17 @@ topSections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      You need to write an essay on why you are interested in University of
+      Lynchburg (minimum 200 words). You could write about following things: 1)
+      your desire to study in USA 2) Desire to go to a small private university
+      where you will receive lot of support (Average classroom size 16 students)
+      3) Your major 4) opportunity to do research with professors 5) Support and
+      mentorship by Dr. Thapa 6) Diversity of international students in
+      Lynchburg 7) You might be interested in playing intramural sports 8)
+      Opportunity to be part of numerous Students clubs at University of
+      Lynchburg
+
     actions: []
     media:
       type: VideoBlock
