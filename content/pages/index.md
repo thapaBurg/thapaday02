@@ -142,7 +142,7 @@ sections:
           When you reach USA, you will have many questions such as:  How to open
           a Bank account, get drivers license,  SIM card, pay taxes and more
         image:
-          url: /images/icon3.svg
+          url: /images/Helpful Tips.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
