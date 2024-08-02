@@ -432,7 +432,7 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/Ullens logo.svg
+        url: /images/Ullens_logo_60_percent.png
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
