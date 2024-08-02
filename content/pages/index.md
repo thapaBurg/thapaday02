@@ -236,36 +236,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: My students have gone to following Universities
-    images:
-      - url: /images/University of Lynchburg.jpg
-        altText: Lynchburg
-        type: ImageBlock
-      - url: /images/large_harvard.png
-        altText: Harvard University
-        type: ImageBlock
-      - url: /images/Luther College.jpg
-        altText: Luther College
-        type: ImageBlock
-      - altText: 'U of  Wisconsin '
-        type: ImageBlock
-      - url: /images/UTexas.jpg
-        altText: U Texas
-        type: ImageBlock
-      - url: /images/large_harvard.png
-        altText: Harvard University
-        type: ImageBlock
-      - url: /images/U at Buffalo.png
-        altText: U at Buffalo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: Feedback from students
