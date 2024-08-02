@@ -94,7 +94,7 @@ sections:
           - LMS
           - Free Resources
           - Evidence based writing
-          - Feature four
+          - Internships and jobs
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
