@@ -42,7 +42,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: DriversLicense
+slug: /Blog/DriversLicense
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
