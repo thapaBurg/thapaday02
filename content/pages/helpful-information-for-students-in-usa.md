@@ -61,7 +61,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Driver's License
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
