@@ -9,10 +9,13 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Dr. Samrat Thapa is a professor at the University of Lynchburg. If you
-      interested in applying to American universities, and achieving success in
-      admissions, academics, university life, career and immigration, you are on
-      the right website.
+      Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
+      University of Lynchburg, USA.
+
+
+      If you interested in applying to American universities, and achieving
+      success in admissions, academics, university life, career and immigration,
+      you are on the right website. Make your selection below.
     actions:
       - label: Get started
         altText: ''
@@ -54,13 +57,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Make your selection
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Apply to USA
@@ -95,27 +98,26 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/US-United-States-Flag-icon.png
           styles:
             self:
               borderRadius: x-large
       - title: Workshops
         subtitle: Registration
         text: >
-          These in-person workshops in Nepal will prepare students for
-          Academics, University life, immigration and more in USA . Students
-          receive certificate after completion of workshops. 
+          Dr. Thapa's workshops prepare students for academics, university life,
+          immigration and more in USA . Students receive certificate after
+          completion of workshops.
         image:
-          url: /images/icon2.svg
+          url: /images/Workshops_by_Dr_Thapa.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Learn more
             altText: ''
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform
+            url: /workshop
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -140,13 +142,13 @@ sections:
           When you reach USA, you will have many questions such as:  How to open
           a Bank account, get drivers license,  SIM card, pay taxes and more
         image:
-          url: /images/icon3.svg
+          url: /images/Helpful Tips.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Explore
             altText: ''
             url: /careers
             showIcon: false
@@ -167,7 +169,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -186,51 +188,71 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: My students have gone to following Universities
+  - type: ImageGallerySection
+    subtitle: Dr. Thapa's has advised students from following Universities and more
     images:
-      - url: /images/University of Lynchburg.jpg
+      - type: ImageBlock
+        url: /images/logo_harvard_25_percent.png
+        altText: Harvard
+        elementId: ''
+      - type: ImageBlock
+        url: /images/texas_seal_18_percent.png
+        altText: Texas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lynchburg_logo_12_percent.png
         altText: Lynchburg
-        type: ImageBlock
-      - url: /images/large_harvard.png
-        altText: Harvard University
-        type: ImageBlock
-      - url: /images/Luther College.jpg
-        altText: Luther College
-        type: ImageBlock
-      - altText: 'U of  Wisconsin '
-        type: ImageBlock
-      - url: /images/UTexas.jpg
-        altText: U Texas
-        type: ImageBlock
-      - url: /images/large_harvard.png
-        altText: Harvard University
-        type: ImageBlock
-      - url: /images/U at Buffalo.png
-        altText: U at Buffalo
-        type: ImageBlock
-    motion: move-to-left
+        elementId: ''
+      - type: ImageBlock
+        url: /images/cornell_logo_40_percent.png
+        altText: Cornell
+        elementId: ''
+      - type: ImageBlock
+        url: /images/union_logo_20_percent.png
+        altText: Union
+        elementId: ''
+      - type: ImageBlock
+        url: /images/sbc_logo_25_percent.png
+        altText: Sweet Briar
+        elementId: ''
+      - type: ImageBlock
+        url: /images/luther_logo_45_percent.png
+        altText: Luther
+        elementId: ''
+    elementId: ''
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
-    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: Feedback from students
     items:
-      - title: >-
-          “I recently had the incredible opportunity to participate in Dr.
-          Samrat Thapa's workshop, and I cannot recommend it highly enough for
-          any incoming freshmen.”
+      - title: ''
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
-        text: >
-          "I feel more prepared and excited about my future at Harvard, and I
-          owe a significant part of that confidence to Dr. Thapa's guidance."
+        text: >+
+          #### "I recently had the incredible opportunity to participate in Dr.
+          Samrat Thapa's workshop, and I cannot recommend it highly enough for
+          any incoming freshmen. I feel more prepared and excited about my
+          future at Harvard, and I owe a significant part of that confidence to
+          Dr. Thapa's guidance."
+
         image:
-          url: /images/large_harvard.png
+          url: /images/Harvard 2.png
           altText: Maria Walters
           styles:
             self:
@@ -250,11 +272,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: "\"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_\""
+      - title: ''
         tagline: Testimonial 2
         subtitle: Augustana Student
-        text: |
-          "The kids that are not showing up are certainly missing out."
+        text: "### \"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_The kids that are not showing up are certainly missing out.\"\n\n"
         image:
           url: /images/Augustana.jpg
           altText: John Doe
@@ -276,13 +297,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Thank you for your guidance and support in this new journey of my
-          life. In such a short period of time you have helped me in so many
-          different ways. Thank you for making us feel like home here."
+      - title: ''
         tagline: Testimonial 3
         subtitle: University of Lynchburg Student
-        text: "\"I am always grateful to you for the things that you have\_taught me\"\n"
+        text: "#### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
@@ -304,13 +322,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: |-
-          "for being more than a professor, a guardian, and a presence of 
-          belongingness. I feel blessed to have your connection and support."
+      - title: ''
         tagline: Testimonial 4
         subtitle: University of Lynchburg Student
-        text: |
-          "Thank you for being a valuable part of my academic journey."
+        text: >+
+          #### "Thank you for being a valuable part of my academic journey, for
+          being more than a professor, a guardian, and a presence of
+          belongingness. I feel blessed to have your connection and support."
+
+
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
@@ -332,13 +352,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "I appreciate your guidance, support that provided us before coming to
-          the US. Your encouragement is positively influencing my academic
-          journey."
+      - title: ''
         tagline: Testimonial 5
         subtitle: University of Lynchburg Student
-        text: ''
+        text: >+
+          #### "I appreciate your guidance, support that provided us before
+          coming to the US. Your encouragement is positively influencing my
+          academic journey."
+
+
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
@@ -385,13 +407,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/Cornell.png
@@ -424,6 +439,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: ''
   - type: ImageGallerySection
     subtitle: Dr. Thapa has helped students from following and more
     images:
@@ -527,7 +543,7 @@ sections:
       text: Instagram
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: |
       Follow me on [Instagram](https://www.instagram.com/drsamratthapa/)
     actions:
@@ -537,13 +553,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/drsamratthapa_qr_resized.png
       altText: Fun feature preview
@@ -561,12 +570,13 @@ sections:
       text: Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: >
-      Dr. Thapa has over a decade of experience US higher education. He is the
-      Director of Asia Initiatives at University of Lynchburg. He is a regular
-      speaker at Education USA/USEF locations across Asia. He provides services
-      to Universities, High Schools and more. Email DrSamratThapa\@gmail.com.   
+      Dr. Thapa has over a decade of experience in American higher education. He
+      is the Director of Asia Initiatives at University of Lynchburg. He is a
+      regular speaker at Education USA/USEF locations across Asia. He provides
+      variety of services to Universities, High Schools and more. Email
+      <DrSamratThapa@gmail.com>.
     actions:
       - label: Get started
         url: 'mailto:DrSamratThapa@gmail.com'
@@ -575,11 +585,11 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/Penang Malaysia.jpg
+      url: /images/IMG-20240628-WA0006.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -602,8 +612,8 @@ sections:
       text: Contact Information
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: "Contact Information\n\n<DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\n1501 Lakeside Dr\n\nLynchburg,\_VA\_24501 USA\n"
+    subtitle: ''
+    text: "<DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\n\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
     media:
       fields:
         - name: name
@@ -648,7 +658,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

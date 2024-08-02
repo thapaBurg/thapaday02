@@ -1,7 +1,7 @@
 ---
 title: 'Edu USA Fair, China'
 slug: case-study-2
-date: '2024-04-12'
+date: '2024-05-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
