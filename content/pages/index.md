@@ -485,7 +485,7 @@ sections:
       Follow me on [Instagram](https://www.instagram.com/drsamratthapa/)
     actions:
       - label: Get started
-        url: /
+        url: 'https://www.instagram.com/drsamratthapa/'
         icon: arrowRight
         iconPosition: right
         style: secondary
