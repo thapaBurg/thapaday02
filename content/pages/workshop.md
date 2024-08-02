@@ -9,18 +9,21 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Your will pay over USD **$80,000** in USA for education, let Dr. Thapa
-      prepare you to maximize your investment.
+      Your will pay over USD **$80,000** in four years in USA for education, let
+      Dr. Thapa prepare you to maximize your investment.
 
 
-      I offer workshops designed to equip international students with the tools
-      they need to thrive from day one in the USA. These workshops are conducted
-      in-person (10-12 hours) in Nepal. The workshops are small-sized, with no
-      more than 6-8 students per group, ensuring an intimate learning
+      Dr. Thapa offers workshops designed to equip international students with
+      the tools they need to thrive from day one in the USA. These workshops are
+      conducted in-person (10-12 hours) in Nepal. The workshops are small-sized,
+      with no more than 6-8 students per group, ensuring an intimate learning
       environment. Throughout these workshops, we delve deeply into a diverse
       range of topics, and students engage in multiple assignments with
       personalized feedback from me. By the end of the workshops, participants
       will be well-prepared to tackle academic and other challenges confidently.
+
+
+      Obtain Certificate of Completion. 
     actions:
       - type: Button
         label: Sign Up
@@ -29,13 +32,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/20240617_145842.jpg
@@ -73,7 +69,8 @@ sections:
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -106,8 +103,9 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Sign Up
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -139,8 +137,9 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
-            url: /
+          - label: Sign Up
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
             icon: arrowRight
             iconPosition: right
             style: secondary
