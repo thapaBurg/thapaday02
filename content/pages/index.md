@@ -441,7 +441,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
-        altText: Rangle logo
+        altText: RBS
         elementId: ''
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
