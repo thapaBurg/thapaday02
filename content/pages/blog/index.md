@@ -7,7 +7,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Video 1: Study in USA'
       color: text-dark
       styles:
         self:
