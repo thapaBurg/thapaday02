@@ -247,7 +247,7 @@ sections:
         text: |
           "The kids that are not showing up are certainly missing out."
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Augustana.jpg
           altText: John Doe
           styles:
             self:
