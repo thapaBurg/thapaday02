@@ -211,7 +211,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/sbc_logo_25_percent.png
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
