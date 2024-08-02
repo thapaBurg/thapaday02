@@ -295,9 +295,9 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: |-
+          "for being more than a professor, a guardian, and a presence of 
+          belongingness. I feel blessed to have your connection and support."
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
