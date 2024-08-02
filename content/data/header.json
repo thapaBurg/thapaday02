@@ -30,9 +30,9 @@
             "type": "Link"
         },
         {
-            "label": "Helpful Information",
-            "altText": "Helpful Information",
-            "url": "/Helpful Information",
+            "label": "Helpful-Information",
+            "altText": "Helpful-Information",
+            "url": "/Helpful-Information",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
