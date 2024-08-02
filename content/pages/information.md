@@ -187,7 +187,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Apply for Credit Card. 
         image:
           type: ImageBlock
           url: /images/lk-visa-classic-card-498x280.png
