@@ -535,6 +535,7 @@ sections:
         padding:
           - pl-20
           - pr-20
+          - pt-20
     type: GenericSection
   - type: GenericSection
     title:
