@@ -253,8 +253,7 @@ sections:
       - title: ''
         tagline: Testimonial 2
         subtitle: Augustana Student
-        text: |
-          "The kids that are not showing up are certainly missing out."
+        text: "\"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_The kids that are not showing up are certainly missing out.\"\n\n\n\n\n\n\n"
         image:
           url: /images/Augustana.jpg
           altText: John Doe
