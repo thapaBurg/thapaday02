@@ -19,7 +19,7 @@
             },
             {
                 "label": "Workshops",
-                "url": "/workshop",
+                "url": "/Workshop",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
