@@ -303,7 +303,7 @@ sections:
         text: |
           "Thank you for being a valuable part of my academic journey."
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
           styles:
             self:
