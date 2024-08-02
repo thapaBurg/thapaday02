@@ -433,7 +433,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
-        altText: Vise logo
+        altText: Kaasthamandap
         elementId: ''
       - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
