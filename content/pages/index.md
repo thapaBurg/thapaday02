@@ -428,7 +428,7 @@ sections:
     subtitle: Dr. Thapa has helped students from following and more
     images:
       - type: ImageBlock
-        url: /images/Ullens_logo_70_percent.png
+        url: /images/Ullens_logo_30_percent.png
         altText: Ullens School
         elementId: ''
       - type: ImageBlock
