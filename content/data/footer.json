@@ -19,7 +19,7 @@
             },
             {
                 "label": "Workshops",
-                "url": "/pricing",
+                "url": "/workshop",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
