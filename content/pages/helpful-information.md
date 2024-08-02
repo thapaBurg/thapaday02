@@ -256,7 +256,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/SIMcard
+            url: /blog/SIMcard
             showIcon: false
             icon: arrowRight
             iconPosition: right
