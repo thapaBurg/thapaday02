@@ -174,7 +174,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Helpful Information
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Helpful Information for international students
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
