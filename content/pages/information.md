@@ -14,10 +14,11 @@ sections:
     items:
       - type: FeaturedItem
         title: Open Bank Account
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        tagline: ''
+        subtitle: ''
+        text: >
+          Instructions how to open a bank account in USA for international
+          students. 
         image:
           type: ImageBlock
           url: /images/BOA.png
@@ -25,7 +26,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Read more
+            altText: ''
+            url: /Blog/Banking
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -38,10 +48,11 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Social Security Card
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        tagline: ''
+        subtitle: ''
+        text: >
+          Instructions on how to get your social security card for international
+          students.
         image:
           type: ImageBlock
           url: /images/Social_Security_Card.png
@@ -49,7 +60,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Read more
+            altText: ''
+            url: /blog/SocialSecurity
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -62,10 +82,11 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Driver's License
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        tagline: ''
+        subtitle: ''
+        text: |+
+          Instructions on how to get Drivers License for international students.
+
         image:
           type: ImageBlock
           url: /images/VA Drivers Licence.jpg
@@ -73,7 +94,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Read More
+            altText: ''
+            url: /Blog/DriversLicence
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -86,10 +116,12 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: On Campus Job
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        tagline: ''
+        subtitle: ''
+        text: >+
+          Instructions on how to get your On Campus Jobs for international
+          students.
+
         image:
           type: ImageBlock
           url: /images/On Campus Job.gif
@@ -97,7 +129,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Blog/OnCampusJobs
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -110,10 +151,10 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Health Insurance
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Information about Health Insurance for International Students. 
         image:
           type: ImageBlock
           url: /images/Health Insurance.png
@@ -121,7 +162,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Blog/HealthInsurance
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -134,13 +184,46 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Credit cards
+        tagline: ''
+        subtitle: ''
+        text: |
+          Apply for Credit Card. 
+        image:
+          type: ImageBlock
+          url: /images/lk-visa-classic-card-498x280.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Blog/CreditCard
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Pay Taxes
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/lk-visa-classic-card-498x280.png
+          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
@@ -158,10 +241,10 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Cellphone/Mobile Plan
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Looking for SIM card for USA. Learn more here. 
         image:
           type: ImageBlock
           url: /images/Mint-Mobile.jpg
@@ -169,7 +252,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Blog/SIMcard
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -182,10 +274,10 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Travel From IAD to LYH
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Travel options from Dulles Airport (IAD) to Lynchburg.  
         image:
           type: ImageBlock
           url: /images/amtrak-logo.jpg
@@ -193,7 +285,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Blog/TravelLYH
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
