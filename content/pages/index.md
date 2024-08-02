@@ -453,7 +453,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
-        altText: Contentful logo
+        altText: Lincoln
         elementId: ''
     elementId: ''
     motion: static
