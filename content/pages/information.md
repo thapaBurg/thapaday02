@@ -154,7 +154,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Information about Health Insurance for International Students. 
         image:
           type: ImageBlock
           url: /images/Health Insurance.png
