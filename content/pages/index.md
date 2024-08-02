@@ -579,7 +579,7 @@ sections:
       variety of services to Universities, High Schools and more. Email
       <DrSamratThapa@gmail.com>.
     actions:
-      - label: Get started
+      - label: Email
         url: 'mailto:DrSamratThapa@gmail.com'
         icon: arrowRight
         iconPosition: right
