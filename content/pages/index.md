@@ -329,10 +329,7 @@ sections:
           journey."
         tagline: Testimonial 5
         subtitle: University of Lynchburg Student
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/02b U Lynchburg logo 2c stack.png
           altText: Maria Walters
