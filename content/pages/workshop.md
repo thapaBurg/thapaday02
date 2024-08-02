@@ -59,7 +59,7 @@ sections:
         description: |
           First session of Dr. Thapa's Workshop is free.
         features:
-          - Feature one
+          - Overview of Academics in USA
           - Feature two
           - Feature three
           - Feature four
