@@ -217,7 +217,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Helpful Information
+slug: Helpful-Information
 isDraft: false
 seo:
   type: Seo
