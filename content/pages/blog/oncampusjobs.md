@@ -59,12 +59,17 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-State ID card
-Virginia State ID cards are a valid form of government-issued identification that can be used to verify your identity. It is recommended for students to have this instead of carrying their official passport.
+On-Campus Work
+F-1 International students are able to work up to 20 hours per week on campus during the fall and spring semesters, and up to 40 hours per week on campus during the summer and winter vacations.  No special authorization or application is required. “On campus” jobs can be defined as any job that is physically on campus and paid by UL.  Common examples are work done in any campus office, the Library, food services, the Book Store. When you receive your first job offer, you will need to apply for a Social Security Number (SSN). An SSN is required to be paid in the US. Seisha Cunningham, Student Employment Program Coordinator (cunningham\_s\@lynchburg.edu)
 
-[Address](https://www.google.com/search?rlz=1C1KDEC_enUS950US950\&sca_esv=9267af3241730e66\&sca_upv=1\&cs=0\&q=virginia+department+of+motor+vehicles+lynchburg+address\&ludocid=9784621816678658661\&sa=X\&ved=2ahUKEwiT-Ny859aHAxW8S2wGHQisBMUQ6BN6BAgOEAI): 3236 Odd Fellows Rd, Lynchburg, VA 24501, United States
+Student employment portal.
 
-[Hours](https://www.google.com/search?rlz=1C1KDEC_enUS950US950\&sca_esv=9267af3241730e66\&sca_upv=1\&cs=0\&q=virginia+department+of+motor+vehicles+lynchburg+hours\&ludocid=9784621816678658661\&sa=X\&ved=2ahUKEwiT-Ny859aHAxW8S2wGHQisBMUQ6BN6BAgREAI): 9AM ⋅ 5 PM
+1.  Visit this link: <https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=06E60EB4A3425A1B8B2E3A5F3F1E2A6F>
 
-[Phone](https://www.google.com/search?rlz=1C1KDEC_enUS950US950\&sca_esv=9267af3241730e66\&sca_upv=1\&cs=0\&q=virginia+department+of+motor+vehicles+lynchburg+phone\&ludocid=9784621816678658661\&sa=X\&ved=2ahUKEwiT-Ny859aHAxW8S2wGHQisBMUQ6BN6BAgVEAI): [+1 804-497-7100](https://www.google.com/search?q=drivers+license+lynchburg\&sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&ei=DhStZvHxBMW9seMPzIuCWA\&ved=0ahUKEwjxsI-659aHAxXFXmwGHcyFAAsQ4dUDCBA\&uact=5\&oq=drivers+license+lynchburg\&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWRyaXZlcnMgbGljZW5zZSBseW5jaGJ1cmcyBhAAGBYYHjIGEAAYFhgeMgoQABgWGAoYHhgPMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGKIEGIkFMggQABiABBiiBEiMElCfBliNEXAAeAOQAQCYAeMBoAH0CqoBBTAuNy4xuAEDyAEA-AEBmAIKoAKXC8ICBBAAGEfCAgUQABiABMICBxAAGIAEGArCAggQABgWGB4YD5gDAIgGAZAGCJIHBTIuNy4xoAepPQ\&sclient=gws-wiz-serp\&lqi=Chlkcml2ZXJzIGxpY2Vuc2UgbHluY2hidXJnSOnE0eTnlYCACFohEAAQARgCIhlkcml2ZXJzIGxpY2Vuc2UgbHluY2hidXJnkgEcZGVwYXJ0bWVudF9vZl9tb3Rvcl92ZWhpY2xlc5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSbGFHTmllVkozRUFFqgFhCggvbS8wY3cydBABKhMiD2RyaXZlcnMgbGljZW5zZSgAMh8QASIbs92jQwzJYqUaI33M6bJenZUoFesGOWvACCHCMh0QAiIZZHJpdmVycyBsaWNlbnNlIGx5bmNoYnVyZw#)
+2.  Use filter:
+    Position types: Student
+
+3.  Look at the job that best fits you.
+
+4.  Fill up the form; make sure you enter all the information that is mandatory. Don't worry about something optional.
 
