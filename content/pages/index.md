@@ -209,7 +209,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/union_logo_20_percent.png
-        altText: Telus logo
+        altText: Union
         elementId: ''
       - type: ImageBlock
         url: /images/sbc_logo_25_percent.png
