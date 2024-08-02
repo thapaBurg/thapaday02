@@ -58,7 +58,7 @@ sections:
         text: >
           Applying to University of Lynchburg is EASY and FREE. Click on the
           link below, and flow my step by step instructions. If you have
-          questions, just email me. 
+          questions, email me.
         actions:
           - type: Button
             label: Get started
@@ -94,7 +94,7 @@ sections:
         subtitle: Registration
         text: >
           Dr. Thapa's workshops prepare students for academics, university life,
-          immigration and more in USA . Students receive certificate after
+          immigration and more in USA. Students receive certificate after
           completion of workshops.
         image:
           url: /images/workshops by Thapa.png
