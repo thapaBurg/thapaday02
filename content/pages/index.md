@@ -570,26 +570,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    subtitle: ''
   - title:
       text: Consulting
       color: text-dark
@@ -622,6 +602,26 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    subtitle: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
