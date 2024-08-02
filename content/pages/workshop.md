@@ -128,7 +128,7 @@ sections:
           - Tailored for you session
           - Private session
           - Advising during your first year in USA
-          - Feature four
+          - Certificate of completion
           - Feature five
         image:
           url: /images/abstract-feature3.svg
