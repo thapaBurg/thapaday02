@@ -203,12 +203,12 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/union_logo_20_percent.png
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/cornell_logo_40_percent.png
         altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/union_logo_20_percent.png
+        altText: Telus logo
         elementId: ''
       - type: ImageBlock
         url: /images/sbc_logo_25_percent.png
