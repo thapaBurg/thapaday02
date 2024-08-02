@@ -94,7 +94,7 @@ sections:
         subtitle: Registration
         text: >
           Dr. Thapa's workshops prepare students for academics, university life,
-          immigration and more in USA . Students receive certificate after
+          immigration and more in USA. Students receive certificate after
           completion of workshops.
         image:
           url: /images/workshops by Thapa.png
