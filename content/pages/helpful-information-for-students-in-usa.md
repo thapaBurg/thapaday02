@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: For students in USA
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Open Bank Account
