@@ -118,8 +118,10 @@ sections:
         title: On Campus Job
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          Instructions on how to get your On Campus Jobs for international
+          students.
+
         image:
           type: ImageBlock
           url: /images/On Campus Job.gif
