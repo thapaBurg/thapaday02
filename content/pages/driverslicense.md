@@ -318,7 +318,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Information
+slug: DriversLicense
 isDraft: false
 seo:
   type: Seo
