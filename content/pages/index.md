@@ -301,9 +301,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: |-
-          "for being more than a professor, a guardian, and a presence of 
-          belongingness. I feel blessed to have your connection and support."
+      - title: ''
         tagline: Testimonial 4
         subtitle: University of Lynchburg Student
         text: |
