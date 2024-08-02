@@ -533,7 +533,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - pl-10
+          - pl-20
           - pr-0
           - pt-0
           - pb-0
