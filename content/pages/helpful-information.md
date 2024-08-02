@@ -232,7 +232,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Taxes
+            url: /blog/Taxes
             showIcon: false
             icon: arrowRight
             iconPosition: right
