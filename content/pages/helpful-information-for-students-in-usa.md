@@ -157,7 +157,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Cellphone/Mobile Plan
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
