@@ -109,14 +109,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Credit cards
+        title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/lk-visa-classic-card-498x280.png
+          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
@@ -133,14 +133,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Credit cards
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/lk-visa-classic-card-498x280.png
           altText: Placeholder text
           styles:
             self:
