@@ -133,7 +133,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /Blog/OnCampusJobs
+            url: /blog/OnCampusJobs
             showIcon: false
             icon: arrowRight
             iconPosition: right
