@@ -8,7 +8,6 @@ excerpt: >-
   Nepal, make sure you submit your application 9 months in advance. For example,
   if you want to go to USA in August 2025, apply by December 2024.
 featuredImage:
-  url: /images/abstract-feature2.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
