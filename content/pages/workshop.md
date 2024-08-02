@@ -121,9 +121,9 @@ sections:
       - title: Private Sessions
         price: Custom
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          One on One private sessions with a student.  Five Workshop sessions.
+          Each workshop will cover different topic. 
         features:
           - Feature one
           - Feature two
