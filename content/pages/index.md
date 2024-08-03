@@ -609,7 +609,16 @@ sections:
       USA and University. Please watch the video where I try to answer some of
       the frequently asked questions. For more information, click on the link
       below and feel free to email me (DrSamratThapa\@gmail.com). 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Parents
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: VideoBlock
       title: Title of the video
