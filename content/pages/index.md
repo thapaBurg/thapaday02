@@ -428,16 +428,16 @@ sections:
         altText: RBS
         elementId: ''
       - type: ImageBlock
-        url: /images/st_xaviers_college_logo_13_percent.png
-        altText: St Xaviers College
-        elementId: ''
-      - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
         altText: Premier
         elementId: ''
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
         altText: Lincoln
+        elementId: ''
+      - type: ImageBlock
+        url: /images/st_xaviers_college_logo_13_percent.png
+        altText: St Xaviers College
         elementId: ''
     elementId: ''
     motion: static
