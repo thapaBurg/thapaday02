@@ -436,7 +436,7 @@ sections:
         altText: Lincoln
         elementId: ''
       - type: ImageBlock
-        url: /images/St_Xaviers_College_transparent_resized.png
+        url: /images/St_Xaviers_College_transparent_resized_30.png
         altText: St Xaviers College
         elementId: ''
     elementId: ''
