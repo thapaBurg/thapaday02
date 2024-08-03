@@ -67,7 +67,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/IMG_20230915_155522.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
