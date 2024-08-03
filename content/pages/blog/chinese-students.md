@@ -24,11 +24,11 @@ bottomSections:
         url: /images/20240526_141141_resized.webp
         altText: Harvard University
       - type: ImageBlock
-        url: /images/screenshot_20240530_012847_wechat_resized.webp
-        altText: Luther College
-      - type: ImageBlock
         url: /images/20240526_163915_resized.webp
         altText: Harvard University
+      - type: ImageBlock
+        url: /images/screenshot_20240530_012847_wechat_resized.webp
+        altText: Luther College
       - type: ImageBlock
         altText: 'U of  Wisconsin '
         url: /images/20240525_135556_resized.webp
