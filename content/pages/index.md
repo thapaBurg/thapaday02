@@ -512,16 +512,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: |
       Follow Dr. Thapa on [Instagram.](https://www.instagram.com/drsamratthapa/)
 
+      Students from **China**, you can contact me via WeChat (DrSamratThapa)
 
-      Students from **China**, you can contact me via WeChat (DrSamratThapa) 
-
-
-      \<div style="text-align:
-      center">![](/images/wechat_qr_resized_25.png)\</div>
-
+      ![](/images/wechat_qr_resized_25.png)
     actions:
       - label: Instagram
         url: 'https://www.instagram.com/drsamratthapa/'
