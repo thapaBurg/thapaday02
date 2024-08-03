@@ -83,7 +83,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Food
         subtitle: ''
         image:
           type: ImageBlock
