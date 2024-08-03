@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Parents",
-                    "url": "/",
+                    "url": "/Parents",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
