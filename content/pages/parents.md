@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Workshop
+title: Parents
 sections:
   - type: GenericSection
     title:
