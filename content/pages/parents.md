@@ -5,25 +5,34 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Dr. Thapa's Workshop
+      text: Welcome Parents
       color: text-dark
     subtitle: ''
     text: >
-      Your will pay over USD **$80,000** in four years in USA for education, let
-      Dr. Thapa prepare you to maximize your investment.
+      As parents of an international student, you will have many things to
+      consider as you prepare to send your child to USA.
 
 
-      Dr. Thapa offers workshops designed to equip international students with
-      the tools they need to thrive from day one in the USA. These workshops are
-      conducted in-person (10-12 hours) in Nepal. The workshops are small-sized,
-      with no more than 6-8 students per group, ensuring an intimate learning
-      environment. Throughout these workshops, we delve deeply into a diverse
-      range of topics, and students engage in multiple assignments with
-      personalized feedback from me. By the end of the workshops, participants
-      will be well-prepared to tackle academic and other challenges confidently.
+      Many parents are concerned about the safety of their children once they
+      arrive in the US.
 
 
-      Obtain Certificate of Completion. 
+      With any parent-child relationship, it is normal to worry about your child
+      and think of them often – but giving them space is very important to help
+      them adapt and grow.
+
+
+      One way parents can stay involved is by regularly scheduled check-ins.
+      Plan a few weekly calls that works with the time difference. Remember that
+      your children are busy with classes, homework, getting involved on campus
+      and more.
+
+
+
+
+      I send out a weekly email to all Nepali students and have meeting for
+      Nepali students every Friday at 4 pm. Encourage them to attend my
+      meetings. 
     actions:
       - type: Button
         label: Sign Up
@@ -34,7 +43,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/20240617_145842.jpg
+      url: /images/20240803_173747.jpg
       altText: Fun feature preview
     badge:
       type: Badge
@@ -44,121 +53,125 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: PricingSection
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Dr. Thapa's Workshop
+      text: Dr. Thapa with International Students
       color: text-dark
       styles:
         self:
-          textAlign: center
-    subtitle: ''
-    plans:
-      - type: PricingPlan
-        title: One Session
-        price: Free
-        details: ''
-        description: |
-          First session of Dr. Thapa's Workshop is free.
-        features:
-          - Overview of Academics in USA
-          - Credit Hours
-          - Scheduling
-          - Major courses
+          textAlign: left
+    items:
+      - type: FeaturedItem
+        title: Father's Day Celebration
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
+          url: /images/IMG_20230915_155522.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Group Sessions
-        price: 'NPR 10,000'
-        details: ''
-        description: >
-          Workshops 2-6 are paid sessions in group. Each workshop will cover
-          different topic. 2000 per session. 
-        features:
-          - LMS
-          - Free Resources
-          - Evidence based writing
-          - Internships and jobs
-          - Navigating USA immigration
-          - Certificate of completion
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Momo Party
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Sign Up
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
+          url: /images/20230825_194513.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Dr. Thapa's Friday Meeting
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/20230908_154803.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Thanksgiving Party
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/20231121_154458.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Private Sessions
-        price: Custom
-        details: ''
-        description: >
-          One on One private sessions with a student.  Five Workshop sessions.
-          Each workshop will cover different topic. 
-        features:
-          - Tailored for you session
-          - Private session
-          - Advising during your first year in USA
-          - Certificate of completion
-          - Recommendation Letter by Dr. Thapa
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Dashain Tika
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Sign Up
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
+          url: /images/IMG_20231024_212820_222.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+    actions: []
+    elementId: ''
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
       subtitle:
         textAlign: center
 slug: Parents
