@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Parents
-date: '2023-12-10'
+date: '2023-12-12'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
