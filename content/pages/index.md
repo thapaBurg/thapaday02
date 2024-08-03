@@ -513,7 +513,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Follow Dr. Thapa on [Instagram](https://www.instagram.com/drsamratthapa/)
+      Follow Dr. Thapa on [Instagram.](https://www.instagram.com/drsamratthapa/)
+
+      Students from **China**, you can contact me via WeChat (DrSamratThapa)
+
+      ![](/images/wechat_qr_resized_25.png)
     actions:
       - label: Instagram
         url: 'https://www.instagram.com/drsamratthapa/'
