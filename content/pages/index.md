@@ -598,7 +598,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Hello Parents
       color: text-dark
       styles:
         self:
