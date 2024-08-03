@@ -31,6 +31,36 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: ImageGallerySection
+    subtitle: My students have gone to following Universities
+    images:
+      - type: ImageBlock
+        url: /images/University of Lynchburg.jpg
+        altText: Lynchburg
+      - type: ImageBlock
+        url: /images/large_harvard.png
+        altText: Harvard University
+      - type: ImageBlock
+        url: /images/Luther College.jpg
+        altText: Luther College
+      - type: ImageBlock
+        altText: 'U of  Wisconsin '
+      - type: ImageBlock
+        url: /images/UTexas.jpg
+        altText: U Texas
+      - type: ImageBlock
+        url: /images/large_harvard.png
+        altText: Harvard University
+      - type: ImageBlock
+        url: /images/U at Buffalo.png
+        altText: U at Buffalo
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: Chinese Students
 isFeatured: true
 colors: bg-light-fg-dark
