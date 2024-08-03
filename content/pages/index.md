@@ -611,7 +611,7 @@ sections:
       below and feel free to email me (DrSamratThapa\@gmail.com). 
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         altText: ''
         url: /Parents
         showIcon: false
