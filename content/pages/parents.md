@@ -91,7 +91,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/20230825_194513.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
