@@ -8,15 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      If you are interested in applying to American universities and achieving
-      success in admissions, academics, university life, career, immigration,
-      and more, you are on the right website. Make your selection below.
+    text: >
+      If you are interested in applying to the University of Lynchburg (or other
+      American universities) and achieving success in admissions, academics,
+      university life, career, immigration, and more, you are on the right
+      website. Make your selection below.
 
 
       Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
       University of Lynchburg, USA.
-
     actions:
       - label: Get started
         altText: ''
