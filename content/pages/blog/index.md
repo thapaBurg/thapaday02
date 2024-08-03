@@ -55,7 +55,7 @@ topSections:
       styles:
         self:
           textAlign: left
-    subtitle: Step by step guide to apply
+    subtitle: Easy step-by-step guide to apply
     text: "**STEP 1**:\_Go to\_[Lynchburg.edu](http://lynchburg.edu/)\_and click on **Apply now**\n\n**STEP 2**:\_“[Create an account](https://admissions.lynchburg.edu/account/register?r=https%3a%2f%2fadmissions.lynchburg.edu%2fapply%2f%3f_gl%3d1*1iw5duk*_gcl_au*NDQ3MDcwNTM0LjE3MTk0MTU4OTk.)”  at the bottom of the page. You will receive a Temporary pin in your email.\n\n**STEP 3**:\_Log in again. You are ready to begin the Free application.\n\nWhen you get to “**Enrollment**” page, you will see “**What company are your working with**?“, make sure to select\_**Dr. Samrat\nThapa**. You will receive lot of help from me.\n\nIf you get error message “Missing Housing preference“ when you submit application,  go to “Enrollment” page and leave “Attendance Status“ blank.\n\n**STEP 4**:\_Once you submit the application, you will get access to a portal. If you don’t see it in few days email me (<DrSamratThapa@gmail.com>).\n\n**STEP 5**:\_You will submit Four documents in the Lynchburg portal A) Passport Copy B) Essay (minimum 200 words) C) High School Transcript D) English Proficiency Test ([TOEFL](https://www.ets.org/toefl.html),\_[IELTS](https://ielts.org/),\_[DUO](https://englishtest.duolingo.com/test_takers))\n"
     actions: []
     media:
