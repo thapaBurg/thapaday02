@@ -30,7 +30,7 @@ bottomSections:
         altText: 'U of  Wisconsin '
         url: /images/20240525_135556_resized.webp
       - type: ImageBlock
-        url: /images/20240526_163915.webp
+        url: /images/20240526_163915_resized.webp
         altText: Harvard University
       - type: ImageBlock
         url: /images/mmexport2ec5dfc1a2e371cba1acac1f46124998_1716290826189.webp
