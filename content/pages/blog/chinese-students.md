@@ -38,7 +38,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/mmexport2ec5dfc1a2e371cba1acac1f46124998_1716290826189.webp
         altText: U at Buffalo
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
