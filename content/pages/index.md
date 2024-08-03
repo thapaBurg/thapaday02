@@ -409,19 +409,19 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: ImageGallerySection
-    subtitle: Dr. Thapa has helped students from following and more
+    subtitle: Dr. Thapa has helped students from following schools and more
     images:
       - type: ImageBlock
-        url: /images/st_xaviers_college_logo_13_percent.png
-        altText: St Xaviers College
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Ullens_logo_30_percent.png
-        altText: Ullens School
+        url: /images/gems_logo_5_percent.png
+        altText: GEMS School
         elementId: ''
       - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
         altText: Kaasthamandap
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Ullens_logo_30_percent.png
+        altText: Ullens School
         elementId: ''
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
@@ -436,8 +436,8 @@ sections:
         altText: Lincoln
         elementId: ''
       - type: ImageBlock
-        url: /images/gems_logo_5_percent.png
-        altText: GEMS School
+        url: /images/St_Xaviers_College_transparent_resized_25.png
+        altText: St Xaviers College
         elementId: ''
     elementId: ''
     motion: static
