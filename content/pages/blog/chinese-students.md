@@ -85,4 +85,3 @@ Welcome Chinese Students
 
 ![](/images/Chinese_Flyer_resized_60.jpg)![](/images/WeChat_DrSamratThapa_resized.png)
 
-Apply to University of Lynchburg today, go to the following [link ](/blog)and follow my easy instructions. 
