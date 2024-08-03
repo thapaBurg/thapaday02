@@ -113,7 +113,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: 'Item #3'
+        title: Thanksgiving Party
         subtitle: ''
         image:
           type: ImageBlock
