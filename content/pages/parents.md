@@ -43,7 +43,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/20240617_145842.jpg
+      url: /images/20240803_173747.jpg
       altText: Fun feature preview
     badge:
       type: Badge
