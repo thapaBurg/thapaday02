@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Chinese Students
-date: '2024-07-09'
+date: '2024-08-02'
 excerpt: ''
 bottomSections:
   - type: DividerSection
@@ -48,69 +48,19 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-You must meet the following eligibility requirements:
-
-*   **You have a physical U.S. address**
-
-*   **You are not a U.S. citizen**
-
-*   **You are not a permanent resident of the U.S.\***
-
-\*Permanent resident: Green card (or permanent resident card) holders who are authorized to live and work in the United States on a permanent basis
+Chinese Students
 
 
+F-1 International students are able to work up to 20 hours per week on campus during the fall and spring semesters, and up to 40 hours per week on campus during the summer and winter vacations.  No special authorization or application is required. “On campus” jobs can be defined as any job that is physically on campus and paid by UL.  Common examples are work done in any campus office, the Library, food services, the Book Store. When you receive your first job offer, you will need to apply for a Social Security Number (SSN). An SSN is required to be paid in the US. Seisha Cunningham, Student Employment Program Coordinator (<cunningham_s@lynchburg.edu>)
 
-Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide **both **a foreign and U.S. address, as well as two forms of ID and a tax identification number.
+Student employment portal.
 
-*   **Proof of home or permanent residence address**
-    This must include building name or number and street name, city or town, state or province, country.
+1.  Visit this link: <https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=06E60EB4A3425A1B8B2E3A5F3F1E2A6F>
 
-<!---->
+2.  Use filter:
+    Position types: Student
 
-*   **U.S. physical address**
-    Only one of the following documents is needed:
+3.  Look at the job that best fits you.
 
-    *   Government-issued ID with photo
+4.  Fill up the form; make sure you enter all the information that is mandatory. Don't worry about something optional.
 
-    *   Student ID with address and photo
-
-    *   Current utility bill with your name and address
-
-    *   Other (rental agreement, etc.)
-
-You will need two forms of identification – a primary ID and a secondary ID.
-
-*   **Primary ID**
-    Only one of the following documents is needed:
-
-    *   Foreign passport with or without passport visa (with photo)
-
-    *   U.S. Non Immigrant Visa and Border Crossing Card-DSP-150 (with photo)
-
-    *   Mexican, Guatemalan, Dominican, Colombian Consular ID (with photo)
-
-    *   Canadian Citizenship Certificate Card (with photo)
-
-<!---->
-
-*   **Secondary ID**
-    Only one of the following documents is needed:
-
-    *   Foreign driver's license with photo or U.S. driver's license
-
-    *   U.S. student ID validated for current term or school year (with photo)
-
-    *   Debit or major credit card with Visa® or Mastercard® logo
-
-    *   Major retail credit card from a nationally well-known company
-
-    *   U.S. Department of State Diplomat ID
-
-    *   Mexican Voter Registration Card (with photo)
-
-**Foreign Tax Identification Number (FTIN)**
-An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
-
-
-
-https\://about.bankofamerica.com/en/international-student-bank-account
