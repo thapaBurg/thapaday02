@@ -59,7 +59,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Safety
         subtitle: ''
         image:
           type: ImageBlock
