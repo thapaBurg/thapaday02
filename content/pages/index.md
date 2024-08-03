@@ -598,7 +598,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Hello Parents
+      text: Parents
       color: text-dark
       styles:
         self:
