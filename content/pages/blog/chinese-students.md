@@ -24,7 +24,7 @@ bottomSections:
         url: /images/20240526_173213.webp
         altText: Harvard University
       - type: ImageBlock
-        url: /images/Luther College.jpg
+        url: /images/screenshot_20240530_012847_wechat.webp
         altText: Luther College
       - type: ImageBlock
         altText: 'U of  Wisconsin '
