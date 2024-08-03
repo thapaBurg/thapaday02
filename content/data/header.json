@@ -43,16 +43,16 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Chinese Students",
+                    "url": "/blog/Chinese Students",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Parents",
+                    "url": "/Parents",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
