@@ -96,7 +96,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Stay in Touch
         subtitle: ''
         image:
           type: ImageBlock
