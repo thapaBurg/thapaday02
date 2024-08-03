@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Chinese Students",
-                    "url": "/",
+                    "url": "/blog/Chinese Students",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
