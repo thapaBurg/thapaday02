@@ -68,6 +68,13 @@
             "elementId": ""
         },
         {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "www.youtube.com/@DrSamratThapa",
+            "icon": "youtube",
+            "elementId": ""
+        },
+        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
