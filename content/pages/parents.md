@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Common Concerns
+      text: Dr. Thapa with International Students
       color: text-dark
       styles:
         self:
