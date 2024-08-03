@@ -110,7 +110,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: 'Item #3'
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
