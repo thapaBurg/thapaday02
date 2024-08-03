@@ -81,19 +81,9 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-Chinese Students
+Welcome Chinese Students
+
+![](/images/Chinese_Flyer_resized.jpg)![](/images/WeChat_DrSamratThapa_resized.png)
 
 
-F-1 International students are able to work up to 20 hours per week on campus during the fall and spring semesters, and up to 40 hours per week on campus during the summer and winter vacations.  No special authorization or application is required. “On campus” jobs can be defined as any job that is physically on campus and paid by UL.  Common examples are work done in any campus office, the Library, food services, the Book Store. When you receive your first job offer, you will need to apply for a Social Security Number (SSN). An SSN is required to be paid in the US. Seisha Cunningham, Student Employment Program Coordinator (<cunningham_s@lynchburg.edu>)
-
-Student employment portal.
-
-1.  Visit this link: <https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=06E60EB4A3425A1B8B2E3A5F3F1E2A6F>
-
-2.  Use filter:
-    Position types: Student
-
-3.  Look at the job that best fits you.
-
-4.  Fill up the form; make sure you enter all the information that is mandatory. Don't worry about something optional.
 
