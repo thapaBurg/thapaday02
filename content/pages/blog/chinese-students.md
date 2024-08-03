@@ -30,7 +30,7 @@ bottomSections:
         altText: 'U of  Wisconsin '
         url: /images/20240525_135556.webp
       - type: ImageBlock
-        url: /images/UTexas.jpg
+        url: /images/20240526_141141.webp
         altText: U Texas
       - type: ImageBlock
         url: /images/large_harvard.png
