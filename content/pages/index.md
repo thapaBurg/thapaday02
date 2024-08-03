@@ -416,12 +416,12 @@ sections:
         altText: GEMS School
         elementId: ''
       - type: ImageBlock
-        url: /images/Ullens_logo_30_percent.png
-        altText: Ullens School
-        elementId: ''
-      - type: ImageBlock
         url: /images/kaasthamandap_logo_25_percent.png
         altText: Kaasthamandap
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Ullens_logo_30_percent.png
+        altText: Ullens School
         elementId: ''
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
