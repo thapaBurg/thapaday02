@@ -21,7 +21,7 @@ bottomSections:
         url: /images/20240526_113337_resized.webp
         altText: Lynchburg
       - type: ImageBlock
-        url: /images/20240526_173213.webp
+        url: /images/20240526_141141_resized.webp
         altText: Harvard University
       - type: ImageBlock
         url: /images/screenshot_20240530_012847_wechat.webp
