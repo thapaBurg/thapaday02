@@ -513,14 +513,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Follow Dr. Thapa on [Instagram](https://www.instagram.com/drsamratthapa/)
-    actions:
-      - label: Instagram
-        url: 'https://www.instagram.com/drsamratthapa/'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+      Follow Dr. Thapa on [Instagram.](https://www.instagram.com/drsamratthapa/)
+
+      Students from **China**, you can contact me via WeChat (DrSamratThapa)
+
+      ![](/images/wechat_qr_resized_25.png)
+    actions: []
     media:
       altText: Fun feature preview
       type: ImageBlock
@@ -597,6 +595,48 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Parents
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Hello parents
+    text: >
+      Hello parents and guardians, I am sure you have many questions regarding
+      USA and University. Please watch the video where I try to answer some of
+      the frequently asked questions. For more information, click on the link
+      below and feel free to email me (DrSamratThapa\@gmail.com). 
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtu.be/WHcj9kFbEuU?si=WO48kR6chXGWKwCw'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
