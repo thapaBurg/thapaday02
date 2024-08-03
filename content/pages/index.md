@@ -9,13 +9,14 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
+      If you are interested in applying to the University of Lynchburg (or other
+      American universities) and achieving success in admissions, academics,
+      university life, career, immigration, and more, you are on the right
+      website. Make your selection below.
+
+
       Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
       University of Lynchburg, USA.
-
-
-      If you interested in applying to American universities, and achieving
-      success in admissions, academics, university life, career and immigration,
-      you are on the right website. Make your selection below.
     actions:
       - label: Get started
         altText: ''
@@ -27,7 +28,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Business Card.jpg
+      url: /images/Business Card_resized.jpg
       altText: Dr. Thapa's Business Card
       elementId: ''
       type: ImageBlock
@@ -56,9 +57,9 @@ sections:
         title: Apply to University
         subtitle: University of Lynchburg
         text: >
-          Applying to University of Lynchburg is EASY and FREE. Click on the
-          link below, and flow my step by step instructions. If you have
-          questions, email me.
+          Applying to the University of Lynchburg (or other US universities) is
+          EASY and FREE. Click on the link below and follow my step-by-step
+          instructions. If you have any questions, email or message (IG) me.
         actions:
           - type: Button
             label: Get started
@@ -70,7 +71,7 @@ sections:
             style: primary
             elementId: ''
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -127,8 +128,9 @@ sections:
       - title: Useful Tips
         subtitle: For students in USA
         text: >
-          When you reach USA, you will have many questions such as:  How to open
-          a Bank account, get drivers license,  SIM card, pay taxes and more
+          When you arrive in the USA, you will have many questions such as: how
+          to open a bank account, get a driver's license, obtain a SIM card, pay
+          taxes, and more.
         image:
           url: /images/Helpful Tips.jpg
           altText: Featured icon three
@@ -144,7 +146,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
