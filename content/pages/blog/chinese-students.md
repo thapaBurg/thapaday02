@@ -28,6 +28,7 @@ bottomSections:
         altText: Luther College
       - type: ImageBlock
         altText: 'U of  Wisconsin '
+        url: /images/20240525_135556.webp
       - type: ImageBlock
         url: /images/UTexas.jpg
         altText: U Texas
