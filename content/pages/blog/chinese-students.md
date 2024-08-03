@@ -32,7 +32,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: My students have gone to following Universities
+    subtitle: Pictures from Education USA Fair 2024
     images:
       - type: ImageBlock
         url: /images/University of Lynchburg.jpg
