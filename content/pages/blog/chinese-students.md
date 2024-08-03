@@ -14,23 +14,6 @@ bottomSections:
           - pl-7
           - pb-7
           - pr-7
-  - type: FeaturedItemsSection
-    items: []
-    actions: []
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: ImageGallerySection
     subtitle: Pictures from Education USA Fair 2024
     images:
@@ -58,6 +41,23 @@ bottomSections:
     colors: bg-light-fg-dark
     styles:
       self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    items: []
+    actions: []
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mb-20
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
