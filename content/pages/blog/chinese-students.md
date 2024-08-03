@@ -81,7 +81,6 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-## Welcome Chinese Students
+# Welcome, Chinese Students and Parents
 
 ![](/images/Chinese_Flyer_resized_60.jpg)![](/images/WeChat_DrSamratThapa_resized.png)Apply to University of Lynchburg today, click on "Apply USA" link at the top of the page[ ](/blog)and follow my easy instructions.
-
