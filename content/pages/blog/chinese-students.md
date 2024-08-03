@@ -33,7 +33,7 @@ bottomSections:
         url: /images/20240526_141141.webp
         altText: U Texas
       - type: ImageBlock
-        url: /images/large_harvard.png
+        url: /images/20240526_163915.webp
         altText: Harvard University
       - type: ImageBlock
         url: /images/U at Buffalo.png
