@@ -87,7 +87,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Food
+        title: Momo Party
         subtitle: ''
         image:
           type: ImageBlock
