@@ -80,6 +80,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/groups/nepalistudentslynchburg",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "/mailto:drsamratthapa@gmail.com",
             "icon": "mail",
