@@ -59,8 +59,10 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-On-Campus Work
-F-1 International students are able to work up to 20 hours per week on campus during the fall and spring semesters, and up to 40 hours per week on campus during the summer and winter vacations.  No special authorization or application is required. “On campus” jobs can be defined as any job that is physically on campus and paid by UL.  Common examples are work done in any campus office, the Library, food services, the Book Store. When you receive your first job offer, you will need to apply for a Social Security Number (SSN). An SSN is required to be paid in the US. Seisha Cunningham, Student Employment Program Coordinator (cunningham\_s\@lynchburg.edu)
+Chinese Students
+
+
+F-1 International students are able to work up to 20 hours per week on campus during the fall and spring semesters, and up to 40 hours per week on campus during the summer and winter vacations.  No special authorization or application is required. “On campus” jobs can be defined as any job that is physically on campus and paid by UL.  Common examples are work done in any campus office, the Library, food services, the Book Store. When you receive your first job offer, you will need to apply for a Social Security Number (SSN). An SSN is required to be paid in the US. Seisha Cunningham, Student Employment Program Coordinator (<cunningham_s@lynchburg.edu>)
 
 Student employment portal.
 
