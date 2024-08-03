@@ -100,7 +100,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Stay in Touch
+        title: Dr. Thapa's Friday Meeting
         subtitle: ''
         image:
           type: ImageBlock
