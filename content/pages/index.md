@@ -28,7 +28,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Business Card.jpg
+      url: /images/Business Card_resized.jpg
       altText: Dr. Thapa's Business Card
       elementId: ''
       type: ImageBlock
