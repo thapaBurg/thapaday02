@@ -12,7 +12,7 @@ topSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Overview of studying in USA
     text: >
       Applying to Universities in USA is a very easy process and I am going to
       show you how to do it for FREE. 
