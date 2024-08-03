@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Dr. Thapa's Workshop
+      text: Welcome Parents
       color: text-dark
     subtitle: ''
     text: >
