@@ -15,7 +15,7 @@ bottomSections:
           - pb-7
           - pr-7
   - type: ImageGallerySection
-    subtitle: Pictures from Education USA Fair 2024
+    subtitle: 'Pictures from Education USA Fair China, Spring 2024'
     images:
       - type: ImageBlock
         url: /images/20240526_113337_resized.webp
