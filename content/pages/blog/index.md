@@ -12,13 +12,15 @@ topSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Overview of studying in USA
     text: >
       Applying to Universities in USA is a very easy process and I am going to
-      show you how to do it for free. Since there is a long wait for visa
-      appointment in Nepal, make sure you submit your application 9 months in
-      advance. For example, if you want to go to USA in August 2025, apply by
-      December 2024.
+      show you how to do it for FREE. 
+
+
+      There is a long wait for US visa appointment in Nepal, submit your
+      application 9 months in advance. For example, if you want to go to USA in
+      August 2025, apply by November 2024.
     actions: []
     media:
       type: VideoBlock
@@ -142,11 +144,9 @@ topSections:
         self:
           textAlign: left
     subtitle: Finance Documents
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      You will need letter from bank, statement from bank and you will have to
+      complete several forms.  
     actions: []
     media:
       type: VideoBlock
