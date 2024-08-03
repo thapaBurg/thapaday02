@@ -82,7 +82,7 @@ bottomSections:
           borderWidth: 1
           borderRadius: large
     colors: bg-light-fg-dark
-slug: Parents
+slug: /blog/Parents
 isFeatured: false
 isDraft: false
 seo:
