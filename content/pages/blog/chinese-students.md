@@ -40,7 +40,7 @@ bottomSections:
         url: >-
           /images/mmexport2ec5dfc1a2e371cba1acac1f46124998_1716290826189_resized.webp
         altText: U Texas
-    motion: static
+    motion: move-to-right
     colors: bg-light-fg-dark
     styles:
       self:
