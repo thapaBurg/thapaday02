@@ -604,11 +604,11 @@ sections:
         self:
           textAlign: left
     subtitle: Hello parents
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Hello parents and guardians, I am sure you have many questions regarding
+      USA and University. Please watch the video where I try to answer some of
+      the frequently asked questions. For more information, click on the link
+      below and feel free to email me (DrSamratThapa\@gmail.com). 
     actions: []
     media:
       type: VideoBlock
