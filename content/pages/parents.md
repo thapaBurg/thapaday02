@@ -8,22 +8,27 @@ sections:
       text: Welcome Parents
       color: text-dark
     subtitle: ''
-    text: >
-      Your will pay over USD **$80,000** in four years in USA for education, let
-      Dr. Thapa prepare you to maximize your investment.
+    text: >+
+      As parents of an international student, you will have many things to
+      consider as you prepare to send your child to USA.
 
 
-      Dr. Thapa offers workshops designed to equip international students with
-      the tools they need to thrive from day one in the USA. These workshops are
-      conducted in-person (10-12 hours) in Nepal. The workshops are small-sized,
-      with no more than 6-8 students per group, ensuring an intimate learning
-      environment. Throughout these workshops, we delve deeply into a diverse
-      range of topics, and students engage in multiple assignments with
-      personalized feedback from me. By the end of the workshops, participants
-      will be well-prepared to tackle academic and other challenges confidently.
+      Many parents are concerned about the safety of their children once they
+      arrive in the US.
 
 
-      Obtain Certificate of Completion. 
+      With any parent-child relationship, it is normal to worry about your child
+      and think of them often – but giving them space is very important to help
+      them adapt and grow.
+
+
+      One way parents can stay involved is by regularly scheduled check-ins.
+      Plan a few weekly calls that works with the time difference. Remember that
+      your children are busy with classes, homework, getting involved on campus
+      and more.
+
+
+
     actions:
       - type: Button
         label: Sign Up
