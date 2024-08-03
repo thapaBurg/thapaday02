@@ -138,7 +138,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Dashain Tika
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
