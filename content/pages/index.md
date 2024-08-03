@@ -416,6 +416,10 @@ sections:
         altText: St Xaviers College
         elementId: ''
       - type: ImageBlock
+        url: /images/gems_logo_5_percent.png
+        altText: GEMS School
+        elementId: ''
+      - type: ImageBlock
         url: /images/Ullens_logo_30_percent.png
         altText: Ullens School
         elementId: ''
@@ -434,10 +438,6 @@ sections:
       - type: ImageBlock
         url: /images/lincoln_school_logo_15_percent.png
         altText: Lincoln
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gems_logo_5_percent.png
-        altText: GEMS School
         elementId: ''
     elementId: ''
     motion: static
