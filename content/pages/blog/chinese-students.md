@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Travel
+title: Chinese Students
 date: '2024-07-09'
 excerpt: ''
 bottomSections:
