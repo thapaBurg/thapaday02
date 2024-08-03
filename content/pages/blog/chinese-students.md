@@ -18,7 +18,7 @@ bottomSections:
     subtitle: Pictures from Education USA Fair 2024
     images:
       - type: ImageBlock
-        url: /images/20240526_113337.webp
+        url: /images/20240526_113337_resized.webp
         altText: Lynchburg
       - type: ImageBlock
         url: /images/20240526_173213.webp
