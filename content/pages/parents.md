@@ -104,7 +104,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/20230908_154803.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
