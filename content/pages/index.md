@@ -518,13 +518,7 @@ sections:
       Students from **China**, you can contact me via WeChat (DrSamratThapa)
 
       ![](/images/wechat_qr_resized_25.png)
-    actions:
-      - label: Instagram
-        url: 'https://www.instagram.com/drsamratthapa/'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       altText: Fun feature preview
       type: ImageBlock
