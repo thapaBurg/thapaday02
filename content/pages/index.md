@@ -525,7 +525,6 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
       elementId: Instagram
-      url: /images/wechat-drsamratthapa.webp
     badge:
       label: ''
       color: text-primary
