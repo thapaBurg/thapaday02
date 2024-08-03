@@ -63,7 +63,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Safety
+        title: Father's Day Celebration
         subtitle: ''
         image:
           type: ImageBlock
