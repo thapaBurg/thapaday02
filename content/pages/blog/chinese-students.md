@@ -33,7 +33,8 @@ bottomSections:
         url: /images/20240526_163915_resized.webp
         altText: Harvard University
       - type: ImageBlock
-        url: /images/mmexport2ec5dfc1a2e371cba1acac1f46124998_1716290826189.webp
+        url: >-
+          /images/mmexporte7e1985a024279e4d92485108f89a103_1716290850989_resized.webp
         altText: U at Buffalo
       - type: ImageBlock
         url: /images/20240526_141141.webp
