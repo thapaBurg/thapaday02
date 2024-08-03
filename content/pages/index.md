@@ -412,10 +412,6 @@ sections:
     subtitle: Dr. Thapa has helped students from following and more
     images:
       - type: ImageBlock
-        url: /images/st_xaviers_college_logo_13_percent.png
-        altText: St Xaviers College
-        elementId: ''
-      - type: ImageBlock
         url: /images/gems_logo_5_percent.png
         altText: GEMS School
         elementId: ''
@@ -430,6 +426,10 @@ sections:
       - type: ImageBlock
         url: /images/rbs_logo_70_percent.png
         altText: RBS
+        elementId: ''
+      - type: ImageBlock
+        url: /images/st_xaviers_college_logo_13_percent.png
+        altText: St Xaviers College
         elementId: ''
       - type: ImageBlock
         url: /images/PREMIER-Logo-01_icon_225x75.png
