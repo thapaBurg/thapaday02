@@ -27,6 +27,9 @@ bottomSections:
         url: /images/screenshot_20240530_012847_wechat_resized.webp
         altText: Luther College
       - type: ImageBlock
+        url: /images/20240526_163915_resized.webp
+        altText: Harvard University
+      - type: ImageBlock
         altText: 'U of  Wisconsin '
         url: /images/20240525_135556_resized.webp
       - type: ImageBlock
@@ -37,9 +40,6 @@ bottomSections:
         url: >-
           /images/mmexport2ec5dfc1a2e371cba1acac1f46124998_1716290826189_resized.webp
         altText: U Texas
-      - type: ImageBlock
-        url: /images/20240526_163915_resized.webp
-        altText: Harvard University
     motion: move-to-right
     colors: bg-light-fg-dark
     styles:
