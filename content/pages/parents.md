@@ -8,7 +8,7 @@ sections:
       text: Welcome Parents
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       As parents of an international student, you will have many things to
       consider as you prepare to send your child to USA.
 
@@ -29,6 +29,10 @@ sections:
 
 
 
+
+      I send out a weekly email to all Nepali students and have meeting for
+      Nepali students every Friday at 4 pm. Encourage them to attend my
+      meetings. 
     actions:
       - type: Button
         label: Sign Up
