@@ -90,7 +90,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 3: Tips on Essay'
+      text: 'Video 3: Documents and Essay'
       color: text-dark
       styles:
         self:
