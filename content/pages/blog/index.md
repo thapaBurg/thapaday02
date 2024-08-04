@@ -7,7 +7,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 1: Study in USA'
+      text: 'Video 0: Study in USA'
       color: text-dark
       styles:
         self:
@@ -52,18 +52,18 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 2: How to apply to Lynchburg?'
+      text: 'Video 1: How to apply to Lynchburg?'
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: Easy step-by-step guide to apply
-    text: "**STEP 1**:\_Go to\_[Lynchburg.edu](http://lynchburg.edu/)\_and click on **Apply now**\n\n**STEP 2**:\_“[Create an account](https://admissions.lynchburg.edu/account/register?r=https%3a%2f%2fadmissions.lynchburg.edu%2fapply%2f%3f_gl%3d1*1iw5duk*_gcl_au*NDQ3MDcwNTM0LjE3MTk0MTU4OTk.)”  at the bottom of the page. You will receive a Temporary pin in your email.\n\n**STEP 3**:\_Log in again. and begin the Free application.\n\nWhen you get to “**Enrollment**” page, you will see “**What company are your working with**?“, make sure to select\_**Dr. Samrat\nThapa**. You will receive lot of help from me.\n\n**STEP 4**:\_Once you submit your application, you will get access to a portal. Email me if you don’t see it in few days (<DrSamratThapa@gmail.com>).\n\n**STEP 5**:\_Fill this form <[Link](https://forms.gle/WM2iVwp1zQAWnByEA)>, and Dr. Thapa will make sure your application is processed in a timely fashion. Only fill out this form if you selected Dr. Samrat Thapa for the question “**What company are you working with**?” in the application.\n\nYou will submit Four documents in the Lynchburg portal A) Passport Copy B) Essay (minimum 200 words) C) High School Transcript D) English Proficiency Test ([TOEFL](https://www.ets.org/toefl.html),\_[IELTS](https://ielts.org/),\_[DUO](https://englishtest.duolingo.com/test_takers))\n\n**STEP 6**:\_You will submit Four documents in the Lynchburg portal A) Passport Copy B) Essay (minimum 200 words) C) High School Transcript D) English Proficiency Test ([TOEFL](https://www.ets.org/toefl.html),\_[IELTS](https://ielts.org/),\_[DUO](https://englishtest.duolingo.com/test_takers))\n"
+    text: "**STEP 1**:\_Go to\_[Lynchburg.edu](http://lynchburg.edu/)\_and click on **Apply now**\n\n**STEP 2**:\_“[Create an account](https://admissions.lynchburg.edu/account/register?r=https%3a%2f%2fadmissions.lynchburg.edu%2fapply%2f%3f_gl%3d1*1iw5duk*_gcl_au*NDQ3MDcwNTM0LjE3MTk0MTU4OTk.)”  at the bottom of the page. You will receive a Temporary pin in your email.\n\n**STEP 3**:\_Log in again. and begin the Free application.\n\nWhen you get to “**Enrollment**” page, you will see “**What company are your working with**?“, make sure to select\_**Dr. Samrat\nThapa**. You will receive lot of help from me.\n\n**STEP 4**:\_Once you submit your application, you will get access to a portal. Email me if you don’t see it in few days (<DrSamratThapa@gmail.com>).\n\n**STEP 5**:\_Fill this form <[Link](https://forms.gle/WM2iVwp1zQAWnByEA)>, and Dr. Thapa will make sure your application is processed in a timely fashion. \n"
     actions: []
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://youtu.be/QdF7AmwK9BQ'
+      url: 'https://youtu.be/HZICdi2Voo8'
       autoplay: true
       loop: true
       muted: true
@@ -90,23 +90,13 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 3: Tips on Essay'
+      text: 'Video 2: Documents and Essay'
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: Essay Tips
-    text: >+
-      You need to write an essay on why you are interested in University of
-      Lynchburg (minimum 200 words). You could write about following things: 1)
-      your desire to study in USA 2) Desire to go to a small private university
-      where you will receive lot of support (Average classroom size 16 students)
-      3) Your major 4) opportunity to do research with professors 5) Support and
-      mentorship by Dr. Thapa 6) Diversity of international students in
-      Lynchburg 7) You might be interested in playing intramural sports 8)
-      Opportunity to be part of numerous Students clubs at University of
-      Lynchburg
-
+    subtitle: Instructions
+    text: "Next, You will submit Four documents\n\nA) Passport Copy \n\nB) Essay on why you are interested in University of Lynchburg (minimum 200 words) \n\nC) High School Transcript (4 years) \n\nD) English Proficiency Test ([TOEFL](https://www.ets.org/toefl.html),\_[IELTS](https://ielts.org/),\_[DUO](https://englishtest.duolingo.com/test_takers))\n\nEASSY: You could write about following things: 1) your desire to study in USA 2) Desire to go to a small private university where you will receive lot of support (Average classroom size 16 students) 3) Your major 4) opportunity to do research with professors 5) Support and mentorship by Dr. Thapa 6) Diversity of international students in Lynchburg 7) You might be interested in playing intramural sports 8) Opportunity to be part of numerous Students clubs at University of Lynchburg\n"
     actions: []
     media:
       type: VideoBlock
@@ -138,7 +128,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 4: Certification of Finances'
+      text: 'Video 3: Certification of Finances'
       color: text-dark
       styles:
         self:
@@ -178,7 +168,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 5: Acceptance Letter'
+      text: 'Video 4: Acceptance Letter'
       color: text-dark
       styles:
         self:
