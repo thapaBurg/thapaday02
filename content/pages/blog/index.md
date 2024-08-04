@@ -96,17 +96,7 @@ topSections:
         self:
           textAlign: left
     subtitle: Essay Tips
-    text: >+
-      You need to write an essay on why you are interested in University of
-      Lynchburg (minimum 200 words). You could write about following things: 1)
-      your desire to study in USA 2) Desire to go to a small private university
-      where you will receive lot of support (Average classroom size 16 students)
-      3) Your major 4) opportunity to do research with professors 5) Support and
-      mentorship by Dr. Thapa 6) Diversity of international students in
-      Lynchburg 7) You might be interested in playing intramural sports 8)
-      Opportunity to be part of numerous Students clubs at University of
-      Lynchburg
-
+    text: "Next, You will submit Four documents\n\nA) Passport Copy \n\nB) Essay on why you are interested in University of Lynchburg (minimum 200 words) \n\nC) High School Transcript (4 years) \n\nD) English Proficiency Test ([TOEFL](https://www.ets.org/toefl.html),\_[IELTS](https://ielts.org/),\_[DUO](https://englishtest.duolingo.com/test_takers))\n\nEASSY: You could write about following things: 1) your desire to study in USA 2) Desire to go to a small private university where you will receive lot of support (Average classroom size 16 students) 3) Your major 4) opportunity to do research with professors 5) Support and mentorship by Dr. Thapa 6) Diversity of international students in Lynchburg 7) You might be interested in playing intramural sports 8) Opportunity to be part of numerous Students clubs at University of Lynchburg\n"
     actions: []
     media:
       type: VideoBlock
