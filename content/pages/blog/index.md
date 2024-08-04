@@ -168,7 +168,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 5: Acceptance Letter'
+      text: 'Video 4: Acceptance Letter'
       color: text-dark
       styles:
         self:
