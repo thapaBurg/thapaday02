@@ -39,7 +39,7 @@ sections:
 
     actions:
       - type: Button
-        label: Sign Up
+        label: Workshops
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
         icon: arrowRight
