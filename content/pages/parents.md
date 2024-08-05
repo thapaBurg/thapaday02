@@ -8,7 +8,7 @@ sections:
       text: Welcome Parents
       color: text-dark
     subtitle: ''
-    text: >
+    text: >+
       As parents of an international student, you will have many things to
       consider as you prepare to send your child to USA.
 
@@ -28,11 +28,15 @@ sections:
       and more.
 
 
-
-
       I send out a weekly email to all Nepali students and have meeting for
       Nepali students every Friday at 4 pm. Encourage them to attend my
-      meetings. 
+      meetings.
+
+
+      Make sure your children attend my workshops in Kathmandu before they leave
+      for USA. I will prepare them for academics, social life, immigration and
+      more before they leave for USA. 
+
     actions:
       - type: Button
         label: Sign Up
