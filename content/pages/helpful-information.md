@@ -30,7 +30,7 @@ sections:
           - type: Button
             label: Read more
             altText: ''
-            url: /Blog/Banking
+            url: /blog/Banking
             showIcon: false
             icon: arrowRight
             iconPosition: right
