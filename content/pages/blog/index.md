@@ -336,11 +336,9 @@ topSections:
         self:
           textAlign: left
     subtitle: USA PDO
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Watch this video a week before you leave for USA. In this video you will
+      learn about packing, travel tips, and other important information.  
     actions: []
     media:
       type: VideoBlock
