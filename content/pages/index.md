@@ -140,7 +140,7 @@ sections:
           - type: Button
             label: Explore
             altText: ''
-            url: /careers
+            url: /Helpful-Information
             showIcon: false
             icon: arrowRight
             iconPosition: right
