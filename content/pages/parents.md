@@ -40,8 +40,7 @@ sections:
     actions:
       - type: Button
         label: Workshops
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
+        url: /Workshop
         icon: arrowRight
         iconPosition: right
         style: secondary
