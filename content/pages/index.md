@@ -235,7 +235,7 @@ sections:
       type: TitleBlock
       text: Student Feedback
       color: text-primary
-    subtitle: ''
+    subtitle: 'Student Feedback '
     items:
       - title: Testimonial 1
         tagline: ''
