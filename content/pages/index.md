@@ -526,7 +526,16 @@ sections:
       Follow Dr. Thapa on [Instagram.](https://www.instagram.com/drsamratthapa/)
 
       Students from **China**, you can contact me via WeChat (DrSamratThapa)
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.instagram.com/drsamratthapa/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       altText: Fun feature preview
       type: ImageBlock
