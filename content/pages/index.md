@@ -106,7 +106,7 @@ sections:
           immigration and more in USA. Students receive certificate after
           completion of workshops.
         image:
-          url: /images/workshops by Thapa.png
+          url: /images/workshops_by_Thapa_resized.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
