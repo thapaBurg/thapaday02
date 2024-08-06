@@ -241,7 +241,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Dr. Thapa's has advised students from following Universities and more
       color: text-dark
   - type: CarouselSection
     title:
