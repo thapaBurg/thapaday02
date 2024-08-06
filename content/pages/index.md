@@ -230,6 +230,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
   - type: CarouselSection
     subtitle: 'Student Feedback '
     items:
