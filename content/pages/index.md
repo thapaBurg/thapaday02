@@ -119,7 +119,7 @@ sections:
               - pt-3
               - pl-3
               - pb-0
-              - pr-8
+              - pr-3
             borderRadius: x-large
             flexDirection: row
             textAlign: left
