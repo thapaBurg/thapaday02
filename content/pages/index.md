@@ -8,29 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      > Get Admission at the 
-
-      >
-
-      > **University of Lynchburg**
+    text: >
+      Get Admission at the University of Lynchburg. Preparation for studies
+      University life, career, immigration, and more. Free resources for
+      international students in USA. Advising services.
 
 
-      > Preparation for studies in USA
-
-
-      > University life, career, immigration, and more
-
-
-      > Resources for international students in USA
-
-
-      > Consulting Services
-
-
-      > *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
+      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
       University of Lynchburg, USA.*
-
     actions:
       - label: Get started
         altText: ''
