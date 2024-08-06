@@ -419,7 +419,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: ImageGallerySection
-    subtitle: Dr. Thapa has helped students from following schools and more
+    subtitle: Helped students from following and more
     images:
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
