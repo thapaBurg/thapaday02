@@ -9,20 +9,17 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      *   Apply to the University of Lynchburg (or other American universities) 
+      *   Apply to the University of Lynchburg (or other American universities)
 
 
-      *   Successful Admissions 
+      *   Successful Admissions
 
 
       *   Preparation for academics, university life, career, US immigration,
       and more
 
 
-      *   Free resources for international students in USA  
-
-
-      Select below.
+      *   Free resources for international students in USA
 
 
       Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
