@@ -144,7 +144,7 @@ sections:
             showIcon: false
             icon: arrowLeft
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutral-fg-dark
         styles:
