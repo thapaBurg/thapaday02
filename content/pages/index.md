@@ -596,7 +596,7 @@ sections:
       <DrSamratThapa@gmail.com>.
     actions:
       - type: Button
-        label: Get started
+        label: Email
         altText: ''
         url: 'mailto:DrSamratThapa@gmail.com'
         showIcon: false
