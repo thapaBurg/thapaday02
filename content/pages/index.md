@@ -157,6 +157,7 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutral
       - title: Useful Tips
         subtitle: For students in USA
         text: >
