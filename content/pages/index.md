@@ -9,22 +9,13 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      *   Get Admission at the University of Lynchburg (and other US
-      Universities)
+      ###### Get Admission at the University of Lynchburg. Preparation for
+      studies University life, career, immigration, and more. Free resources for
+      international students in USA. Advising services.
 
 
-      *   Help with University Admissions
-
-
-      *   Preparation for US academics, university life, career, immigration,
-      and more
-
-
-      *   Free resources for international students in USA
-
-
-      Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
-      University of Lynchburg, USA.
+      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
+      University of Lynchburg, USA.*
     actions:
       - label: Get started
         altText: ''
@@ -48,9 +39,9 @@ sections:
         flexDirection: row
         padding:
           - pt-0
-          - pl-0
+          - pl-2
           - pb-0
-          - pr-1
+          - pr-2
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -106,7 +97,7 @@ sections:
           immigration and more in USA. Students receive certificate after
           completion of workshops.
         image:
-          url: /images/workshops by Thapa.png
+          url: /images/workshops_by_Thapa_resized.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -191,7 +182,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Dr. Thapa's has advised students from following Universities and more
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/logo_harvard_25_percent.png
@@ -428,7 +419,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: ImageGallerySection
-    subtitle: Dr. Thapa has helped students from following schools and more
+    subtitle: Helped students from following and more
     images:
       - type: ImageBlock
         url: /images/gems_logo_5_percent.png
@@ -535,7 +526,16 @@ sections:
       Follow Dr. Thapa on [Instagram.](https://www.instagram.com/drsamratthapa/)
 
       Students from **China**, you can contact me via WeChat (DrSamratThapa)
-    actions: []
+    actions:
+      - type: Button
+        label: Instagram
+        altText: Instagram
+        url: 'https://www.instagram.com/drsamratthapa/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       altText: Fun feature preview
       type: ImageBlock
@@ -568,10 +568,13 @@ sections:
     actions:
       - type: Button
         label: Email
+        altText: ''
         url: 'mailto:DrSamratThapa@gmail.com'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/study-abroad.png
@@ -592,12 +595,15 @@ sections:
       variety of services to Universities, High Schools and more. Email
       <DrSamratThapa@gmail.com>.
     actions:
-      - label: Email
+      - type: Button
+        label: Email
+        altText: ''
         url: 'mailto:DrSamratThapa@gmail.com'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
-        type: Button
+        style: primary
+        elementId: ''
     media:
       url: /images/IMG-20240628-WA0006.jpg
       altText: Dope design preview
