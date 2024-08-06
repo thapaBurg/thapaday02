@@ -9,13 +9,14 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      *   Apply to the University of Lynchburg (or other American universities)
+      *   Get Admission at the University of Lynchburg (and other US
+      Universities)
 
 
-      *   Successful Admissions
+      *   Help with University Admissions
 
 
-      *   Preparation for academics, university life, career, US immigration,
+      *   Preparation for US academics, university life, career, immigration,
       and more
 
 
