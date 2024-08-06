@@ -303,7 +303,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Testimonial 3
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: University of Lynchburg Student
         text: "##### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
         image:
