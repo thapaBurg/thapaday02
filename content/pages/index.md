@@ -528,7 +528,7 @@ sections:
       Students from **China**, you can contact me via WeChat (DrSamratThapa)
     actions:
       - type: Button
-        label: Get started
+        label: Instagram
         altText: ''
         url: 'https://www.instagram.com/drsamratthapa/'
         showIcon: false
