@@ -50,7 +50,7 @@ sections:
           - pt-0
           - pl-2
           - pb-0
-          - pr-1
+          - pr-2
   - type: FeaturedItemsSection
     title:
       text: ''
