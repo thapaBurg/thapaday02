@@ -241,7 +241,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Dr. Thapa's students have attended
+      text: My students have attended
       color: text-dark
   - type: CarouselSection
     title:
