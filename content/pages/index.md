@@ -233,7 +233,7 @@ sections:
     title:
       type: TitleBlock
       text: Universities my students have attended
-      color: text-dark
+      color: text-neutral
   - type: CarouselSection
     title:
       type: TitleBlock
