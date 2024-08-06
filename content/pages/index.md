@@ -233,7 +233,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: Feedback from students
+      text: Student Feedback
       color: text-primary
     subtitle: ''
     items:
