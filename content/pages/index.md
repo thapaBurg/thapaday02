@@ -703,7 +703,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "##### [DrSamratThapa@gmail.com/ ](mailto:DrSamratThapa@gmail.com)[Thapa.s@lynchburg.edu /](mailto:thapa.s@lynchburg.edu)[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n##### [Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\n**WeChat ID**: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
+    text: "##### <DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n##### [Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\n**WeChat ID**: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
     badge:
       label: ''
       color: text-primary
