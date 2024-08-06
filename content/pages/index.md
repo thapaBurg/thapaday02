@@ -182,7 +182,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: ''
+    subtitle: Student Advisee
     images:
       - type: ImageBlock
         url: /images/logo_harvard_25_percent.png
