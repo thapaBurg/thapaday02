@@ -136,7 +136,7 @@ sections:
       - type: FeaturedItem
         title: Useful Tips
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: For students in USA
         text: >
           When you arrive in the USA, you will have many questions such as: how
           to open a bank account, get a driver's license, obtain a SIM card, pay
