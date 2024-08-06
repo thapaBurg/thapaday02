@@ -240,7 +240,10 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    title: null
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: Feedback from students
     items:
       - title: Testimonial 1
