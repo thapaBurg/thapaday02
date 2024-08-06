@@ -154,7 +154,7 @@ sections:
               - pt-3
               - pl-3
               - pb-8
-              - pr-8
+              - pr-3
             borderRadius: x-large
             flexDirection: row
       - title: Useful Tips
