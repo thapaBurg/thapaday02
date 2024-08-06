@@ -241,7 +241,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Dr. Thapa's has advised students from following Universities and more
+      text: Dr. Thapa's students have attended
       color: text-dark
   - type: CarouselSection
     title:
