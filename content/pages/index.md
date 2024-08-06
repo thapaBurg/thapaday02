@@ -567,7 +567,7 @@ sections:
       and Study abroad opportunities, email me. 
     actions:
       - type: Button
-        label: Get started
+        label: Email
         altText: ''
         url: 'mailto:DrSamratThapa@gmail.com'
         showIcon: false
