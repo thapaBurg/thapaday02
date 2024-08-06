@@ -9,10 +9,18 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      If you are interested in applying to the University of Lynchburg (or other
-      American universities) and achieving success in admissions, academics,
-      university life, career, immigration, and more, you are on the right
-      website. Make your selection below.
+      *   Get Admission at the University of Lynchburg (and other US
+      Universities)
+
+
+      *   Help with University Admissions
+
+
+      *   Preparation for US academics, university life, career, immigration,
+      and more
+
+
+      *   Free resources for international students in USA
 
 
       Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
@@ -59,7 +67,7 @@ sections:
         text: >
           Applying to the University of Lynchburg (or other US universities) is
           EASY and FREE. Click on the link below and follow my step-by-step
-          instructions. If you have any questions, email or message (IG) me.
+          instructions. 
         actions:
           - type: Button
             label: Get started
@@ -75,10 +83,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
@@ -116,10 +124,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-0
-              - pl-0
+              - pt-3
+              - pl-3
               - pb-0
-              - pr-8
+              - pr-3
             borderRadius: x-large
             flexDirection: row
             textAlign: left
@@ -150,10 +158,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-0
-              - pl-0
+              - pt-3
+              - pl-3
               - pb-0
-              - pr-0
+              - pr-3
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
