@@ -142,7 +142,7 @@ sections:
             altText: ''
             url: /Helpful-Information
             showIcon: false
-            icon: arrowDown
+            icon: ''
             iconPosition: right
             style: primary
             elementId: ''
