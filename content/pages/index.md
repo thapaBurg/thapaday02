@@ -230,10 +230,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: 'US Universities '
-      color: text-primary
   - type: CarouselSection
     title:
       type: TitleBlock
