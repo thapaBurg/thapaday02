@@ -59,7 +59,7 @@ sections:
         text: >
           Applying to the University of Lynchburg (or other US universities) is
           EASY and FREE. Click on the link below and follow my step-by-step
-          instructions. If you have any questions, email or message (IG) me.
+          instructions. 
         actions:
           - type: Button
             label: Get started
