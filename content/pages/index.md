@@ -232,7 +232,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: My students have gone here
+      text: Universities my students have attended
       color: text-dark
   - type: CarouselSection
     title:
