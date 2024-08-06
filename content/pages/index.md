@@ -153,7 +153,7 @@ sections:
               - pt-3
               - pl-3
               - pb-0
-              - pr-0
+              - pr-3
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
