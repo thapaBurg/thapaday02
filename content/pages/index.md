@@ -357,7 +357,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Testimonial 5
-        tagline: Testimonial 5
+        tagline: ''
         subtitle: University of Lynchburg Student
         text: >+
           ##### "I appreciate your guidance, support that provided us before
