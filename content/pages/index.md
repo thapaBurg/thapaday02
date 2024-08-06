@@ -328,7 +328,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Testimonial 4
-        tagline: Testimonial 4
+        tagline: ''
         subtitle: University of Lynchburg Student
         text: >+
           ##### "Thank you for being a valuable part of my academic journey, for
