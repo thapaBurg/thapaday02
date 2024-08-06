@@ -241,7 +241,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: My students have attended
+      text: My students have gone here
       color: text-dark
   - type: CarouselSection
     title:
