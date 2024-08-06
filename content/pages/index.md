@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Get Admission at the University of Lynchburg. Preparation for studies
-      University life, career, immigration, and more. Free resources for
+      ###### Get Admission at the University of Lynchburg. Preparation for
+      studies University life, career, immigration, and more. Free resources for
       international students in USA. Advising services.
 
 
