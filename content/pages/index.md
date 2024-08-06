@@ -146,7 +146,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Useful Tips
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
