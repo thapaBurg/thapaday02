@@ -356,7 +356,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Testimonial 5
         tagline: Testimonial 5
         subtitle: University of Lynchburg Student
         text: >+
