@@ -242,7 +242,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Feedback from students
       color: text-dark
     subtitle: Feedback from students
     items:
