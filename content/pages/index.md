@@ -232,7 +232,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: 'Universities '
+      text: 'US Universities '
       color: text-primary
   - type: CarouselSection
     title:
