@@ -594,7 +594,16 @@ sections:
       regular speaker at Education USA/USEF locations across Asia. He provides
       variety of services to Universities, High Schools and more. Email
       <DrSamratThapa@gmail.com>.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'mailto:DrSamratThapa@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/IMG-20240628-WA0006.jpg
       altText: Dope design preview
