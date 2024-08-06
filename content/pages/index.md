@@ -231,10 +231,6 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: Student Feedback
-      color: text-primary
     subtitle: 'Student Feedback '
     items:
       - title: Testimonial 1
