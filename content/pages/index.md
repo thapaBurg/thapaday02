@@ -182,7 +182,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: ''
+    subtitle: Student Advisee
     images:
       - type: ImageBlock
         url: /images/logo_harvard_25_percent.png
@@ -225,17 +225,14 @@ sections:
         padding:
           - pt-3
           - pl-3
-          - pb-2
+          - pb-4
           - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: Feedback from students
-      color: text-primary
-    subtitle: ''
+    subtitle: 'Student Feedback '
     items:
       - title: Testimonial 1
         tagline: ''
@@ -388,6 +385,7 @@ sections:
           - pr-3
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
@@ -467,6 +465,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -704,7 +703,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "###### [**DrSamratThapa@gmail.com**](mailto:DrSamratThapa@gmail.com)                          [**Thapa.s@lynchburg.edu**](mailto:thapa.s@lynchburg.edu)\n\n###### [**DrSamratThapa@hotmail.com (China)** ](mailto:drsamratthapa@hotmail.com)\n\n###### [**Instagram**](https://www.instagram.com/drsamratthapa/)                                                       [**LinkedIn**](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
+    text: "##### <DrSamratThapa@gmail.com>\n\n[Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n##### [Instagram](https://www.instagram.com/drsamratthapa/)\n\n[LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\n**WeChat ID**: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
     badge:
       label: ''
       color: text-primary
