@@ -385,6 +385,7 @@ sections:
           - pr-3
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
