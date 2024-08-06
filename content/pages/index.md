@@ -137,8 +137,10 @@ sections:
         title: Useful Tips
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          When you arrive in the USA, you will have many questions such as: how
+          to open a bank account, get a driver's license, obtain a SIM card, pay
+          taxes, and more.
         image:
           type: ImageBlock
           url: /images/Helpful Tips.jpg
