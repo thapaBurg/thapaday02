@@ -152,7 +152,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /Useful Tips
+            url: /Helpful-Information
             showIcon: false
             icon: arrowRight
             iconPosition: right
