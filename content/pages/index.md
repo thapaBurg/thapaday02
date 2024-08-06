@@ -143,7 +143,7 @@ sections:
             url: /Helpful-Information
             showIcon: false
             icon: arrowLeft
-            iconPosition: left
+            iconPosition: right
             style: primary
             elementId: ''
         colors: bg-neutral-fg-dark
