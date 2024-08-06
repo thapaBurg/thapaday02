@@ -39,10 +39,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-1
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -116,9 +116,9 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
+              - pt-0
+              - pl-0
+              - pb-0
               - pr-8
             borderRadius: x-large
             flexDirection: row
@@ -150,10 +150,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
@@ -171,10 +171,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-0
+          - pt-0
+          - pl-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
