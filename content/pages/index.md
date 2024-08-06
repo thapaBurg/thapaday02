@@ -42,7 +42,7 @@ sections:
           - pt-0
           - pl-0
           - pb-16
-          - pr-16
+          - pr-1
   - type: FeaturedItemsSection
     title:
       text: ''
