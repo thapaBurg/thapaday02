@@ -529,7 +529,7 @@ sections:
     actions:
       - type: Button
         label: Instagram
-        altText: ''
+        altText: Instagram
         url: 'https://www.instagram.com/drsamratthapa/'
         showIcon: false
         icon: arrowRight
