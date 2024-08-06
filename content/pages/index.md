@@ -133,20 +133,24 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Useful Tips
+      - type: FeaturedItem
+        title: Useful Tips
+        tagline: ''
         subtitle: For students in USA
         text: >
           When you arrive in the USA, you will have many questions such as: how
           to open a bank account, get a driver's license, obtain a SIM card, pay
           taxes, and more.
         image:
-          url: /images/Helpful Tips.jpg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/Helpful Tips.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
         actions:
           - type: Button
-            label: Explore
+            label: Get started
             altText: ''
             url: /Helpful-Information
             showIcon: false
@@ -164,7 +168,7 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: row
-        type: FeaturedItem
+            borderColor: border-neutral
     actions: []
     badge:
       label: ''
@@ -228,19 +232,22 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-3
+          - pl-3
+          - pb-2
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
   - type: CarouselSection
-    title: null
-    subtitle: Feedback from students
+    title:
+      type: TitleBlock
+      text: Feedback from students
+      color: text-primary
+    subtitle: ''
     items:
-      - title: ''
-        tagline: Testimonial 1
+      - title: Testimonial 1
+        tagline: ''
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >+
           ##### "I recently had the incredible opportunity to participate in Dr.
@@ -270,8 +277,8 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
-        tagline: Testimonial 2
+      - title: Testimonial 2
+        tagline: ''
         subtitle: Augustana Student
         text: "##### \"It was absolutely wonderful to see you today and talk about college. I feel a lot more excited about experiencing undergrad in the US now.\_The kids that are not showing up are certainly missing out.\"\n\n"
         image:
@@ -295,8 +302,8 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
-        tagline: Testimonial 3
+      - title: Testimonial 3
+        tagline: ''
         subtitle: University of Lynchburg Student
         text: "##### \"Thank you for your guidance and support in this new journey of my life. In such a short period of time you have helped me in so many different ways. Thank you for making us feel like home here. I am always grateful to you for the things that you have\_taught me\"\n\n"
         image:
@@ -320,8 +327,8 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
-        tagline: Testimonial 4
+      - title: Testimonial 4
+        tagline: ''
         subtitle: University of Lynchburg Student
         text: >+
           ##### "Thank you for being a valuable part of my academic journey, for
@@ -349,8 +356,8 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
-        tagline: Testimonial 5
+      - title: Testimonial 5
+        tagline: ''
         subtitle: University of Lynchburg Student
         text: >+
           ##### "I appreciate your guidance, support that provided us before
@@ -384,6 +391,10 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-3
+          - pl-3
+          - pr-3
       subtitle:
         textAlign: center
   - type: GenericSection
@@ -458,10 +469,10 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-3
+          - pl-3
+          - pb-1
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
@@ -664,10 +675,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-3
+          - pl-3
+          - pb-0
+          - pr-3
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
@@ -687,7 +698,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "<DrSamratThapa@gmail.com>                            [Thapa.s@lynchburg.edu](mailto:thapa.s@lynchburg.edu)\n\n[DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)\n\n[Instagram](https://www.instagram.com/drsamratthapa/)                                                          [LinkedIn](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
+    text: "###### [**DrSamratThapa@gmail.com**](mailto:DrSamratThapa@gmail.com)                          [**Thapa.s@lynchburg.edu**](mailto:thapa.s@lynchburg.edu)\n\n###### [**DrSamratThapa@hotmail.com (China)** ](mailto:drsamratthapa@hotmail.com)\n\n###### [**Instagram**](https://www.instagram.com/drsamratthapa/)                                                       [**LinkedIn**](https://www.linkedin.com/in/drsamratthapa/)\n\nWeChat ID: DrSamratThapa\n\nUniversity of Lynchburg\n\nLynchburg,\_VA\_24501 USA\n"
     badge:
       label: ''
       color: text-primary
