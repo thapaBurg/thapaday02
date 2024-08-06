@@ -243,7 +243,7 @@ sections:
     title: null
     subtitle: Feedback from students
     items:
-      - title: ''
+      - title: Testimonial 1
         tagline: Testimonial 1
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >+
