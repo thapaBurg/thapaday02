@@ -565,7 +565,16 @@ sections:
     text: >
       High School and University Students, if you are interested in Internships
       and Study abroad opportunities, email me. 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'mailto:DrSamratThapa@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/study-abroad.png
