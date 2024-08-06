@@ -118,7 +118,7 @@ sections:
             padding:
               - pt-0
               - pl-0
-              - pb-8
+              - pb-0
               - pr-8
             borderRadius: x-large
             flexDirection: row
