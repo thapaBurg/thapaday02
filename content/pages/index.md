@@ -472,7 +472,7 @@ sections:
           - pt-3
           - pl-3
           - pb-16
-          - pr-16
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
