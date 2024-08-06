@@ -572,6 +572,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/study-abroad.png
