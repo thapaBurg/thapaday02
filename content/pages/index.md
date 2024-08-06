@@ -135,7 +135,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Useful Tips
-        tagline: This is the tagline
+        tagline: ''
         subtitle: For students in USA
         text: >
           When you arrive in the USA, you will have many questions such as: how
