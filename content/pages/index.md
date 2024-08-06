@@ -243,7 +243,7 @@ sections:
     title:
       type: TitleBlock
       text: Feedback from students
-      color: text-dark
+      color: text-neutral
     subtitle: Feedback from students
     items:
       - title: Testimonial 1
