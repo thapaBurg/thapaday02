@@ -13,14 +13,14 @@ sections:
       Universities)
 
 
-      *   Help with University Admissions
-
-
       *   Preparation for US academics, university life, career, immigration,
       and more
 
 
       *   Free resources for international students in USA
+
+
+      *   Consulting Services
 
 
       Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
