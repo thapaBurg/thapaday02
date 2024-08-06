@@ -244,7 +244,7 @@ sections:
     subtitle: Feedback from students
     items:
       - title: Testimonial 1
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Aaditya Subedi, Harvard University 2028'
         text: >+
           ##### "I recently had the incredible opportunity to participate in Dr.
