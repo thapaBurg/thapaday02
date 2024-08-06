@@ -169,38 +169,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderColor: border-neutral
-      - title: Useful Tips
-        subtitle: For students in USA
-        text: >
-          When you arrive in the USA, you will have many questions such as: how
-          to open a bank account, get a driver's license, obtain a SIM card, pay
-          taxes, and more.
-        image:
-          url: /images/Helpful Tips.jpg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: Explore
-            altText: ''
-            url: /Helpful-Information
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
     actions: []
     badge:
       label: ''
