@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   type: ImageBlock
-  url: /images/20240709_114837.jpg
+  url: /images/Nabil Bank.png
   altText: Case study 1
   styles:
     self:
