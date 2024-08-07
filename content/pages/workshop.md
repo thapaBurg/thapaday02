@@ -163,7 +163,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: 'Dr. Thapa''s Workshops '
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Workshops prepare international students to be successful in USA
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
