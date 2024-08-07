@@ -371,10 +371,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Dr. Samrat Thapa
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Dr. Samrat Thapa is professor and Director if Asia Initiatives at the
+    University of Lynchburg
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
