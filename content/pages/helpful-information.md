@@ -17,7 +17,7 @@ sections:
         tagline: ''
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          How to make payments to US universities from Nepal? 
         image:
           type: ImageBlock
           url: /images/Nabil Bank.png
