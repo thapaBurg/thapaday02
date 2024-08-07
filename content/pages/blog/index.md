@@ -371,7 +371,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Samrat Thapa
+  metaTitle: Dr. Samrat Thapa
   metaDescription: >-
     Dr. Samrat Thapa is professor and Director if Asia Initiatives at the
     University of Lynchburg
