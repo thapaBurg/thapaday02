@@ -181,7 +181,7 @@ slug: Parents
 seo:
   type: Seo
   metaTitle: Parents
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Parents
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
