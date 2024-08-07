@@ -18,7 +18,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Video: How to make payment 1st semester?'
       color: text-dark
       styles:
         self:
