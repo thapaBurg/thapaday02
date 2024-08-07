@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Banking in Nepal
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           How to make payments to US universities from Nepal? 
         image:
