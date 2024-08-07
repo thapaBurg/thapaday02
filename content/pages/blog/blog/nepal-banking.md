@@ -101,6 +101,9 @@ styles:
 ---
 ### **Methods to send money to USA in the First Semester**
 
+By Nabil Bank. 
+![](/images/Nabil%20Bank.png)
+
 **1) Bank Drafts (most students use this):**
 
 \- Bank Draft is a cheque issued by one bank to another bank requesting to pay a specified sum of money to the person or institution named in the draft. It will be safer than carrying cash.
@@ -109,8 +112,10 @@ styles:
 
 \- Students need to submit ‘No Objection Letter’ and photocopies of passport along with the I-20 to exchange currency.
 
-\*\*
-2\) Swift Transfer:\*\*
+*-some banks require invoice from university. Email your university* 
+
+
+**2) Swift Transfer:**
 
 \- Also known as wire transfer.
 
@@ -118,7 +123,9 @@ styles:
 
 \- You should be aware of Bank name/address, Account name/number, and Swift code of Bank where your college has an account. Email me if you need this information (<DrSamratThapa@gmail.com>)
 
-**3) Nabil Visa International Prepaid Card (USD Denominated):**
+*-some banks require invoice from university. Email your university 
+
+***3) Nabil Visa International Prepaid Card (USD Denominated):**
 
 \- Nabil Visa International prepaid card is issued against Passport & air ticket facility as per NRB circulars.
 
@@ -136,15 +143,17 @@ styles:
 
 \- Always visit only trusted merchant websites for online payment of merchandise & services. You can know more details by visiting the link \[Nabil LACS Enrollment]\(<https://nabilacs.compassplus.com/enrollment/index.jsp>).
 
+
+
 ### **Fund Transfer in Second Semester:**
 
 \- Don’t forget to leave your ‘No Objection Letter’ with your parents for future remittance requirements.
 
 \- The letter is required to remit tuition fee and living expenses for the next semester. It is not possible to exchange currency without the ‘No Objection Letter’.
 
-\*\*Please remember telephone number 01-5970015 of Nabil Customer Care for 24/7 service.\*\*
+Please remember telephone number 01-5970015 of Nabil Customer Care for 24/7 service.
 
-\*\*For further queries, please contact:\*\*
+For further queries, please contact:
 
 \- Ms. Anita Shrestha (<anita.shrestha@nabilbank.com>)
 
@@ -156,7 +165,7 @@ Nabil Bank Ltd., Nabil Centre" Beena Marg, Teendhara Kathmandu, Nepal
 
 Phone: 4227181
 
-### \*\*
+###
 
 MORE Details about Nepal Foreign Currency Exchange for Students\*\*
 
@@ -183,3 +192,7 @@ MORE Details about Nepal Foreign Currency Exchange for Students\*\*
 \- Such 3% education tax is not applicable for living expenses.
 
 \- For the FCY issuance value USD 5000 and more PAN is required.
+
+
+
+Thank you Nabil Bank for this information. 
