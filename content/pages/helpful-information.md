@@ -16,8 +16,9 @@ sections:
         title: Banking in Nepal
         tagline: ''
         subtitle: ''
-        text: |
-          How to make payments to US universities from Nepal? 
+        text: >
+          How to make payments to US universities from Nepal? Nepal government
+          rules and more. 
         image:
           type: ImageBlock
           url: /images/Nabil Bank.png
