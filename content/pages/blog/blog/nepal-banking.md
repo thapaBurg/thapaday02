@@ -15,33 +15,6 @@ featuredImage:
     self:
       borderRadius: large
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-  - type: FeaturedItemsSection
-    items: []
-    actions: []
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -84,6 +57,33 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+  - type: FeaturedItemsSection
+    items: []
+    actions: []
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mb-20
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: /blog/Nepal Banking
 isFeatured: true
 colors: bg-light-fg-dark
