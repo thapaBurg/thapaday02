@@ -69,16 +69,14 @@ styles:
 
 \- Students need to submit ‘No Objection Letter’ and photocopies of passport along with the I-20 to exchange currency.
 
-**
-2\) Swift Transfer:**
+\*\*
+2\) Swift Transfer:\*\*
 
 \- Also known as wire transfer.
 
 \- It is easier, quicker, and safer as it is an electronic transfer of money.
 
-\- You should be aware of Bank name/address, Account name/number, and Swift code of Bank where your college has an account. Email me if you need this information (DrSamratThapa\@gmail.com)
-
-
+\- You should be aware of Bank name/address, Account name/number, and Swift code of Bank where your college has an account. Email me if you need this information (<DrSamratThapa@gmail.com>)
 
 **3) Nabil Visa International Prepaid Card (USD Denominated):**
 
@@ -96,10 +94,7 @@ styles:
 
 \- Monthly statement/transaction alert shall be sent via email for both transactions and billing information.
 
-\- Always visit only trusted merchant websites for online payment of merchandise & services. You can know more details by visiting the link \[Nabil LACS Enrollment]\(https\://nabilacs.compassplus.com/enrollment/index.jsp).
-
-
-
+\- Always visit only trusted merchant websites for online payment of merchandise & services. You can know more details by visiting the link \[Nabil LACS Enrollment]\(<https://nabilacs.compassplus.com/enrollment/index.jsp>).
 
 ### **Fund Transfer in Second Semester:**
 
@@ -111,27 +106,25 @@ styles:
 
 \*\*For further queries, please contact:\*\*
 
-\- Ms. Anita Shrestha (anita.shrestha\@nabilbank.com)
+\- Ms. Anita Shrestha (<anita.shrestha@nabilbank.com>)
 
-\- Ms. Ishwori Maharjan (ishwori.maharjan\@nabilbank.com)
+\- Ms. Ishwori Maharjan (<ishwori.maharjan@nabilbank.com>)
 
-\- Ms. Arpana Gyawali (arpana.gyawali\@nabilbank.com)
+\- Ms. Arpana Gyawali (<arpana.gyawali@nabilbank.com>)
 
 Nabil Bank Ltd., Nabil Centre" Beena Marg, Teendhara Kathmandu, Nepal
 
 Phone: 4227181
 
-### **
+### \*\*
 
-MORE Details about Nepal Foreign Currency Exchange for Students**
+MORE Details about Nepal Foreign Currency Exchange for Students\*\*
 
 \- After submitting passport with visa and confirmed air tickets to a bank, students will be entitled to exchange a maximum of USD 2,500 under the Passport facility.  As per central banks rule, USD 500 cash can be issued and the rest of the amount can be topped up in Nabil International Prepaid Travel card or bank draft can be issued in the student’s name.
 
 \- Students can exchange foreign currency in the form of Cash, Bank Draft or Nabil International Prepaid Travel card.
 
 \- Besides the passport facility, students can have foreign currency Drafts, International Prepaid Card, and SWIFT Transfers for payment of tuition fees and living expenses.
-
-
 
 ### **Central Bank’s Rule for Exchange of Foreign Currency for Tuition Fee and Living Expense**
 
@@ -149,7 +142,4 @@ MORE Details about Nepal Foreign Currency Exchange for Students**
 
 \- Such 3% education tax is not applicable for living expenses.
 
-\- For the FCY issuance value \*\*USD 5000 and more PAN is required.\*\*
-
-
-
+\- For the FCY issuance value USD 5000 and more PAN is required.
