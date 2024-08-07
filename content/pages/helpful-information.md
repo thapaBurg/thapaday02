@@ -29,7 +29,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /Nepal Banking
+            url: /blog/Nepal Banking
             showIcon: false
             icon: arrowRight
             iconPosition: right
