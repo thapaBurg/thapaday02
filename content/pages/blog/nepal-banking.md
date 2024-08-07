@@ -78,7 +78,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /blog/Nepal Banking
+slug: /Nepal Banking
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
