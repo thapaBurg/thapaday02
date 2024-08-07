@@ -24,11 +24,9 @@ bottomSections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Many students have questions about how to make payments to the university
+      for the first time. This video will address your questions.  
     actions: []
     media:
       type: VideoBlock
