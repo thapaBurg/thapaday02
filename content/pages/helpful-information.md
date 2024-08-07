@@ -13,6 +13,40 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
+        title: Banking in Nepal
+        tagline: ''
+        subtitle: ''
+        text: >
+          How to make payments to US universities from Nepal? Nepal government
+          rules and more. 
+        image:
+          type: ImageBlock
+          url: /images/Nabil Bank.png
+          altText: Nabil Bank
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /blog/Nepal Banking
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
         title: Open Bank Account
         tagline: ''
         subtitle: ''
