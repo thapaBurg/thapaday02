@@ -21,7 +21,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Nabil Bank.png
-          altText: Placeholder text
+          altText: Nabil Bank
           styles:
             self:
               borderRadius: x-large
