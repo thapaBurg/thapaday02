@@ -59,45 +59,97 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-You are required by law to have a Social Security Number (SSN) in order to be paid for work in the US.  Unfortunately SSN’s are
-often used as identification numbers for other kinds of applications, such as credit cards or cell phone accounts. 
+### **Methods to send money to USA in the First Semester**
 
+**1) Bank Drafts (most students use this):**
 
-While having an SSN is convenient, you can **NOT** apply for an SSN unless you have a job offer. If you have received a job offer, follow these steps to
-apply for an SSN.
+\- Bank Draft is a cheque issued by one bank to another bank requesting to pay a specified sum of money to the person or institution named in the draft. It will be safer than carrying cash.
 
-1\)  Have you been in the US for at least 10 days?   
+\- You can also have a draft for living expenses in your name and can deposit it in your account in the U.S. after opening a bank account in the U.S.
 
-2\) Is your SEVIS record registered by the international staff?   
+\- Students need to submit ‘No Objection Letter’ and photocopies of passport along with the I-20 to exchange currency.
 
-3\) Do you have a job offer?
+**
+2\) Swift Transfer:**
 
-If you answered yes to these questions, you are ready to go to the Social Security Administration (SSA) Office to apply for your Social Security Number (SSN).  In order to apply for a social security number (SSN), you will need to visit an office of the SSA in person –
-you cannot apply by mail or online. It will take 2-3 weeks for you to receive your Social Security card in the mail. 
+\- Also known as wire transfer.
 
+\- It is easier, quicker, and safer as it is an electronic transfer of money.
 
-
-[Address](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+address\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgiEAI): 7618 Timberlake Rd, Lynchburg, VA 24502, United States
-
-[Hours](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+hours\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgjEAI): Open ⋅ 9AM - 4 PM Weekdays
-
-Phone: [+1 800-772-1213](https://www.google.com/search?q=social+security+lynchburg+va\&rlz=1C1KDEC_enUS950US950\&oq=social+security+lynchburg\&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINTcwNmowajSoAgCwAgA\&sourceid=chrome\&ie=UTF-8#)
+\- You should be aware of Bank name/address, Account name/number, and Swift code of Bank where your college has an account. Email me if you need this information (DrSamratThapa\@gmail.com)
 
 
 
+**3) Nabil Visa International Prepaid Card (USD Denominated):**
+
+\- Nabil Visa International prepaid card is issued against Passport & air ticket facility as per NRB circulars.
+
+\- PIN code must be changed through Green Pin from any Nabil’s ATM machine.
+
+\- Card can be topped up any time during the validity of the card as per NRB regulations. Living expenses can also be topped up as per your I-20 against the permit issued by the Ministry of Education (MOE).
+
+\- All the supporting documents need to be endorsed.
+
+\- Card is accepted at ATM & POS terminals worldwide except India & Nepal.
+
+\- It is securely accessible for internet transaction.
+
+\- Monthly statement/transaction alert shall be sent via email for both transactions and billing information.
+
+\- Always visit only trusted merchant websites for online payment of merchandise & services. You can know more details by visiting the link \[Nabil LACS Enrollment]\(https\://nabilacs.compassplus.com/enrollment/index.jsp).
 
 
 
 
+### **Fund Transfer in Second Semester:**
+
+\- Don’t forget to leave your ‘No Objection Letter’ with your parents for future remittance requirements.
+
+\- The letter is required to remit tuition fee and living expenses for the next semester. It is not possible to exchange currency without the ‘No Objection Letter’.
+
+\*\*Please remember telephone number 01-5970015 of Nabil Customer Care for 24/7 service.\*\*
+
+\*\*For further queries, please contact:\*\*
+
+\- Ms. Anita Shrestha (anita.shrestha\@nabilbank.com)
+
+\- Ms. Ishwori Maharjan (ishwori.maharjan\@nabilbank.com)
+
+\- Ms. Arpana Gyawali (arpana.gyawali\@nabilbank.com)
+
+Nabil Bank Ltd., Nabil Centre" Beena Marg, Teendhara Kathmandu, Nepal
+
+Phone: 4227181
+
+### **
+
+MORE Details about Nepal Foreign Currency Exchange for Students**
+
+\- After submitting passport with visa and confirmed air tickets to a bank, students will be entitled to exchange a maximum of USD 2,500 under the Passport facility.  As per central banks rule, USD 500 cash can be issued and the rest of the amount can be topped up in Nabil International Prepaid Travel card or bank draft can be issued in the student’s name.
+
+\- Students can exchange foreign currency in the form of Cash, Bank Draft or Nabil International Prepaid Travel card.
+
+\- Besides the passport facility, students can have foreign currency Drafts, International Prepaid Card, and SWIFT Transfers for payment of tuition fees and living expenses.
 
 
- 
 
+### **Central Bank’s Rule for Exchange of Foreign Currency for Tuition Fee and Living Expense**
 
+\- Foreign Currency (FCY) Drafts or SWIFT Transfer are issued in the name of your U.S. college/institution against the permit (No Objection Letter) issued by Ministry of Education (MOE) for the payment of tuition fee.
 
+\- You can make payment of tuition fee as per the I-20 or supporting document for 1st semester or more. FCY for living costs will be issued only after making payment of tuition fee to the college either through International Prepaid Card, Draft or SWIFT transfer.
 
+\- FCY for Living expenses can be issued up to 50% of the Annual Living Expenses for the duration of six months in totality or partially against the permit (No Objection Letter) issued by the Ministry of Education (MOE). Example, suppose that the total cost per year is $20,000 with $12,000 for tuition and $8,000 for room and board. Then you can exchange up to $12,000 for your tuition and $4,000 for room and board, totaling $16,000.
 
+\- For Insurance, the premium can be paid to an Agent of Foreign Insurance Company registered in Nepal or to an Agent of Foreign Insurance Company abroad (not registered in Nepal) or to the College based on the request from the College.
 
+\- If a full Scholarship is provided by the School, students need not avail FCY for Tuition fee & Living expenses, in case of partial Scholarship they can avail FCY accordingly.
+
+\- While providing FCY exchange facility to students going abroad to study, Banks are required to collect 3% education tax both on Admission and Tuition Fees disclosed in the invoice/I-20 or similar such document of school/college/university.
+
+\- Such 3% education tax is not applicable for living expenses.
+
+\- For the FCY issuance value \*\*USD 5000 and more PAN is required.\*\*
 
 
 
