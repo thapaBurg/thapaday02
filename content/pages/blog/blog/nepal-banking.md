@@ -101,7 +101,7 @@ styles:
 ---
 ### **Methods to send money to USA in the First Semester**
 
-By Nabil Bank. 
+By Nabil Bank.
 ![](/images/Nabil%20Bank.png)
 
 **1) Bank Drafts (most students use this):**
@@ -112,8 +112,7 @@ By Nabil Bank.
 
 \- Students need to submit ‘No Objection Letter’ and photocopies of passport along with the I-20 to exchange currency.
 
-*-some banks require invoice from university. Email your university* 
-
+*-some banks require invoice from university. Email your university*
 
 **2) Swift Transfer:**
 
@@ -123,9 +122,9 @@ By Nabil Bank.
 
 \- You should be aware of Bank name/address, Account name/number, and Swift code of Bank where your college has an account. Email me if you need this information (<DrSamratThapa@gmail.com>)
 
-*-some banks require invoice from university. Email your university 
+-some banks require invoice from university. Email your university
 
-***3) Nabil Visa International Prepaid Card (USD Denominated):**
+**3) Nabil Visa International Prepaid Card (USD Denominated):**
 
 \- Nabil Visa International prepaid card is issued against Passport & air ticket facility as per NRB circulars.
 
@@ -142,8 +141,6 @@ By Nabil Bank.
 \- Monthly statement/transaction alert shall be sent via email for both transactions and billing information.
 
 \- Always visit only trusted merchant websites for online payment of merchandise & services. You can know more details by visiting the link \[Nabil LACS Enrollment]\(<https://nabilacs.compassplus.com/enrollment/index.jsp>).
-
-
 
 ### **Fund Transfer in Second Semester:**
 
@@ -167,7 +164,7 @@ Phone: 4227181
 
 ###
 
-MORE Details about Nepal Foreign Currency Exchange for Students\*\*
+### **MORE Details about Nepal Foreign Currency Exchange for Students**
 
 \- After submitting passport with visa and confirmed air tickets to a bank, students will be entitled to exchange a maximum of USD 2,500 under the Passport facility.  As per central banks rule, USD 500 cash can be issued and the rest of the amount can be topped up in Nabil International Prepaid Travel card or bank draft can be issued in the student’s name.
 
@@ -193,6 +190,4 @@ MORE Details about Nepal Foreign Currency Exchange for Students\*\*
 
 \- For the FCY issuance value USD 5000 and more PAN is required.
 
-
-
-Thank you Nabil Bank for this information. 
+Thank you Nabil Bank for this information.
