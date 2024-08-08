@@ -58,9 +58,7 @@ You must meet the following eligibility requirements:
 
 \*Permanent resident: Green card (or permanent resident card) holders who are authorized to live and work in the United States on a permanent basis
 
-
-
-Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide **both **a foreign and U.S. address, as well as two forms of ID and a tax identification number.
+Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide both foreign and U.S. address, as well as two forms of ID and a tax identification number.
 
 *   **Proof of home or permanent residence address**
     This must include building name or number and street name, city or town, state or province, country.
@@ -111,6 +109,29 @@ You will need two forms of identification – a primary ID and a secondary ID.
 **Foreign Tax Identification Number (FTIN)**
 An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
 
+<https://about.bankofamerica.com/en/international-student-bank-account>
 
 
-https\://about.bankofamerica.com/en/international-student-bank-account
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### **There will be regional banks where you live. In Lynchburg there are following:**
+
+
+
+[First National Bank](https://www.1stnatbk.com/)
+
+[Bank of the James](https://www.bankofthejames.bank/)
+
+[First Bank and Trust Company](https://www.firstbank.com/)
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Are national or regional banks better?**
+
+If you value personalized service, community involvement, and local decision-making, a regional or community bank may be the better choice for you. However, if you prioritize convenience, extensive branch networks, and access to a wide range of financial products and services, a national bank may be more suitable. 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
