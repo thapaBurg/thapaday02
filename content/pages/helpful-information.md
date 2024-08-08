@@ -149,6 +149,39 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
+        title: Cellphone/Mobile Plan
+        tagline: ''
+        subtitle: ''
+        text: |
+          Looking for SIM card for USA. Learn more here. 
+        image:
+          type: ImageBlock
+          url: /images/Mint-Mobile.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /blog/SIMcard
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
         title: On Campus Job
         tagline: ''
         subtitle: ''
@@ -168,39 +201,6 @@ sections:
             label: Learn More
             altText: ''
             url: /blog/OnCampusJobs
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Cellphone/Mobile Plan
-        tagline: ''
-        subtitle: ''
-        text: |
-          Looking for SIM card for USA. Learn more here. 
-        image:
-          type: ImageBlock
-          url: /images/Mint-Mobile.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /blog/SIMcard
             showIcon: false
             icon: arrowRight
             iconPosition: right
