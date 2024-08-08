@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: SocialSecurity
+title: Social Security
 date: '2024-07-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
