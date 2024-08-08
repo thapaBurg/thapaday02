@@ -48,9 +48,11 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-![](https://rm-core-production.s3.amazonaws.com/logos/519/large_bofa_lo1_rgb_Digital__1_.png)
+HOW TO OPEN A CHECKING OR SAVINGS ACCOUNT IN USA? 
 
-You must meet the following eligibility requirements:
+Most students open Checking account. 
+
+You must meet the following eligibility requirements to open an account:
 
 *   **You have a physical U.S. address**
 
@@ -115,5 +117,16 @@ An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required 
 
 
 
-![](https://ixp.rrhba.com/2018/01/Logo-Bank-of-The-James.png)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+In USA there are two types of banks in USA. National Banks (Bank of America, Chase, Wells Fargo) and Regional banks. 
+
+
+
+Regional banks in Lynchburg:
+
+
+
+
+
+![](https://ixp.rrhba.com/2018/01/Logo-Bank-of-The-James.png)
