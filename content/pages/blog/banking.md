@@ -1,19 +1,8 @@
 ---
 type: PostLayout
-title: Banking
+title: USA Banking
 date: '2024-07-09'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
-featuredImage:
-  type: ImageBlock
-  url: /images/20240709_114837.jpg
-  altText: Case study 1
-  styles:
-    self:
-      borderRadius: large
+excerpt: ''
 bottomSections:
   - type: DividerSection
     title: Divider
@@ -59,6 +48,8 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
+![](https://rm-core-production.s3.amazonaws.com/logos/519/large_bofa_lo1_rgb_Digital__1_.png)
+
 You must meet the following eligibility requirements:
 
 *   **You have a physical U.S. address**
@@ -69,9 +60,7 @@ You must meet the following eligibility requirements:
 
 \*Permanent resident: Green card (or permanent resident card) holders who are authorized to live and work in the United States on a permanent basis
 
-
-
-Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide **both **a foreign and U.S. address, as well as two forms of ID and a tax identification number.
+Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide \*\*both \*\*a foreign and U.S. address, as well as two forms of ID and a tax identification number.
 
 *   **Proof of home or permanent residence address**
     This must include building name or number and street name, city or town, state or province, country.
@@ -122,6 +111,4 @@ You will need two forms of identification – a primary ID and a secondary ID.
 **Foreign Tax Identification Number (FTIN)**
 An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
 
-
-
-https\://about.bankofamerica.com/en/international-student-bank-account
+<https://about.bankofamerica.com/en/international-student-bank-account>
