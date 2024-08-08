@@ -48,9 +48,9 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-HOW TO OPEN A CHECKING OR SAVINGS ACCOUNT IN USA? 
+HOW TO OPEN A CHECKING OR SAVINGS ACCOUNT IN USA?
 
-Most students open Checking account. 
+Most students open Checking account.
 
 You must meet the following eligibility requirements to open an account:
 
@@ -115,18 +115,19 @@ An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required 
 
 <https://about.bankofamerica.com/en/international-student-bank-account>
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-In USA there are two types of banks in USA. National Banks (Bank of America, Chase, Wells Fargo) and Regional banks. 
+In USA there are two types of banks in USA. National Banks (Bank of America, Chase, Wells Fargo) and Regional banks.
 
+**Regional banks in Lynchburg:**
 
+[Bank of the James](https://www.bankofthejames.bank/)
 
-Regional banks in Lynchburg:
+[First Bank and Trust Company](https://www.firstbank.com/)
 
-
+[First Citizens Bank](https://locations.firstcitizens.com/va/lynchburg/20373-timberlake-road)
 
 
 
 ![](https://ixp.rrhba.com/2018/01/Logo-Bank-of-The-James.png)
+
