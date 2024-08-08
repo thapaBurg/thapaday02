@@ -48,69 +48,42 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-You must meet the following eligibility requirements:
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWl9kepZ_cfFrbvsL2AL0b8Pp8mNd71zBxw\&s)
 
-*   **You have a physical U.S. address**
+I use Mint Mobile and I personally recommend using Mint Mobile. It is very cheap and reliable. 
 
-*   **You are not a U.S. citizen**
+[Mint Website](https://www.mintmobile.com/)
 
-*   **You are not a permanent resident of the U.S.\***
+Upfront payment of $45 for 3-month plan (equiv. to $15/mo.) req'd. New customer offer for first 3 months only; then full-price plan options available. Taxes & fees extra. Unlimited customers using >40GB/mo. will experience lower speeds.
 
-\*Permanent resident: Green card (or permanent resident card) holders who are authorized to live and work in the United States on a permanent basis
+**Where to get Mint Mobile SIM card?**
+
+It is available to purchase from stores like BestBuy, Target. You can go there in-person and purchase it or you can go to their online website, prepay and go to your nearest location to collect it.
+
+**Where to buy Mint Mobile SIM card ONLINE?**
+
+Online Options: [Mint Website](https://www.mintmobile.com/), [Amazon ](https://www.amazon.com/stores/page/34D61800-E80A-4A07-B13D-681C05F685BB?ingress=2\&visitId=51cf95f5-545b-4f43-9f80-6190c97779dc\&ref_=ast_bln)
+
+**E SIM for Mint mobile?**
+
+When you purchase a plan for mint mobile, on the check out screen it gives you an option to get **physical SIM or E SIM**. Make sure that your phone is  ESIM compatible.  
+
+![](/images/mint%203.png)
 
 
+**Current offer for New Customers (Aug 2024)**
 
-Following are the required documents you’ll need to bring to the Bank of America financial center in order to open your bank account. You’ll need to provide **both **a foreign and U.S. address, as well as two forms of ID and a tax identification number.
-
-*   **Proof of home or permanent residence address**
-    This must include building name or number and street name, city or town, state or province, country.
-
-<!---->
-
-*   **U.S. physical address**
-    Only one of the following documents is needed:
-
-    *   Government-issued ID with photo
-
-    *   Student ID with address and photo
-
-    *   Current utility bill with your name and address
-
-    *   Other (rental agreement, etc.)
-
-You will need two forms of identification – a primary ID and a secondary ID.
-
-*   **Primary ID**
-    Only one of the following documents is needed:
-
-    *   Foreign passport with or without passport visa (with photo)
-
-    *   U.S. Non Immigrant Visa and Border Crossing Card-DSP-150 (with photo)
-
-    *   Mexican, Guatemalan, Dominican, Colombian Consular ID (with photo)
-
-    *   Canadian Citizenship Certificate Card (with photo)
-
-<!---->
-
-*   **Secondary ID**
-    Only one of the following documents is needed:
-
-    *   Foreign driver's license with photo or U.S. driver's license
-
-    *   U.S. student ID validated for current term or school year (with photo)
-
-    *   Debit or major credit card with Visa® or Mastercard® logo
-
-    *   Major retail credit card from a nationally well-known company
-
-    *   U.S. Department of State Diplomat ID
-
-    *   Mexican Voter Registration Card (with photo)
-
-**Foreign Tax Identification Number (FTIN)**
-An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
+![](/images/mint%202.png)
 
 
 
-https\://about.bankofamerica.com/en/international-student-bank-account
+
+
+## Other cellphone/mobile providers in USA are:
+
+####  [T-Mobile (My 2nd fav)](https://t-mobile.com/),  [Verizon](https://www.verizon.com/),  [AT\&T](https://www.att.com/wireless/), [Boost Mobile, ](https://www.boostmobile.com/)[US Cellular](https://www.uscellular.com/), [Google Fi](https://fi.google.com/about)
+
+
+
+
+
