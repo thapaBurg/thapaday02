@@ -47,7 +47,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Cellphone/Mobile Plan
+        title: USA Mobile Plan
         tagline: ''
         subtitle: ''
         text: |
