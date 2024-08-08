@@ -112,3 +112,8 @@ You will need two forms of identification – a primary ID and a secondary ID.
 An FTIN issued by a country other than the U.S. A U.S. TIN/ITIN is not required unless you’ve been issued one.
 
 <https://about.bankofamerica.com/en/international-student-bank-account>
+
+
+
+![](https://ixp.rrhba.com/2018/01/Logo-Bank-of-The-James.png)
+
