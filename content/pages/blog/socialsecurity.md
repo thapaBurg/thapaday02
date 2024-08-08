@@ -59,21 +59,39 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-You are required by law to have a Social Security Number (SSN) in order to be paid for work in the US.  Unfortunately SSN’s are
-often used as identification numbers for other kinds of applications, such as credit cards or cell phone accounts. 
+You are required by law to have a Social Security Number (SSN) in order to be paid for work in the US. You also need SSN to file taxes, apply for a loan and more.
 
+You can **NOT** apply for an SSN unless you have a job offer. If you have received a job offer, follow these checklist before you apply for an SSN.
 
-While having an SSN is convenient, you can **NOT** apply for an SSN unless you have a job offer. If you have received a job offer, follow these steps to
-apply for an SSN.
-
-1\)  Have you been in the US for at least 10 days?   
+1\)  Have you been in the US for at least 10 days?  
 
 2\) Is your SEVIS record registered by the international staff?   
 
 3\) Do you have a job offer?
 
-If you answered yes to these questions, you are ready to go to the Social Security Administration (SSA) Office to apply for your Social Security Number (SSN).  In order to apply for a social security number (SSN), you will need to visit an office of the SSA in person –
-you cannot apply by mail or online. It will take 2-3 weeks for you to receive your Social Security card in the mail. 
+If you answered YES to these three questions, you are ready to go to the Social Security Administration (SSA) Office to apply for your Social Security Number (SSN).  In order to apply for a social security number (SSN), you will need to visit an office of the SSA **in person** –
+you cannot apply by mail or online. It will take 2-3 weeks for you to receive your Social Security card in the mail.
+
+****
+
+**How to apply Social Security number for the first time?**
+If you’re an F-1 student, you must provide a letter from your designated school official (DSO/ International Advisor) that:
+• Identifies you.
+• Confirms your current school status.
+• Identifies your employer and the type of work you are, or will be, doing
+
+Social Security Administration (SSA) also needs to see evidence of that employment, such as a recent pay slip or a letter
+from your employer. Your supervisor must sign and date the employment letter. This letter must describe:
+• Your job.
+• Your employment start date.
+• The number of hours you are, or will be, working.
+• Your supervisor’s name and telephone number
+
+
+
+**International Students and Social Security Numbers Information , read this first <**[**Link**](https://www.ssa.gov/pubs/EN-05-10181.pdf)**>**
+
+If you’re in the U.S., you can apply online, then go to a local Social Security office to provide your documentation. Once your application is approved, you’ll receive a Social Security card with your number on it by mail within 14 days. <[Start Application](https://secure.ssa.gov/ossnap/public/landingOSsnap)>
 
 
 
@@ -83,21 +101,4 @@ you cannot apply by mail or online. It will take 2-3 weeks for you to receive yo
 
 Phone: [+1 800-772-1213](https://www.google.com/search?q=social+security+lynchburg+va\&rlz=1C1KDEC_enUS950US950\&oq=social+security+lynchburg\&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINTcwNmowajSoAgCwAgA\&sourceid=chrome\&ie=UTF-8#)
 
-
-
-
-
-
-
-
-
  
-
-
-
-
-
-
-
-
-
