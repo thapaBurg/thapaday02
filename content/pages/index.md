@@ -398,7 +398,7 @@ sections:
     actions:
       - type: Button
         label: Contact Us
-        url: 'mailto:DrSamratThapa@gmail.com'
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: secondary
