@@ -389,7 +389,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Prestigious Universities
+      text: Other Universities
       color: text-dark
     subtitle: ''
     text: >
