@@ -714,11 +714,10 @@ sections:
 seo:
   metaTitle: Dr. Samrat Thapa
   metaDescription: >-
-    I am a professor at the University of Lynchburg with over 10 years of
-    teaching experience in the United States. My 20 years of experience as a
-    student and professor in the United States make me one of the most qualified
-    people you will meet to advise you on University admissions and how to
-    succeed in the United States.
+    Dr. Thapa a professor at the University of Lynchburg with over 10 years of
+    teaching experience in the United States. His 20 years of experience as a
+    student and professor in the United States makes him extremely qualified to
+    advise you on University admissions and how to succeed in the United States.
   socialImage: /images/Business Card.jpg
   type: Seo
 type: PageLayout
