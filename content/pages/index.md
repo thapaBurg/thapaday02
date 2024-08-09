@@ -397,7 +397,7 @@ sections:
       advice and guidance. Fill the form below. 
     actions:
       - type: Button
-        label: Contact Us
+        label: Form
         url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
         icon: arrowRight
         iconPosition: right
