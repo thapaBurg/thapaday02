@@ -72,28 +72,26 @@ You can **NOT** apply for an SSN unless you have a job offer. If you have receiv
 If you answered YES to these three questions, you are ready to go to the Social Security Administration (SSA) Office to apply for your Social Security Number (SSN).  In order to apply for a social security number (SSN), you will need to visit an office of the SSA **in person** –
 you cannot apply by mail or online. It will take 2-3 weeks for you to receive your Social Security card in the mail.
 
-****
+***
 
 **How to apply Social Security number for the first time?**
 If you’re an F-1 student, you must provide a letter from your designated school official (DSO/ International Advisor) that:
-• Identifies you.
-• Confirms your current school status.
-• Identifies your employer and the type of work you are, or will be, doing
+1\) Identifies you.
+2\) Confirms your current school status.
+3\) Identifies your employer and the type of work you are, or will be, doing
 
 Social Security Administration (SSA) also needs to see evidence of that employment, such as a recent pay slip or a letter
 from your employer. Your supervisor must sign and date the employment letter. This letter must describe:
-• Your job.
-• Your employment start date.
-• The number of hours you are, or will be, working.
-• Your supervisor’s name and telephone number
 
 
+1\) Your job.
+2\) Your employment start date.
+3\) The number of hours you are, or will be, working.
+4\) Your supervisor’s name and telephone number
 
 **International Students and Social Security Numbers Information , read this first <**[**Link**](https://www.ssa.gov/pubs/EN-05-10181.pdf)**>**
 
 If you’re in the U.S., you can apply online, then go to a local Social Security office to provide your documentation. Once your application is approved, you’ll receive a Social Security card with your number on it by mail within 14 days. <[Start Application](https://secure.ssa.gov/ossnap/public/landingOSsnap)>
-
-
 
 [Address](https://www.google.com/search?sca_esv=9267af3241730e66\&sca_upv=1\&rlz=1C1KDEC_enUS950US950\&q=social+security+administration+lynchburg+address\&ludocid=13602196390886036584\&sa=X\&sqi=2\&ved=2ahUKEwjl_dWD5NaHAxUrVmwGHdP9MCEQ6BN6BAgiEAI): 7618 Timberlake Rd, Lynchburg, VA 24502, United States
 
