@@ -393,9 +393,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      If you want to get admitted to prestigious universities (Harvard, Yale,
-      Cornell etc.) we provide advice and guidance. Only for students ages 16 or
-      under. 
+      If you want to get admitted to prestigious universities in USA, we provide
+      advice and guidance. Fill the form below. 
     actions:
       - type: Button
         label: Contact Us
