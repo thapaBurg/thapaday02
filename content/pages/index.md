@@ -398,7 +398,7 @@ sections:
     actions:
       - type: Button
         label: Contact Us
-        url: ''
+        url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
         icon: arrowRight
         iconPosition: right
         style: secondary
