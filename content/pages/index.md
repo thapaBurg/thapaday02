@@ -394,7 +394,8 @@ sections:
     subtitle: ''
     text: >
       If you want to get admitted to prestigious universities in USA, we provide
-      advice and guidance. Fill the form below.
+      advice and guidance. Fill the form below or email
+      <[Link](mailto:Drsamrattahapa@gmail.com)>.
     actions:
       - type: Button
         label: Form
