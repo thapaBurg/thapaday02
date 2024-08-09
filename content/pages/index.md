@@ -393,13 +393,13 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      If you want to get admitted to prestigious universities (Harvard, Yale,
-      Cornell etc.) we provide advice and guidance. Only for students ages 16 or
-      under. 
+      If you want to get admitted to prestigious universities in USA, we provide
+      advice and guidance. Fill the form below or email
+      <[Link](mailto:Drsamrattahapa@gmail.com)>.
     actions:
       - type: Button
-        label: Contact Us
-        url: 'mailto:DrSamratThapa@gmail.com'
+        label: Form
+        url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
         icon: arrowRight
         iconPosition: right
         style: secondary
