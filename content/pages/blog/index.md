@@ -376,11 +376,15 @@ topSections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      I created this video to assist Nepali students and anyone traveling to the
+      USA for the first time. There are many unknowns when visiting the USA for
+      the first time, and I've tried to cover as much as possible.
+
+
+      Parents and relatives of students or tourists traveling to the USA for the
+      first time will also find this video useful. I recommend watching this
+      video a week before your departure to the USA.
     actions: []
     media:
       type: VideoBlock
