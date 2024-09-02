@@ -292,7 +292,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 8: You got US Visa, next'
+      text: 'Video 7: You got US Visa, next'
       color: text-dark
       styles:
         self:
