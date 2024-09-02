@@ -254,7 +254,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 7: Visa Interview'
+      text: 'Video 6: Visa Interview'
       color: text-dark
       styles:
         self:
