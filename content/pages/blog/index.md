@@ -375,7 +375,7 @@ topSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Watch full video
     text: >
       I created this video to assist Nepali students and anyone traveling to the
       USA for the first time. There are many unknowns when visiting the USA for
