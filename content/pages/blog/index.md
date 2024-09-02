@@ -216,7 +216,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 6: Applying for USA visa'
+      text: 'Video 5: Applying for USA visa'
       color: text-dark
       styles:
         self:
@@ -254,7 +254,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 7: Visa Interview'
+      text: 'Video 6: Visa Interview'
       color: text-dark
       styles:
         self:
@@ -292,7 +292,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 8: You got US Visa, next'
+      text: 'Video 7: You got US Visa, next'
       color: text-dark
       styles:
         self:
@@ -330,7 +330,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: USA Pre Departure Video
+      text: "Video 8:\_USA Pre Departure Video"
       color: text-dark
       styles:
         self:
@@ -361,6 +361,52 @@ topSections:
           borderWidth: 1
           borderRadius: large
     colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: "Video 9:\_Nepal to USA Flight"
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Watch full video
+    text: >
+      I created this video to assist Nepali students and anyone traveling to the
+      USA for the first time. There are many unknowns when visiting the USA for
+      the first time, and I've tried to cover as much as possible.
+
+
+      Parents and relatives of students or tourists traveling to the USA for the
+      first time will also find this video useful. I recommend watching this
+      video a week before your departure to the USA.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Nepal to USA Flight
+      url: 'https://youtu.be/PDybqS62Pek'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
