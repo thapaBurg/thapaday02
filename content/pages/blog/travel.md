@@ -13,11 +13,11 @@ bottomSections:
         self:
           textAlign: left
     subtitle: Amtrak Vlog IAD to Lynchburg
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      I created this video to assist students or anyone traveling on an Amtrak
+      train for the first time. I travel from IAD airport to the University of
+      Lynchburg using Amtrak, as shown in this video.
+
     actions: []
     media:
       type: VideoBlock
