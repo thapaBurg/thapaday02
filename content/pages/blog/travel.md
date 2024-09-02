@@ -7,7 +7,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: How to Travel on Amtrak Video
       color: text-dark
       styles:
         self:
