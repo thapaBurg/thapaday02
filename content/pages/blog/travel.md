@@ -4,16 +4,6 @@ title: Travel
 date: '2024-07-09'
 excerpt: ''
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: GenericSection
     title:
       type: TitleBlock
@@ -56,6 +46,16 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
   - type: FeaturedItemsSection
     items: []
     actions: []
