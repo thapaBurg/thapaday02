@@ -370,7 +370,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Nepal to USA travel Vlog
+      text: Nepal to USA Flight
       color: text-dark
       styles:
         self:
