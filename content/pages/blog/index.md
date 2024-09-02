@@ -388,7 +388,7 @@ topSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Nepal to USA Flight
       url: 'https://youtu.be/PDybqS62Pek'
       autoplay: true
       loop: true
