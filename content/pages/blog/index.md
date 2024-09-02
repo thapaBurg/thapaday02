@@ -330,7 +330,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: USA Pre Departure Video
+      text: "Video 8:\_USA Pre Departure Video"
       color: text-dark
       styles:
         self:
