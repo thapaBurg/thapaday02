@@ -21,7 +21,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Amtrak Travel
       url: 'https://youtu.be/ay5u5tIk-MM'
       autoplay: true
       loop: true
