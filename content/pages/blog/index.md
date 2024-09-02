@@ -370,7 +370,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Nepal to USA travel Vlog
       color: text-dark
       styles:
         self:
