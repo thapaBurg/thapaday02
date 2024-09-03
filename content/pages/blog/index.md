@@ -266,7 +266,7 @@ topSections:
       type: VideoBlock
       title: US Visa Interview Preparation
       url: 'https://youtu.be/-7kftbylVvg'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
