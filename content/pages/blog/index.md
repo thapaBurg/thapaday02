@@ -26,8 +26,8 @@ topSections:
       type: VideoBlock
       title: Title of the video
       url: 'https://youtu.be/aU8ytwebNEA?si=jxcG6gyMixnFzaWR'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
@@ -64,8 +64,8 @@ topSections:
       type: VideoBlock
       title: Title of the video
       url: 'https://youtu.be/HZICdi2Voo8'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
@@ -102,8 +102,8 @@ topSections:
       type: VideoBlock
       title: Title of the video
       url: 'https://youtu.be/OYcEUlIrwG8'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
@@ -264,10 +264,10 @@ topSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
+      title: US Visa Interview Preparation
+      url: 'https://youtu.be/-7kftbylVvg'
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
@@ -344,8 +344,8 @@ topSections:
       type: VideoBlock
       title: Title of the video
       url: 'https://youtu.be/fuebZ0fSLsE'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
@@ -390,8 +390,8 @@ topSections:
       type: VideoBlock
       title: Nepal to USA Flight
       url: 'https://youtu.be/PDybqS62Pek'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
