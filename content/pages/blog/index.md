@@ -267,7 +267,7 @@ topSections:
       title: US Visa Interview Preparation
       url: 'https://youtu.be/-7kftbylVvg'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
