@@ -264,7 +264,7 @@ topSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: US Visa Interview Preparation
       url: 'https://youtu.be/-7kftbylVvg'
       autoplay: true
       loop: true
