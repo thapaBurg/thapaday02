@@ -26,7 +26,7 @@ topSections:
       type: VideoBlock
       title: Title of the video
       url: 'https://youtu.be/aU8ytwebNEA?si=jxcG6gyMixnFzaWR'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
