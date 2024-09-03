@@ -65,7 +65,7 @@ topSections:
       title: Title of the video
       url: 'https://youtu.be/HZICdi2Voo8'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
