@@ -390,7 +390,7 @@ topSections:
       type: VideoBlock
       title: Nepal to USA Flight
       url: 'https://youtu.be/PDybqS62Pek'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
