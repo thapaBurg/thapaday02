@@ -492,8 +492,8 @@ sections:
     media:
       title: Title of the video
       url: 'https://youtu.be/QBQrHdmVdIE?si=l-1UNg54qo18sXFM'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
@@ -646,8 +646,8 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: 'https://youtu.be/WHcj9kFbEuU?si=WO48kR6chXGWKwCw'
-      autoplay: true
-      loop: true
+      autoplay: false
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
