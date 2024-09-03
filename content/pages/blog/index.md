@@ -391,7 +391,7 @@ topSections:
       title: Nepal to USA Flight
       url: 'https://youtu.be/PDybqS62Pek'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
