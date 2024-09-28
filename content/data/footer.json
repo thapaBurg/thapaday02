@@ -68,13 +68,6 @@
             "elementId": ""
         },
         {
-            "type": "Social",
-            "altText": "YouTube icon",
-            "url": "https://www.youtube.com/@DrSamratThapa",
-            "icon": "youtube",
-            "elementId": ""
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/drsamratthapa/",
             "icon": "linkedin",
