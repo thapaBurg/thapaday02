@@ -714,7 +714,7 @@ sections:
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Dr. Samrat Thapa
+  metaTitle: 'Dr. Samrat Thapa      '
   metaDescription: >-
     Dr. Thapa a professor at the University of Lynchburg with over 10 years of
     teaching experience in the United States. His 20 years of experience as a
@@ -722,5 +722,6 @@ seo:
     advise you on University admissions and how to succeed in the United States.
   socialImage: /images/Business Card.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
