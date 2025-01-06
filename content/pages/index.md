@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      ###### Get Admission at the University of Lynchburg. Preparation for
-      studies University life, career, immigration, and more. Free resources for
-      international students in USA. Advising services.
+      ###### Get Admissions at the Universities in USA. Be prepared for USA
+      academics (studies), university life, career, immigration, and more. Free
+      resources for international students in USA. Advising services.
 
 
       *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
