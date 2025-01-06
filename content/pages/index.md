@@ -722,5 +722,6 @@ seo:
     advise you on University admissions and how to succeed in the United States.
   socialImage: /images/Business Card.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
