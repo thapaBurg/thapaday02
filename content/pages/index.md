@@ -518,7 +518,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Instagram
+      text: Instagram and YouTube
       color: text-dark
       type: TitleBlock
     subtitle: ''
