@@ -518,12 +518,14 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Instagram
+      text: Instagram and YouTube
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      Follow Dr. Thapa on [Instagram.](https://www.instagram.com/drsamratthapa/)
+    text: >
+      Follow Dr. Thapa on [YouTube](https://www.youtube.com/@DrSamratThapa) and 
+      [Instagram. ](https://www.instagram.com/drsamratthapa/)
+
 
       Students from **China**, you can contact me via WeChat (DrSamratThapa)
     actions:
