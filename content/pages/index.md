@@ -11,12 +11,9 @@ sections:
     text: >
       ###### Dr. Thapa assists students with admissions to universities in the
       USA. He also prepares them for U.S. academics, university life, career
-      planning, immigration, and
-      more.                                                                                                                                                                                     
-      While many consultancies or advisors provide support only up to the visa
-      interview, Dr. Thapa's guidance continues throughout your university
-      journey and beyond. Ready to take the next step? [Email
-      ](emailto:DrSamratThapa@gmail.com)Dr. Thapa today.
+      planning, immigration, and more. Dr. Thapa will guide you before, during
+      and after your university journey. Ready to take the next step? [Email
+      ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today.
 
 
       *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
