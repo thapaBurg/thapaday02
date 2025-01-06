@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Your will pay over USD **$80,000** in four years in USA for education, let
+      You will pay over USD **$80,000** in four years in USA for education, let
       Dr. Thapa prepare you to maximize your investment.
 
 
@@ -23,7 +23,7 @@ sections:
       will be well-prepared to tackle academic and other challenges confidently.
 
 
-      Obtain Certificate of Completion. 
+      Obtain Certificate of Completion.
     actions:
       - type: Button
         label: Sign Up
@@ -162,8 +162,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: 'Dr. Thapa''s Workshops '
+  metaDescription: Workshops prepare international students to be successful in USA
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
