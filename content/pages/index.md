@@ -2,6 +2,55 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Welcome
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      ###### Dr. Thapa helps students get admission to U.S. universities and
+      prepares them for academic success, university life, career planning, and
+      beyond. From application to graduation, he’s here to guide you. Ready to
+      start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa or [Instagram
+      ](https://www.instagram.com/drsamratthapa/)DM today!
+
+
+      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
+      University of Lynchburg, USA.*
+    actions: []
+    media:
+      type: VideoBlock
+      title: Who is Dr. Thapa?
+      url: 'https://youtu.be/h0VbEqSo4og'
+      autoplay: false
+      loop: false
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -141,55 +190,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Welcome
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: >
-      ###### Dr. Thapa helps students get admission to U.S. universities and
-      prepares them for academic success, university life, career planning, and
-      beyond. From application to graduation, he’s here to guide you. Ready to
-      start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa or [Instagram
-      ](https://www.instagram.com/drsamratthapa/)DM today!
-
-
-      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
-      University of Lynchburg, USA.*
-    actions: []
-    media:
-      type: VideoBlock
-      title: Who is Dr. Thapa?
-      url: 'https://youtu.be/h0VbEqSo4og'
-      autoplay: false
-      loop: false
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: ImageGallerySection
     subtitle: Student Advisee
     images:
