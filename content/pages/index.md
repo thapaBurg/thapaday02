@@ -396,6 +396,46 @@ sections:
         fontWeight: 700
   - type: GenericSection
     title:
+      text: Feedback
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: Student testamonial
+    text: |
+      Listen what students say about Dr. Thapa. 
+    actions: []
+    media:
+      title: Testimonial
+      url: 'https://youtu.be/RkU3_p5yKbU'
+      autoplay: false
+      loop: false
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
       type: TitleBlock
       text: Other Universities
       color: text-dark
@@ -485,46 +525,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: GenericSection
-    title:
-      text: Feedback
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Student testamonial
-    text: |
-      Listen what students say about Dr. Thapa. 
-    actions: []
-    media:
-      title: Testimonial
-      url: 'https://youtu.be/RkU3_p5yKbU'
-      autoplay: false
-      loop: false
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Instagram and YouTube
       color: text-dark
