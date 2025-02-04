@@ -387,6 +387,47 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: Instagram and YouTube
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Follow Dr. Thapa on [YouTube](https://www.youtube.com/@DrSamratThapa) and 
+      [Instagram. ](https://www.instagram.com/drsamratthapa/)
+
+
+      Students from **China**, you can contact me via WeChat (DrSamratThapa)
+    actions:
+      - type: Button
+        label: Instagram
+        altText: Instagram
+        url: 'https://www.instagram.com/drsamratthapa/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      altText: Fun feature preview
+      type: ImageBlock
+      elementId: Instagram
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        padding:
+          - pl-0
+          - pr-0
+          - pt-0
+          - pb-0
+        margin:
+          - mt-0
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -526,47 +567,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Instagram and YouTube
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Follow Dr. Thapa on [YouTube](https://www.youtube.com/@DrSamratThapa) and 
-      [Instagram. ](https://www.instagram.com/drsamratthapa/)
-
-
-      Students from **China**, you can contact me via WeChat (DrSamratThapa)
-    actions:
-      - type: Button
-        label: Instagram
-        altText: Instagram
-        url: 'https://www.instagram.com/drsamratthapa/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      altText: Fun feature preview
-      type: ImageBlock
-      elementId: Instagram
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pl-0
-          - pr-0
-          - pt-0
-          - pb-0
-        margin:
-          - mt-0
-    type: GenericSection
   - type: GenericSection
     title:
       type: TitleBlock
