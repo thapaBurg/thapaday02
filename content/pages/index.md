@@ -215,8 +215,9 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Student testamonial
-    text: |
-      Listen what students say about Dr. Thapa. 
+    text: >
+      Listen what students say about Dr. Thapa. Watch her trip from Nepal to USA
+      <[YouTube](https://youtu.be/yZ2gYvgdE7w)>
     actions: []
     media:
       title: Testimonial
