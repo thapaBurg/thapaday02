@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      ###### Dr. Thapa helps students gain admission to U.S. universities and
+      ###### Dr. Thapa helps students get admission to U.S. universities and
       prepares them for academic success, university life, career planning, and
       beyond. From application to graduation, he’s here to guide you. Ready to
       start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today!
