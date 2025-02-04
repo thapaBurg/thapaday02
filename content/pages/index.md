@@ -11,17 +11,15 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      ###### Dr. Thapa assists students with admissions to universities in the
-      USA. He also prepares them for U.S. academics, university life, career
-      planning, immigration, and more. Dr. Thapa will guide you before, during
-      and after your university journey. Ready to take the next step? [Email
-      ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today.
+    text: >
+      ###### Dr. Thapa helps students gain admission to U.S. universities and
+      prepares them for academic success, university life, career planning, and
+      beyond. From application to graduation, he’s here to guide you. Ready to
+      start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today!
 
 
       *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
       University of Lynchburg, USA.*
-
     actions: []
     media:
       type: VideoBlock
