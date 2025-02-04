@@ -248,87 +248,6 @@ sections:
       subtitle:
         textAlign: left
   - type: ImageGallerySection
-    subtitle: Student Advisee
-    images:
-      - type: ImageBlock
-        url: /images/logo_harvard_25_percent.png
-        altText: Harvard
-        elementId: ''
-      - type: ImageBlock
-        url: /images/texas_seal_18_percent.png
-        altText: Texas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/lynchburg_logo_12_percent.png
-        altText: Lynchburg
-        elementId: ''
-      - type: ImageBlock
-        url: /images/cornell_logo_40_percent.png
-        altText: Cornell
-        elementId: ''
-      - type: ImageBlock
-        url: /images/union_logo_20_percent.png
-        altText: Union
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sbc_logo_25_percent.png
-        altText: Sweet Briar
-        elementId: ''
-      - type: ImageBlock
-        url: /images/luther_logo_45_percent.png
-        altText: Luther
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-3
-          - pl-3
-          - pb-4
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Other Universities
-      color: text-dark
-    subtitle: ''
-    text: >
-      If you want to get admitted to other Universities in USA, we provide
-      advice and guidance. Fill the form below or email
-      <[Link](mailto:Drsamrattahapa@gmail.com)>. Dr. Thapa understands that not
-      all students are interested in U of Lynchburg. 
-    actions:
-      - type: Button
-        label: Form
-        url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/Cornell.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: Admissions
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - type: ImageGallerySection
     subtitle: Helped students from following and more
     images:
       - type: ImageBlock
@@ -373,6 +292,56 @@ sections:
           - pt-3
           - pl-3
           - pb-1
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+  - type: ImageGallerySection
+    subtitle: Student Advisee
+    images:
+      - type: ImageBlock
+        url: /images/logo_harvard_25_percent.png
+        altText: Harvard
+        elementId: ''
+      - type: ImageBlock
+        url: /images/texas_seal_18_percent.png
+        altText: Texas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lynchburg_logo_12_percent.png
+        altText: Lynchburg
+        elementId: ''
+      - type: ImageBlock
+        url: /images/cornell_logo_40_percent.png
+        altText: Cornell
+        elementId: ''
+      - type: ImageBlock
+        url: /images/union_logo_20_percent.png
+        altText: Union
+        elementId: ''
+      - type: ImageBlock
+        url: /images/sbc_logo_25_percent.png
+        altText: Sweet Briar
+        elementId: ''
+      - type: ImageBlock
+        url: /images/luther_logo_45_percent.png
+        altText: Luther
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-3
+          - pl-3
+          - pb-4
           - pr-3
         justifyContent: center
       subtitle:
@@ -595,41 +564,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Dr. Thapa has over a decade of experience in American higher education. He
-      is the Director of Asia Initiatives at University of Lynchburg. He is a
-      regular speaker at Education USA/USEF locations across Asia. He provides
-      variety of services to Universities, High Schools and more. Email
-      <DrSamratThapa@gmail.com>.
-    actions:
-      - type: Button
-        label: Email
-        altText: ''
-        url: 'mailto:DrSamratThapa@gmail.com'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      url: /images/IMG-20240628-WA0006.jpg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - type: GenericSection
     title:
       type: TitleBlock
@@ -682,6 +616,41 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title:
+      text: Consulting
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Dr. Thapa has over a decade of experience in American higher education. He
+      is the Director of Asia Initiatives at University of Lynchburg. He is a
+      regular speaker at Education USA/USEF locations across Asia. He provides
+      variety of services to Universities, High Schools and more. Email
+      <DrSamratThapa@gmail.com>.
+    actions:
+      - type: Button
+        label: Email
+        altText: ''
+        url: 'mailto:DrSamratThapa@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      url: /images/IMG-20240628-WA0006.jpg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -718,22 +687,16 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      ###### [DrSamratThapa@gmail.com ](mailto:DrSamratThapa@gmail.com)
+      ###### [DrSamratThapa@gmail.com,
+      ](mailto:DrSamratThapa@gmail.com)[DrSamratThapa@hotmail.com
+      (China)](mailto:drsamratthapa@hotmail.com)
 
 
-      [DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)
-
-
-      [Instagram DM](https://www.instagram.com/drsamratthapa/)
-
-
-      [LinkedIn](https://www.linkedin.com/in/drsamratthapa/)
+      [Instagram DM, ](https://www.instagram.com/drsamratthapa/)[LinkedIn,
+      ](https://www.linkedin.com/in/drsamratthapa/)[Facebook](https://www.facebook.com/profile.php?id=100011164698657\&sk=about)
 
 
       ###### **WeChat ID**: DrSamratThapa
-
-
-      [Facebook](https://www.facebook.com/profile.php?id=100011164698657\&sk=about)
 
     badge:
       label: ''
