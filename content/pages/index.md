@@ -248,56 +248,6 @@ sections:
       subtitle:
         textAlign: left
   - type: ImageGallerySection
-    subtitle: Student Advisee
-    images:
-      - type: ImageBlock
-        url: /images/logo_harvard_25_percent.png
-        altText: Harvard
-        elementId: ''
-      - type: ImageBlock
-        url: /images/texas_seal_18_percent.png
-        altText: Texas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/lynchburg_logo_12_percent.png
-        altText: Lynchburg
-        elementId: ''
-      - type: ImageBlock
-        url: /images/cornell_logo_40_percent.png
-        altText: Cornell
-        elementId: ''
-      - type: ImageBlock
-        url: /images/union_logo_20_percent.png
-        altText: Union
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sbc_logo_25_percent.png
-        altText: Sweet Briar
-        elementId: ''
-      - type: ImageBlock
-        url: /images/luther_logo_45_percent.png
-        altText: Luther
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-3
-          - pl-3
-          - pb-4
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-  - type: ImageGallerySection
     subtitle: Helped students from following and more
     images:
       - type: ImageBlock
@@ -342,6 +292,56 @@ sections:
           - pt-3
           - pl-3
           - pb-1
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+  - type: ImageGallerySection
+    subtitle: Student Advisee
+    images:
+      - type: ImageBlock
+        url: /images/logo_harvard_25_percent.png
+        altText: Harvard
+        elementId: ''
+      - type: ImageBlock
+        url: /images/texas_seal_18_percent.png
+        altText: Texas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lynchburg_logo_12_percent.png
+        altText: Lynchburg
+        elementId: ''
+      - type: ImageBlock
+        url: /images/cornell_logo_40_percent.png
+        altText: Cornell
+        elementId: ''
+      - type: ImageBlock
+        url: /images/union_logo_20_percent.png
+        altText: Union
+        elementId: ''
+      - type: ImageBlock
+        url: /images/sbc_logo_25_percent.png
+        altText: Sweet Briar
+        elementId: ''
+      - type: ImageBlock
+        url: /images/luther_logo_45_percent.png
+        altText: Luther
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-3
+          - pl-3
+          - pb-4
           - pr-3
         justifyContent: center
       subtitle:
