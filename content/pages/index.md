@@ -564,41 +564,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Dr. Thapa has over a decade of experience in American higher education. He
-      is the Director of Asia Initiatives at University of Lynchburg. He is a
-      regular speaker at Education USA/USEF locations across Asia. He provides
-      variety of services to Universities, High Schools and more. Email
-      <DrSamratThapa@gmail.com>.
-    actions:
-      - type: Button
-        label: Email
-        altText: ''
-        url: 'mailto:DrSamratThapa@gmail.com'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      url: /images/IMG-20240628-WA0006.jpg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - type: GenericSection
     title:
       type: TitleBlock
@@ -651,6 +616,41 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title:
+      text: Consulting
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Dr. Thapa has over a decade of experience in American higher education. He
+      is the Director of Asia Initiatives at University of Lynchburg. He is a
+      regular speaker at Education USA/USEF locations across Asia. He provides
+      variety of services to Universities, High Schools and more. Email
+      <DrSamratThapa@gmail.com>.
+    actions:
+      - type: Button
+        label: Email
+        altText: ''
+        url: 'mailto:DrSamratThapa@gmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      url: /images/IMG-20240628-WA0006.jpg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
