@@ -28,7 +28,7 @@ sections:
       title: Who is Dr. Thapa
       url: 'https://youtu.be/h0VbEqSo4og'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
