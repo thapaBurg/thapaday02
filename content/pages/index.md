@@ -26,7 +26,7 @@ sections:
     media:
       type: VideoBlock
       title: Who is Dr. Thapa
-      url: '"C:\Users\where\Downloads\General Intro_LI Popup_Final.mov"'
+      url: 'https://youtu.be/h0VbEqSo4og'
       autoplay: true
       loop: true
       muted: true
