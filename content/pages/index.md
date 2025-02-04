@@ -498,7 +498,7 @@ sections:
       Listen what students say about Dr. Thapa. 
     actions: []
     media:
-      title: Title of the video
+      title: Testimonial
       url: 'https://youtu.be/QBQrHdmVdIE?si=l-1UNg54qo18sXFM'
       autoplay: false
       loop: false
