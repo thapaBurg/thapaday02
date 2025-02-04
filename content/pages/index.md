@@ -296,6 +296,37 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Other Universities
+      color: text-dark
+    subtitle: ''
+    text: >
+      If you want to get admitted to other Universities in USA, we provide
+      advice and guidance. Fill the form below or email
+      <[Link](mailto:Drsamrattahapa@gmail.com)>. Dr. Thapa understands that not
+      all students are interested in U of Lynchburg. 
+    actions:
+      - type: Button
+        label: Form
+        url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/Cornell.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Admissions
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -435,37 +466,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Other Universities
-      color: text-dark
-    subtitle: ''
-    text: >
-      If you want to get admitted to other Universities in USA, we provide
-      advice and guidance. Fill the form below or email
-      <[Link](mailto:Drsamrattahapa@gmail.com)>. Dr. Thapa understands that not
-      all students are interested in U of Lynchburg. 
-    actions:
-      - type: Button
-        label: Form
-        url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/Cornell.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: Admissions
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: ImageGallerySection
     subtitle: Helped students from following and more
     images:
