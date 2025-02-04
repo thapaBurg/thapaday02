@@ -687,22 +687,16 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      ###### [DrSamratThapa@gmail.com ](mailto:DrSamratThapa@gmail.com)
+      ###### [DrSamratThapa@gmail.com,
+      ](mailto:DrSamratThapa@gmail.com)[DrSamratThapa@hotmail.com
+      (China)](mailto:drsamratthapa@hotmail.com)
 
 
-      [DrSamratThapa@hotmail.com (China) ](mailto:drsamratthapa@hotmail.com)
-
-
-      [Instagram DM](https://www.instagram.com/drsamratthapa/)
-
-
-      [LinkedIn](https://www.linkedin.com/in/drsamratthapa/)
+      [Instagram DM, ](https://www.instagram.com/drsamratthapa/)[LinkedIn,
+      ](https://www.linkedin.com/in/drsamratthapa/)[Facebook](https://www.facebook.com/profile.php?id=100011164698657\&sk=about)
 
 
       ###### **WeChat ID**: DrSamratThapa
-
-
-      [Facebook](https://www.facebook.com/profile.php?id=100011164698657\&sk=about)
 
     badge:
       label: ''
