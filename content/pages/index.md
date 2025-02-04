@@ -4,11 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
       text: Welcome
       color: text-dark
-      type: TitleBlock
+      styles:
+        self:
+          textAlign: left
     subtitle: ''
-    text: >
+    text: >+
       ###### Dr. Thapa assists students with admissions to universities in the
       USA. He also prepares them for U.S. academics, university life, career
       planning, immigration, and more. Dr. Thapa will guide you before, during
@@ -18,32 +21,35 @@ sections:
 
       *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
       University of Lynchburg, USA.*
-    actions:
-      - label: Get started
-        altText: ''
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+
+    actions: []
     media:
-      url: /images/Business Card_resized.jpg
-      altText: Dr. Thapa's Business Card
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
+      type: VideoBlock
+      title: Who is Dr. Thapa
+      url: 'https://youtu.be/h0VbEqSo4og'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
         flexDirection: row
-        padding:
-          - pt-0
-          - pl-2
-          - pb-2
-          - pr-2
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: ''
