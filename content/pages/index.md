@@ -475,16 +475,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     title:
       text: Feedback
@@ -525,6 +515,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: Instagram and YouTube
       color: text-dark
