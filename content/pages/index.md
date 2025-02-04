@@ -493,7 +493,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Dr. Thapa's Interview
+    subtitle: Student testamonial
     text: |
       Want to learn more about University of Lynchburg? Watch this video.
     actions: []
