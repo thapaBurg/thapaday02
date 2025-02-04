@@ -101,145 +101,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - type: FeaturedItemsSection
-    title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Apply to University
-        subtitle: University of Lynchburg
-        text: >
-          Applying to the University of Lynchburg (or other US universities) is
-          EASY and FREE. Click on the link below and follow my step-by-step
-          instructions. 
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /blog
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: null
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/US-United-States-Flag-icon.png
-          styles:
-            self:
-              borderRadius: x-large
-      - title: Workshops
-        subtitle: Registration
-        text: >
-          Dr. Thapa's workshops prepare students for academics, university life,
-          immigration and more in USA. Students receive certificate after
-          completion of workshops.
-        image:
-          url: /images/workshops_by_Thapa_resized.png
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /Workshop
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - type: FeaturedItem
-        title: Useful Tips
-        tagline: ''
-        subtitle: For students in USA
-        text: >
-          When you arrive in the USA, you will have many questions such as: how
-          to open a bank account, get a driver's license, obtain a SIM card, pay
-          taxes, and more.
-        image:
-          type: ImageBlock
-          url: /images/Helpful Tips.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /Helpful-Information
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-            borderColor: border-neutral
-    actions: []
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-2
-          - pt-0
-          - pl-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     subtitle: 'Student Feedback '
     items:
@@ -395,6 +256,145 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: FeaturedItemsSection
+    title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Apply to University
+        subtitle: University of Lynchburg
+        text: >
+          Applying to the University of Lynchburg (or other US universities) is
+          EASY and FREE. Click on the link below and follow my step-by-step
+          instructions. 
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /blog
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: null
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/US-United-States-Flag-icon.png
+          styles:
+            self:
+              borderRadius: x-large
+      - title: Workshops
+        subtitle: Registration
+        text: >
+          Dr. Thapa's workshops prepare students for academics, university life,
+          immigration and more in USA. Students receive certificate after
+          completion of workshops.
+        image:
+          url: /images/workshops_by_Thapa_resized.png
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /Workshop
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Useful Tips
+        tagline: ''
+        subtitle: For students in USA
+        text: >
+          When you arrive in the USA, you will have many questions such as: how
+          to open a bank account, get a driver's license, obtain a SIM card, pay
+          taxes, and more.
+        image:
+          type: ImageBlock
+          url: /images/Helpful Tips.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Helpful-Information
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
+            borderRadius: x-large
+            flexDirection: row
+            borderColor: border-neutral
+    actions: []
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-2
+          - pt-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       text: Feedback
