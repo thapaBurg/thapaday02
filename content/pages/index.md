@@ -639,10 +639,11 @@ sections:
           textAlign: left
     subtitle: Hello parents
     text: >
-      Hello parents and guardians, I am sure you have many questions regarding
-      USA and University. Please watch the video where I try to answer some of
-      the frequently asked questions. For more information, click on the link
-      below and feel free to email me (DrSamratThapa\@gmail.com). 
+
+      Have questions about studying in the USA? Watch this video where I answer
+      common FAQs. For more details, click the link below or email me at
+
+      (<DrSamratThapa@gmail.com>).
     actions:
       - type: Button
         label: Learn More
