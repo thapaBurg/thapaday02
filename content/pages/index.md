@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
       ###### Dr. Thapa assists students with admissions to universities in the
       USA. He also prepares them for U.S. academics, university life, career
