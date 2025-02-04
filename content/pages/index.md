@@ -495,7 +495,7 @@ sections:
       type: TitleBlock
     subtitle: Student testamonial
     text: |
-      Want to learn more about University of Lynchburg? Watch this video.
+      Listen what students say about Dr. Thapa. 
     actions: []
     media:
       title: Title of the video
