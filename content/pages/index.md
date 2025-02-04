@@ -27,7 +27,7 @@ sections:
       type: VideoBlock
       title: Who is Dr. Thapa
       url: 'https://youtu.be/h0VbEqSo4og'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
