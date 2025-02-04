@@ -217,7 +217,7 @@ sections:
     subtitle: Student testamonial
     text: >
       Listen what students say about Dr. Thapa. Watch her trip from Nepal to USA
-      <[YouTube](https://youtu.be/yZ2gYvgdE7w)>
+      <[You Tube](https://youtu.be/yZ2gYvgdE7w)>
     actions: []
     media:
       title: Testimonial
