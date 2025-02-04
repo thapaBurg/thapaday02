@@ -327,6 +327,56 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: ImageGallerySection
+    subtitle: Helped students from following and more
+    images:
+      - type: ImageBlock
+        url: /images/gems_logo_5_percent.png
+        altText: GEMS School
+        elementId: ''
+      - type: ImageBlock
+        url: /images/kaasthamandap_logo_25_percent.png
+        altText: Kaasthamandap
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Ullens_logo_30_percent.png
+        altText: Ullens School
+        elementId: ''
+      - type: ImageBlock
+        url: /images/rbs_logo_70_percent.png
+        altText: RBS
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PREMIER-Logo-01_icon_225x75.png
+        altText: Premier
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lincoln_school_logo_15_percent.png
+        altText: Lincoln
+        elementId: ''
+      - type: ImageBlock
+        url: /images/St_Xaviers_College_transparent_resized_25.png
+        altText: St Xaviers College
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-3
+          - pl-3
+          - pb-1
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -466,56 +516,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: Helped students from following and more
-    images:
-      - type: ImageBlock
-        url: /images/gems_logo_5_percent.png
-        altText: GEMS School
-        elementId: ''
-      - type: ImageBlock
-        url: /images/kaasthamandap_logo_25_percent.png
-        altText: Kaasthamandap
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Ullens_logo_30_percent.png
-        altText: Ullens School
-        elementId: ''
-      - type: ImageBlock
-        url: /images/rbs_logo_70_percent.png
-        altText: RBS
-        elementId: ''
-      - type: ImageBlock
-        url: /images/PREMIER-Logo-01_icon_225x75.png
-        altText: Premier
-        elementId: ''
-      - type: ImageBlock
-        url: /images/lincoln_school_logo_15_percent.png
-        altText: Lincoln
-        elementId: ''
-      - type: ImageBlock
-        url: /images/St_Xaviers_College_transparent_resized_25.png
-        altText: St Xaviers College
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-3
-          - pl-3
-          - pb-1
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
   - title: Divider
     colors: bg-light-fg-dark
     styles:
