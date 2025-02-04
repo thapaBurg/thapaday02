@@ -297,36 +297,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Other Universities
-      color: text-dark
-    subtitle: ''
-    text: >
-      If you want to get admitted to other Universities in USA, we provide
-      advice and guidance. Fill the form below or email <[Link
-      ](mailto:Drsamrattahapa@gmail.com)>. 
-    actions:
-      - type: Button
-        label: Form
-        url: 'https://forms.gle/fsvzmyiDrXSuxuFn6'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/Cornell.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: Admissions
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: ImageGallerySection
     subtitle: Helped students from following and more
     images:
