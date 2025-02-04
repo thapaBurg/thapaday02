@@ -11,25 +11,23 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      ###### Dr. Thapa assists students with admissions to universities in the
-      USA. He also prepares them for U.S. academics, university life, career
-      planning, immigration, and more. Dr. Thapa will guide you before, during
-      and after your university journey. Ready to take the next step? [Email
-      ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today.
+    text: >
+      ###### Dr. Thapa helps students get admission to U.S. universities and
+      prepares them for academic success, university life, career planning, and
+      beyond. From application to graduation, he’s here to guide you. Ready to
+      start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today!
 
 
       *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
-      University of Lynchburg, USA.*
-
+      University of Lynchburg, USA.*   
     actions: []
     media:
       type: VideoBlock
-      title: Who is Dr. Thapa
+      title: Who is Dr. Thapa?
       url: 'https://youtu.be/h0VbEqSo4og'
       autoplay: false
       loop: false
-      muted: false
+      muted: true
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -49,6 +47,8 @@ sections:
         flexDirection: row
         justifyContent: center
       subtitle:
+        textAlign: left
+      text:
         textAlign: left
   - type: FeaturedItemsSection
     title:
@@ -487,19 +487,19 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Interview
+      text: Feedback
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Dr. Thapa's Interview
+    subtitle: Student testamonial
     text: |
-      Want to learn more about University of Lynchburg? Watch this video.
+      Listen what students say about Dr. Thapa. 
     actions: []
     media:
-      title: Title of the video
-      url: 'https://youtu.be/QBQrHdmVdIE?si=l-1UNg54qo18sXFM'
+      title: Testimonial
+      url: 'https://youtu.be/RkU3_p5yKbU'
       autoplay: false
       loop: false
       muted: true
