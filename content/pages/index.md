@@ -305,9 +305,8 @@ sections:
     subtitle: ''
     text: >
       If you want to get admitted to other Universities in USA, we provide
-      advice and guidance. Fill the form below or email
-      <[Link](mailto:Drsamrattahapa@gmail.com)>. Dr. Thapa understands that not
-      all students are interested in U of Lynchburg. 
+      advice and guidance. Fill the form below or email <[Link
+      ](mailto:Drsamrattahapa@gmail.com)>. 
     actions:
       - type: Button
         label: Form
