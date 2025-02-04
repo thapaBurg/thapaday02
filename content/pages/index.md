@@ -11,11 +11,17 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ###### Dr. Thapa assists students with admissions to universities in the
+      USA. He also prepares them for U.S. academics, university life, career
+      planning, immigration, and more. Dr. Thapa will guide you before, during
+      and after your university journey. Ready to take the next step? [Email
+      ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today.
+
+
+      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
+      University of Lynchburg, USA.*
+
     actions: []
     media:
       type: VideoBlock
