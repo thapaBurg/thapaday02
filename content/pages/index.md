@@ -487,7 +487,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Interview
+      text: Feedback
       color: text-dark
       styles:
         self:
