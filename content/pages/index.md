@@ -23,7 +23,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Who is Dr. Thapa
+      title: Who is Dr. Thapa?
       url: 'https://youtu.be/h0VbEqSo4og'
       autoplay: false
       loop: false
