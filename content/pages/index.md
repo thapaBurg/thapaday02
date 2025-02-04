@@ -15,11 +15,12 @@ sections:
       ###### Dr. Thapa helps students get admission to U.S. universities and
       prepares them for academic success, university life, career planning, and
       beyond. From application to graduation, he’s here to guide you. Ready to
-      start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa today!
+      start?  [Email ](mailto:DrSamratThapa@gmail.com)Dr. Thapa or [Instagram
+      ](https://www.instagram.com/drsamratthapa/)DM today!
 
 
       *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
-      University of Lynchburg, USA.*   
+      University of Lynchburg, USA.*
     actions: []
     media:
       type: VideoBlock
@@ -50,208 +51,19 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedItemsSection
-    title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Apply to University
-        subtitle: University of Lynchburg
-        text: >
-          Applying to the University of Lynchburg (or other US universities) is
-          EASY and FREE. Click on the link below and follow my step-by-step
-          instructions. 
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /blog
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: null
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/US-United-States-Flag-icon.png
-          styles:
-            self:
-              borderRadius: x-large
-      - title: Workshops
-        subtitle: Registration
-        text: >
-          Dr. Thapa's workshops prepare students for academics, university life,
-          immigration and more in USA. Students receive certificate after
-          completion of workshops.
-        image:
-          url: /images/workshops_by_Thapa_resized.png
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /Workshop
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - type: FeaturedItem
-        title: Useful Tips
-        tagline: ''
-        subtitle: For students in USA
-        text: >
-          When you arrive in the USA, you will have many questions such as: how
-          to open a bank account, get a driver's license, obtain a SIM card, pay
-          taxes, and more.
-        image:
-          type: ImageBlock
-          url: /images/Helpful Tips.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /Helpful-Information
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-0
-              - pr-3
-            borderRadius: x-large
-            flexDirection: row
-            borderColor: border-neutral
-    actions: []
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-2
-          - pt-0
-          - pl-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: ImageGallerySection
-    subtitle: Student Advisee
-    images:
-      - type: ImageBlock
-        url: /images/logo_harvard_25_percent.png
-        altText: Harvard
-        elementId: ''
-      - type: ImageBlock
-        url: /images/texas_seal_18_percent.png
-        altText: Texas
-        elementId: ''
-      - type: ImageBlock
-        url: /images/lynchburg_logo_12_percent.png
-        altText: Lynchburg
-        elementId: ''
-      - type: ImageBlock
-        url: /images/cornell_logo_40_percent.png
-        altText: Cornell
-        elementId: ''
-      - type: ImageBlock
-        url: /images/union_logo_20_percent.png
-        altText: Union
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sbc_logo_25_percent.png
-        altText: Sweet Briar
-        elementId: ''
-      - type: ImageBlock
-        url: /images/luther_logo_45_percent.png
-        altText: Luther
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-3
-          - pl-3
-          - pb-4
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
   - type: CarouselSection
     subtitle: 'Student Feedback '
     items:
       - title: Testimonial 1
         tagline: ''
         subtitle: 'Aaditya Subedi, Harvard University 2028'
-        text: >+
-          ##### "I recently had the incredible opportunity to participate in Dr.
+        text: >
+          "I recently had the incredible opportunity to participate in Dr.
           Samrat Thapa's workshop, and I cannot recommend it highly enough for
           any incoming freshmen. I feel more prepared and excited about my
           future at Harvard, and I owe a significant part of that confidence to
-          Dr. Thapa's guidance."
-
+          Dr. Thapa's guidance." Watch his interview here <[You
+          Tube](https://youtu.be/pNDC4svG6pI)>.
         image:
           url: /images/Harvard 2.png
           altText: Maria Walters
@@ -403,8 +215,9 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Student testamonial
-    text: |
-      Listen what students say about Dr. Thapa. 
+    text: >
+      Listen what students say about Dr. Thapa. Watch her trip from Nepal to USA
+      <[YouTube](https://youtu.be/yZ2gYvgdE7w)>
     actions: []
     media:
       title: Testimonial
@@ -434,6 +247,56 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: ImageGallerySection
+    subtitle: Student Advisee
+    images:
+      - type: ImageBlock
+        url: /images/logo_harvard_25_percent.png
+        altText: Harvard
+        elementId: ''
+      - type: ImageBlock
+        url: /images/texas_seal_18_percent.png
+        altText: Texas
+        elementId: ''
+      - type: ImageBlock
+        url: /images/lynchburg_logo_12_percent.png
+        altText: Lynchburg
+        elementId: ''
+      - type: ImageBlock
+        url: /images/cornell_logo_40_percent.png
+        altText: Cornell
+        elementId: ''
+      - type: ImageBlock
+        url: /images/union_logo_20_percent.png
+        altText: Union
+        elementId: ''
+      - type: ImageBlock
+        url: /images/sbc_logo_25_percent.png
+        altText: Sweet Briar
+        elementId: ''
+      - type: ImageBlock
+        url: /images/luther_logo_45_percent.png
+        altText: Luther
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-3
+          - pl-3
+          - pb-4
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
@@ -593,6 +456,145 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: FeaturedItemsSection
+    title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Apply to University
+        subtitle: University of Lynchburg
+        text: >
+          Applying to the University of Lynchburg (or other US universities) is
+          EASY and FREE. Click on the link below and follow my step-by-step
+          instructions. 
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /blog
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: null
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/US-United-States-Flag-icon.png
+          styles:
+            self:
+              borderRadius: x-large
+      - title: Workshops
+        subtitle: Registration
+        text: >
+          Dr. Thapa's workshops prepare students for academics, university life,
+          immigration and more in USA. Students receive certificate after
+          completion of workshops.
+        image:
+          url: /images/workshops_by_Thapa_resized.png
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /Workshop
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Useful Tips
+        tagline: ''
+        subtitle: For students in USA
+        text: >
+          When you arrive in the USA, you will have many questions such as: how
+          to open a bank account, get a driver's license, obtain a SIM card, pay
+          taxes, and more.
+        image:
+          type: ImageBlock
+          url: /images/Helpful Tips.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Helpful-Information
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-0
+              - pr-3
+            borderRadius: x-large
+            flexDirection: row
+            borderColor: border-neutral
+    actions: []
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-2
+          - pt-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Consulting
       color: text-dark
@@ -638,10 +640,11 @@ sections:
           textAlign: left
     subtitle: Hello parents
     text: >
-      Hello parents and guardians, I am sure you have many questions regarding
-      USA and University. Please watch the video where I try to answer some of
-      the frequently asked questions. For more information, click on the link
-      below and feel free to email me (DrSamratThapa\@gmail.com). 
+
+      Have questions about studying in the USA? Watch this video where I answer
+      common FAQs. For more details, click the link below or email me at
+
+      (<DrSamratThapa@gmail.com>).
     actions:
       - type: Button
         label: Learn More
