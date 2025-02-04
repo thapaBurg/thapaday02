@@ -53,6 +53,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: ''
