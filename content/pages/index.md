@@ -56,7 +56,7 @@ sections:
       - type: FeaturedItem
         title: "\U0001F389 Apple AirPods 4 \U0001F389 Lucky Draw \U0001F389"
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: Ends Feb 16th
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
