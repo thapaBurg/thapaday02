@@ -54,7 +54,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: "\U0001F389 Apple AirPods 4 \U0001F389 Lucky Draw \U0001F389"
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
