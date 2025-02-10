@@ -63,7 +63,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/airpods-4-select-202409_FMT_WHH.jpg
           altText: Featured item
           styles:
             self:
