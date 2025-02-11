@@ -73,7 +73,7 @@ sections:
               - pt-2
               - pb-9
               - pl-2
-              - pr-9
+              - pr-2
             textAlign: left
             borderRadius: large
             flexDirection: row
