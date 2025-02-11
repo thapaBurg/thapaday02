@@ -72,7 +72,7 @@ sections:
             padding:
               - pt-2
               - pb-9
-              - pl-9
+              - pl-2
               - pr-9
             textAlign: left
             borderRadius: large
