@@ -75,7 +75,7 @@ sections:
               - pl-2
               - pr-2
             textAlign: left
-            borderRadius: large
+            borderRadius: small
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
