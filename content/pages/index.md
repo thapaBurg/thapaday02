@@ -52,15 +52,6 @@ sections:
       text:
         textAlign: left
   - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
     subtitle: 'Student Feedback '
     items:
       - title: Testimonial 1
