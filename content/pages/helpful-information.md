@@ -21,7 +21,7 @@ sections:
           rules and more. 
         image:
           type: ImageBlock
-          url: /images/Nabil Bank.png
+          url: '/images/ChatGPT Image Jun 16, 2025, 03_20_18 AM.png'
           altText: Nabil Bank
           styles:
             self:
