@@ -52,32 +52,7 @@ sections:
       text:
         textAlign: left
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: "\U0001F389 Apple AirPods 4 \U0001F389 Lucky Draw \U0001F389"
-        tagline: Feature 1
-        subtitle: Ends Feb 16th and March 1st.
-        text: "\U0001F340 **Lucky Draw #1**\U0001F340\nFill this Google Form <[Link ](https://forms.gle/Q21y5z4UwfwGU5mU9)> by Feb 16th to Win One AirPods 4 \U0001F4C5Deadline: February 16th, 11:59 PM Nepal Time. Subscribe to my [YouTube ](https://www.youtube.com/@DrSamratThapa)channel.\n\n\U0001F340 **Lucky Draw #2**\U0001F340\nSubmit application to Lynchburg by March 1st to Win One AirPods 4. \U0001F4DD\U0001F4CB\U0001F4DC| Application is **free and easy**. You can finish in 15 min. Watch this YouTube video for instructions <[Link ](https://youtu.be/HZICdi2Voo8?si=rWsFN5Qj2SQYLngR)> \U0001F4C5Deadline: March 1st, 11:59 PM Nepal Time\nGood Luck\U0001F91E✨\U0001F340\U0001F91E\U0001F917\n"
-        image:
-          type: ImageBlock
-          url: /images/airpods-4-hero-select-202409_FMT_WHH.jpg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pb-2
-              - pl-2
-              - pr-2
-            textAlign: left
-            borderRadius: small
-            flexDirection: row
-            justifyContent: center
+    items: []
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
