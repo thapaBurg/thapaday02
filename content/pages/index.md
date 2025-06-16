@@ -358,7 +358,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Instagram and YouTube
+      text: 'YouTube, IG and TikTok'
       color: text-dark
       type: TitleBlock
     subtitle: ''
