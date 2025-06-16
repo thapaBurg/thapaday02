@@ -363,8 +363,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Follow Dr. Thapa on [YouTube](https://www.youtube.com/@DrSamratThapa) and 
-      [Instagram. ](https://www.instagram.com/drsamratthapa/)
+      Follow Dr. Thapa on [YouTube](https://www.youtube.com/@DrSamratThapa) ,
+      [Instagram, ](https://www.instagram.com/drsamratthapa/)and
+      [TikTok.](https://www.tiktok.com/@drsamratthapa) 
+
 
 
       Students from **China**, you can contact me via WeChat (DrSamratThapa)
