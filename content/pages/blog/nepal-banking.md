@@ -117,11 +117,9 @@ styles:
 
 -some banks require invoice from university. Email your university
 
-**3) Nabil Visa International Prepaid Card (USD Denominated):**
+**3) International Prepaid Card (USD Denominated):**
 
-\- Nabil Visa International prepaid card is issued against Passport & air ticket facility as per NRB circulars.
-
-\- PIN code must be changed through Green Pin from any Nabil’s ATM machine.
+\- International prepaid card is issued against Passport & air ticket facility as per NRB circulars.
 
 \- Card can be topped up any time during the validity of the card as per NRB regulations. Living expenses can also be topped up as per your I-20 against the permit issued by the Ministry of Education (MOE).
 
@@ -133,7 +131,9 @@ styles:
 
 \- Monthly statement/transaction alert shall be sent via email for both transactions and billing information.
 
-\- Always visit only trusted merchant websites for online payment of merchandise & services. 
+\- Always visit only trusted merchant websites for online payment of merchandise & services.
+
+
 
 ### **Fund Transfer in Second Semester:**
 
@@ -145,9 +145,9 @@ styles:
 
 ### **MORE Details about Nepal Foreign Currency Exchange for Students**
 
-\- After submitting passport with visa and confirmed air tickets to a bank, students will be entitled to exchange a maximum of USD 2,500 under the Passport facility.  As per central banks rule, USD 500 cash can be issued and the rest of the amount can be topped up in Nabil International Prepaid Travel card or bank draft can be issued in the student’s name.
+\- After submitting passport with visa and confirmed air tickets to a bank, students will be entitled to exchange a maximum of USD 2,500 under the Passport facility.  As per central banks rule, USD 500 cash can be issued and the rest of the amount can be topped up in International Prepaid Travel card or bank draft can be issued in the student’s name.
 
-\- Students can exchange foreign currency in the form of Cash, Bank Draft or Nabil International Prepaid Travel card.
+\- Students can exchange foreign currency in the form of Cash, Bank Draft or International Prepaid Travel card.
 
 \- Besides the passport facility, students can have foreign currency Drafts, International Prepaid Card, and SWIFT Transfers for payment of tuition fees and living expenses.
 
