@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Apply USA",
-            "url": "/blog",
+            "label": "Workshop",
+            "altText": "Workshop",
+            "url": "/Workshop",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Workshop",
-            "altText": "Workshop",
-            "url": "/Workshop",
+            "label": "Apply USA",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
