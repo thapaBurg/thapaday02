@@ -97,9 +97,6 @@ styles:
 ---
 ### **Methods to send money to USA in the First Semester**
 
-By Nabil Bank.
-![](/images/Nabil%20Bank.png)
-
 **1) Bank Drafts (most students use this):**
 
 \- Bank Draft is a cheque issued by one bank to another bank requesting to pay a specified sum of money to the person or institution named in the draft. It will be safer than carrying cash.
@@ -136,27 +133,13 @@ By Nabil Bank.
 
 \- Monthly statement/transaction alert shall be sent via email for both transactions and billing information.
 
-\- Always visit only trusted merchant websites for online payment of merchandise & services. You can know more details by visiting the link \[Nabil LACS Enrollment]\(<https://nabilacs.compassplus.com/enrollment/index.jsp>).
+\- Always visit only trusted merchant websites for online payment of merchandise & services. 
 
 ### **Fund Transfer in Second Semester:**
 
 \- Don’t forget to leave your ‘No Objection Letter’ with your parents for future remittance requirements.
 
 \- The letter is required to remit tuition fee and living expenses for the next semester. It is not possible to exchange currency without the ‘No Objection Letter’.
-
-Please remember telephone number 01-5970015 of Nabil Customer Care for 24/7 service.
-
-For further queries, please contact:
-
-\- Ms. Anita Shrestha (<anita.shrestha@nabilbank.com>)
-
-\- Ms. Ishwori Maharjan (<ishwori.maharjan@nabilbank.com>)
-
-\- Ms. Arpana Gyawali (<arpana.gyawali@nabilbank.com>)
-
-Nabil Bank Ltd., Nabil Centre" Beena Marg, Teendhara Kathmandu, Nepal
-
-Phone: 4227181
 
 ###
 
@@ -185,5 +168,3 @@ Phone: 4227181
 \- Such 3% education tax is not applicable for living expenses.
 
 \- For the FCY issuance value USD 5000 and more PAN is required.
-
-Thank you Nabil Bank for this information.
