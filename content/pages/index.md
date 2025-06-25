@@ -625,9 +625,8 @@ sections:
     subtitle: ''
     text: >
       Dr. Thapa has over a decade of experience in American higher education. He
-      is the Director of Asia Initiatives at University of Lynchburg. He is a
-      regular speaker at Education USA/USEF locations across Asia. He provides
-      variety of services to Universities, High Schools and more. Email
+      is a regular speaker at Education USA/USEF locations across Asia. He
+      provides variety of services to Universities, High Schools and more. Email
       <DrSamratThapa@gmail.com>.
     actions:
       - type: Button
