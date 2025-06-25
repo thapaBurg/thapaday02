@@ -19,8 +19,8 @@ sections:
       ](https://www.instagram.com/drsamratthapa/)DM today!
 
 
-      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at the
-      University of Lynchburg, USA.*
+      *Dr. Samrat Thapa is a professor and Director of Asia Initiatives at U.S.
+      university.*
     actions: []
     media:
       type: VideoBlock
