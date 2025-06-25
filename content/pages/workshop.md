@@ -28,7 +28,7 @@ sections:
       - type: Button
         label: Sign Up
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfHuprjBydSau25u9O069pq1s0fH8i178Ga9m3hWnAzNW9dxg/viewform?usp=sf_link
+          https://docs.google.com/forms/d/e/1FAIpQLScun-yTVtmNfmpkgVbAfRL9-Cr3HjCwyOXp7Vh-TtJDMWCZVw/viewform?usp=sharing&ouid=100812109115683308057
         icon: arrowRight
         iconPosition: right
         style: secondary
