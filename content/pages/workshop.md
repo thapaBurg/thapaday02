@@ -90,7 +90,7 @@ sections:
         details: ''
         description: >
           Workshops 2-6 are paid sessions in group. Each workshop will cover
-          different topic. 2000 per session. 
+          different topic. NPR 2000 per session.
         features:
           - LMS
           - Free Resources
