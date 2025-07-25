@@ -174,17 +174,10 @@ topSections:
         self:
           textAlign: left
     subtitle: Congralutions
-    text: >
+    text: >+
       You will receive an email from the university when you are admitted.
-      Congratulations! 
+      Congratulations!
 
-
-
-      **Next step**, you have pay $300 deposit and the University will issue
-      I-20. You can make the payment in the application portal at Lynchburg.edu.
-      If you don’t have an international credit card you can go to any bank in
-      Nepal and ask them to make the payment. Make sure you take your I-20,
-      passport and other documents with you.
     actions: []
     media:
       type: VideoBlock
