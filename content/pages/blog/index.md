@@ -52,7 +52,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Video 1: How to apply to Lynchburg?'
+      text: 'Video 1: How to apply to US?'
       color: text-dark
       styles:
         self:
