@@ -15,12 +15,12 @@ topSections:
     subtitle: Overview of studying in USA
     text: >
       Applying to Universities in USA is a very easy process and I am going to
-      show you how to do it for FREE. 
+      show you how to do it for FREE.
 
 
       There is a long wait for US visa appointment in Nepal, submit your
       application 9 months in advance. For example, if you want to go to USA in
-      August 2025, apply by November 2024.
+      Jan 2026, apply by August 2025.
     actions: []
     media:
       type: VideoBlock
