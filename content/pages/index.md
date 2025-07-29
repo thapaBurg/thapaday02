@@ -715,5 +715,7 @@ seo:
   socialImage: /images/Business Card.jpg
   type: Seo
   addTitleSuffix: false
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
